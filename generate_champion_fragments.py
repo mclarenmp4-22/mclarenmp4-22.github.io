@@ -26,6 +26,21 @@ def clean_stem(path: Path) -> str:
     return stem
 
 
+def file_slug(path: Path) -> str:
+    stem = clean_stem(path)
+    stem = stem.lower()
+    stem = stem.replace("_", "-")
+    stem = re.sub(r"[^a-z0-9-]+", "-", stem)
+    stem = re.sub(r"-+", "-", stem).strip("-")
+    return stem
+
+
+def text_slug(value: str) -> str:
+    value = value.lower().strip()
+    value = re.sub(r"[^a-z0-9]+", "-", value)
+    return value.strip("-")
+
+
 def source_images(folder: Path) -> list[Path]:
     images = []
     for path in sorted(folder.glob("*.webp")):
@@ -53,7 +68,7 @@ def generate_manifest(folder_name: str, category: str, output_json: str) -> None
     for image_path in source_images(folder):
         with Image.open(image_path) as image:
             fragments = []
-            base_stem = clean_stem(image_path)
+            base_stem = file_slug(image_path)
             for suffix, box in quarter_boxes(*image.size):
                 fragment_name = f"{base_stem}-{suffix}.webp"
                 fragment_path = folder / fragment_name
@@ -75,6 +90,76 @@ def generate_manifest(folder_name: str, category: str, output_json: str) -> None
 def main() -> None:
     generate_manifest("drivers", "World Champions", "drivers.json")
     generate_manifest("constructors", "Constructors' Champions", "constructors.json")
+
+
+def rewrite_manifest_with_safe_filenames(folder_name: str, output_json: str) -> None:
+    folder = ROOT / folder_name
+    manifest_path = ROOT / output_json
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    updated = []
+
+    for entry in manifest:
+        old_paths = [ROOT / fragment for fragment in entry["fragments"]]
+        new_fragments = []
+        base = text_slug(entry["name"])
+        suffixes = ["top-left", "top-right", "bottom-left", "bottom-right"]
+        for old_path, suffix in zip(old_paths, suffixes):
+            new_name = f"{base}-{suffix}.webp"
+            new_path = folder / new_name
+            if old_path != new_path and old_path.exists():
+                old_path.replace(new_path)
+            new_fragments.append(f"{folder_name}/{new_name}")
+        updated.append(
+            {
+                "name": entry["name"],
+                "category": entry["category"],
+                "fragments": new_fragments,
+            }
+        )
+
+    manifest_path.write_text(json.dumps(updated, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"{folder_name}: rewrote {len(updated)} entries")
+
+
+def rebuild_manifest_from_fragments(folder_name: str, category: str, output_json: str) -> None:
+    folder = ROOT / folder_name
+    suffixes = ["top-left", "top-right", "bottom-left", "bottom-right"]
+    grouped: dict[str, dict[str, Path]] = {}
+
+    for path in sorted(folder.glob("*.webp")):
+        stem = path.stem
+        for suffix in suffixes:
+            token = f"-{suffix}"
+            if stem.endswith(token):
+                base = stem[: -len(token)]
+                grouped.setdefault(base, {})[suffix] = path
+                break
+
+    manifest = []
+    for base, parts in grouped.items():
+        if any(suffix not in parts for suffix in suffixes):
+            continue
+        display_name = base.replace("_", " ").replace("-", " ").strip()
+        slug = text_slug(display_name)
+        fragments = []
+        for suffix in suffixes:
+            old_path = parts[suffix]
+            new_name = f"{slug}-{suffix}.webp"
+            new_path = folder / new_name
+            if old_path != new_path:
+                old_path.replace(new_path)
+            fragments.append(f"{folder_name}/{new_name}")
+        manifest.append(
+            {
+                "name": re.sub(r"\s+", " ", display_name).strip(),
+                "category": category,
+                "fragments": fragments,
+            }
+        )
+
+    manifest.sort(key=lambda item: item["name"])
+    (ROOT / output_json).write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"{folder_name}: rebuilt {len(manifest)} entries")
 
 
 if __name__ == "__main__":
