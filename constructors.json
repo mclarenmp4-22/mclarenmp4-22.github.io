@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Benetton",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Benetton-top-left.webp",
+      "constructors/Benetton-top-right.webp",
+      "constructors/Benetton-bottom-left.webp",
+      "constructors/Benetton-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Brabham",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Brabham-top-left.webp",
+      "constructors/Brabham-top-right.webp",
+      "constructors/Brabham-bottom-left.webp",
+      "constructors/Brabham-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Brawn GP",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Brawn_GP-top-left.webp",
+      "constructors/Brawn_GP-top-right.webp",
+      "constructors/Brawn_GP-bottom-left.webp",
+      "constructors/Brawn_GP-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "BRM",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/BRM-top-left.webp",
+      "constructors/BRM-top-right.webp",
+      "constructors/BRM-bottom-left.webp",
+      "constructors/BRM-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Cooper",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Cooper-top-left.webp",
+      "constructors/Cooper-top-right.webp",
+      "constructors/Cooper-bottom-left.webp",
+      "constructors/Cooper-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Ferrari",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Ferrari-top-left.webp",
+      "constructors/Ferrari-top-right.webp",
+      "constructors/Ferrari-bottom-left.webp",
+      "constructors/Ferrari-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Lotus",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Lotus-top-left.webp",
+      "constructors/Lotus-top-right.webp",
+      "constructors/Lotus-bottom-left.webp",
+      "constructors/Lotus-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Matra",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Matra-top-left.webp",
+      "constructors/Matra-top-right.webp",
+      "constructors/Matra-bottom-left.webp",
+      "constructors/Matra-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "McLaren",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/McLaren-top-left.webp",
+      "constructors/McLaren-top-right.webp",
+      "constructors/McLaren-bottom-left.webp",
+      "constructors/McLaren-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Mercedes",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Mercedes-top-left.webp",
+      "constructors/Mercedes-top-right.webp",
+      "constructors/Mercedes-bottom-left.webp",
+      "constructors/Mercedes-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Red Bull",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Red_Bull-top-left.webp",
+      "constructors/Red_Bull-top-right.webp",
+      "constructors/Red_Bull-bottom-left.webp",
+      "constructors/Red_Bull-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Renault",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Renault-top-left.webp",
+      "constructors/Renault-top-right.webp",
+      "constructors/Renault-bottom-left.webp",
+      "constructors/Renault-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Tyrrell",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Tyrrell-top-left.webp",
+      "constructors/Tyrrell-top-right.webp",
+      "constructors/Tyrrell-bottom-left.webp",
+      "constructors/Tyrrell-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Vanwall",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Vanwall-top-left.webp",
+      "constructors/Vanwall-top-right.webp",
+      "constructors/Vanwall-bottom-left.webp",
+      "constructors/Vanwall-bottom-right.webp"
+    ]
+  },
+  {
+    "name": "Williams",
+    "category": "Constructors' Champions",
+    "fragments": [
+      "constructors/Williams-top-left.webp",
+      "constructors/Williams-top-right.webp",
+      "constructors/Williams-bottom-left.webp",
+      "constructors/Williams-bottom-right.webp"
+    ]
+  }
+]
