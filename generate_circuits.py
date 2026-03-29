@@ -145,16 +145,29 @@ def main() -> None:
     cur = conn.cursor()
     cur.execute(
         """
+        WITH LatestLocationName AS (
+            SELECT cl.Latitude, cl.Longitude, g.CircuitName
+            FROM CircuitLayouts cl
+            JOIN GrandsPrix g ON g.ID = cl.LastGrandPrixID
+            WHERE cl.LastGrandPrixID = (
+                SELECT MAX(cl2.LastGrandPrixID)
+                FROM CircuitLayouts cl2
+                WHERE cl2.Latitude = cl.Latitude
+                  AND cl2.Longitude = cl.Longitude
+            )
+        )
         SELECT
             cl.ID,
             cl.FirstGrandPrix,
             cl.LastGrandPrix,
             cl.GrandPrixCount,
             cl.SVG,
-            g.CircuitName
+            lln.CircuitName
         FROM CircuitLayouts cl
-        JOIN GrandsPrix g ON g.ID = cl.LastGrandPrixID
-        ORDER BY substr(cl.FirstGrandPrix, 1, 4), g.CircuitName, cl.ID
+        JOIN LatestLocationName lln
+          ON lln.Latitude = cl.Latitude
+         AND lln.Longitude = cl.Longitude
+        ORDER BY substr(cl.FirstGrandPrix, 1, 4), lln.CircuitName, cl.ID
         """
     )
     rows = cur.fetchall()
