@@ -191,7 +191,7 @@ def main() -> None:
         manifest.append(
             {
                 "name": name,
-                "circuit": circuit_name,
+                "category": circuit_name,
                 "fragments": fragments,
             }
         )
