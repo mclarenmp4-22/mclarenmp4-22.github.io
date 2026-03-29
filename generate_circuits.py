@@ -192,6 +192,7 @@ def main() -> None:
             {
                 "name": name,
                 "category": circuit_name,
+                "searchKeywords": f"{circuit_name} ({name})",
                 "fragments": fragments,
             }
         )

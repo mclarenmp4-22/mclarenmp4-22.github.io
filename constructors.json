@@ -7,7 +7,8 @@
       "https://mclarenmp4-22.github.io/constructors/brm-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/brm-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/brm-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "BRM"
   },
   {
     "name": "Benetton",
@@ -17,7 +18,8 @@
       "https://mclarenmp4-22.github.io/constructors/benetton-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/benetton-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/benetton-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Benetton"
   },
   {
     "name": "Brabham",
@@ -27,7 +29,8 @@
       "https://mclarenmp4-22.github.io/constructors/brabham-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/brabham-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/brabham-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Brabham"
   },
   {
     "name": "Brawn GP",
@@ -37,7 +40,8 @@
       "https://mclarenmp4-22.github.io/constructors/brawn-gp-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/brawn-gp-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/brawn-gp-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Brawn GP"
   },
   {
     "name": "Cooper",
@@ -47,7 +51,8 @@
       "https://mclarenmp4-22.github.io/constructors/cooper-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/cooper-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/cooper-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Cooper"
   },
   {
     "name": "Ferrari",
@@ -57,7 +62,8 @@
       "https://mclarenmp4-22.github.io/constructors/ferrari-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/ferrari-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/ferrari-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Ferrari"
   },
   {
     "name": "Lotus",
@@ -67,7 +73,8 @@
       "https://mclarenmp4-22.github.io/constructors/lotus-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/lotus-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/lotus-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Lotus"
   },
   {
     "name": "Matra",
@@ -77,7 +84,8 @@
       "https://mclarenmp4-22.github.io/constructors/matra-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/matra-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/matra-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Matra"
   },
   {
     "name": "McLaren",
@@ -87,7 +95,8 @@
       "https://mclarenmp4-22.github.io/constructors/mclaren-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/mclaren-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/mclaren-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "McLaren"
   },
   {
     "name": "Mercedes",
@@ -97,7 +106,8 @@
       "https://mclarenmp4-22.github.io/constructors/mercedes-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/mercedes-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/mercedes-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Mercedes"
   },
   {
     "name": "Red Bull",
@@ -107,7 +117,8 @@
       "https://mclarenmp4-22.github.io/constructors/red-bull-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/red-bull-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/red-bull-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Red Bull"
   },
   {
     "name": "Renault",
@@ -117,7 +128,8 @@
       "https://mclarenmp4-22.github.io/constructors/renault-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/renault-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/renault-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Renault"
   },
   {
     "name": "Tyrrell",
@@ -127,7 +139,8 @@
       "https://mclarenmp4-22.github.io/constructors/tyrrell-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/tyrrell-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/tyrrell-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Tyrrell"
   },
   {
     "name": "Vanwall",
@@ -137,7 +150,8 @@
       "https://mclarenmp4-22.github.io/constructors/vanwall-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/vanwall-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/vanwall-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Vanwall"
   },
   {
     "name": "Williams",
@@ -147,6 +161,7 @@
       "https://mclarenmp4-22.github.io/constructors/williams-top-right.webp",
       "https://mclarenmp4-22.github.io/constructors/williams-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/williams-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Williams"
   }
 ]

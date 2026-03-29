@@ -5,7 +5,8 @@
     "fragments": [
       "circuits/1950-1954-autodromo-nazionale-monza-100-left.webp",
       "circuits/1950-1954-autodromo-nazionale-monza-100-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Nazionale Monza (1950-1954)"
   },
   {
     "name": "1950-1954",
@@ -13,14 +14,16 @@
     "fragments": [
       "circuits/1950-1954-circuit-bremgarten-19-left.webp",
       "circuits/1950-1954-circuit-bremgarten-19-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Bremgarten (1950-1954)"
   },
   {
     "name": "1950",
     "category": "Circuit de Monaco",
     "fragments": [
       "circuits/1950-circuit-de-monaco-81-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (1950)"
   },
   {
     "name": "1950-1970",
@@ -28,7 +31,8 @@
     "fragments": [
       "circuits/1950-1970-circuit-de-spa-francorchamps-150-left.webp",
       "circuits/1950-1970-circuit-de-spa-francorchamps-150-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Spa-Francorchamps (1950-1970)"
   },
   {
     "name": "1950-1960",
@@ -36,21 +40,24 @@
     "fragments": [
       "circuits/1950-1960-indianapolis-motor-speedway-48-left.webp",
       "circuits/1950-1960-indianapolis-motor-speedway-48-right.webp"
-    ]
+    ],
+    "searchKeywords": "Indianapolis Motor Speedway (1950-1960)"
   },
   {
     "name": "1950-1951",
     "category": "Reims-Gueux",
     "fragments": [
       "circuits/1950-1951-reims-gueux-124-full.webp"
-    ]
+    ],
+    "searchKeywords": "Reims-Gueux (1950-1951)"
   },
   {
     "name": "1950-1951",
     "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1950-1951-silverstone-circuit-135-full.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (1950-1951)"
   },
   {
     "name": "1951-1976",
@@ -60,14 +67,16 @@
       "circuits/1951-1976-n-rburgring-112-top-right.webp",
       "circuits/1951-1976-n-rburgring-112-bottom-left.webp",
       "circuits/1951-1976-n-rburgring-112-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Nürburgring (1951-1976)"
   },
   {
     "name": "1951-1954",
     "category": "Pedralbes Circuit",
     "fragments": [
       "circuits/1951-1954-pedralbes-circuit-118-full.webp"
-    ]
+    ],
+    "searchKeywords": "Pedralbes Circuit (1951-1954)"
   },
   {
     "name": "1952-1971",
@@ -75,14 +84,16 @@
     "fragments": [
       "circuits/1952-1971-circuit-park-zandvoort-164-left.webp",
       "circuits/1952-1971-circuit-park-zandvoort-164-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Park Zandvoort (1952-1971)"
   },
   {
     "name": "1952",
     "category": "Rouen-Les-Essarts",
     "fragments": [
       "circuits/1952-rouen-les-essarts-127-full.webp"
-    ]
+    ],
+    "searchKeywords": "Rouen-Les-Essarts (1952)"
   },
   {
     "name": "1952-1973",
@@ -90,7 +101,8 @@
     "fragments": [
       "circuits/1952-1973-silverstone-circuit-136-left.webp",
       "circuits/1952-1973-silverstone-circuit-136-right.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (1952-1973)"
   },
   {
     "name": "1953-1960",
@@ -98,7 +110,8 @@
     "fragments": [
       "circuits/1953-1960-aut-dromo-oscar-alfredo-g-lvez-20-left.webp",
       "circuits/1953-1960-aut-dromo-oscar-alfredo-g-lvez-20-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo Oscar Alfredo Gálvez (1953-1960)"
   },
   {
     "name": "1953-1966",
@@ -106,7 +119,8 @@
     "fragments": [
       "circuits/1953-1966-reims-gueux-125-left.webp",
       "circuits/1953-1966-reims-gueux-125-right.webp"
-    ]
+    ],
+    "searchKeywords": "Reims-Gueux (1953-1966)"
   },
   {
     "name": "1955-1962",
@@ -114,14 +128,16 @@
     "fragments": [
       "circuits/1955-1962-aintree-motor-racing-circuit-4-left.webp",
       "circuits/1955-1962-aintree-motor-racing-circuit-4-right.webp"
-    ]
+    ],
+    "searchKeywords": "Aintree Motor Racing Circuit (1955-1962)"
   },
   {
     "name": "1955-1961",
     "category": "Autodromo Nazionale Monza",
     "fragments": [
       "circuits/1955-1961-autodromo-nazionale-monza-101-full.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Nazionale Monza (1955-1961)"
   },
   {
     "name": "1955-1962",
@@ -129,7 +145,8 @@
     "fragments": [
       "circuits/1955-1962-circuit-de-monaco-82-left.webp",
       "circuits/1955-1962-circuit-de-monaco-82-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (1955-1962)"
   },
   {
     "name": "1957-1971",
@@ -137,63 +154,72 @@
     "fragments": [
       "circuits/1957-1971-autodromo-nazionale-monza-102-left.webp",
       "circuits/1957-1971-autodromo-nazionale-monza-102-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Nazionale Monza (1957-1971)"
   },
   {
     "name": "1957",
     "category": "Pescara Circuit",
     "fragments": [
       "circuits/1957-pescara-circuit-119-full.webp"
-    ]
+    ],
+    "searchKeywords": "Pescara Circuit (1957)"
   },
   {
     "name": "1957-1968",
     "category": "Rouen-Les-Essarts",
     "fragments": [
       "circuits/1957-1968-rouen-les-essarts-128-full.webp"
-    ]
+    ],
+    "searchKeywords": "Rouen-Les-Essarts (1957-1968)"
   },
   {
     "name": "1958",
     "category": "Ain-Diab Circuit",
     "fragments": [
       "circuits/1958-ain-diab-circuit-3-full.webp"
-    ]
+    ],
+    "searchKeywords": "Ain-Diab Circuit (1958)"
   },
   {
     "name": "1958-1960",
     "category": "Circuito da Boavista",
     "fragments": [
       "circuits/1958-1960-circuito-da-boavista-123-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuito da Boavista (1958-1960)"
   },
   {
     "name": "1959",
     "category": "AVUS",
     "fragments": [
       "circuits/1959-avus-9-full.webp"
-    ]
+    ],
+    "searchKeywords": "AVUS (1959)"
   },
   {
     "name": "1959",
     "category": "Circuito de Monsanto",
     "fragments": [
       "circuits/1959-circuito-de-monsanto-90-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuito de Monsanto (1959)"
   },
   {
     "name": "1959",
     "category": "Sebring International Raceway",
     "fragments": [
       "circuits/1959-sebring-international-raceway-133-full.webp"
-    ]
+    ],
+    "searchKeywords": "Sebring International Raceway (1959)"
   },
   {
     "name": "1960",
     "category": "Riverside International Raceway",
     "fragments": [
       "circuits/1960-riverside-international-raceway-126-full.webp"
-    ]
+    ],
+    "searchKeywords": "Riverside International Raceway (1960)"
   },
   {
     "name": "1961-1970",
@@ -201,14 +227,16 @@
     "fragments": [
       "circuits/1961-1970-watkins-glen-international-158-left.webp",
       "circuits/1961-1970-watkins-glen-international-158-right.webp"
-    ]
+    ],
+    "searchKeywords": "Watkins Glen International (1961-1970)"
   },
   {
     "name": "1962-1965",
     "category": "Prince George Circuit",
     "fragments": [
       "circuits/1962-1965-prince-george-circuit-32-full.webp"
-    ]
+    ],
+    "searchKeywords": "Prince George Circuit (1962-1965)"
   },
   {
     "name": "1963-1970",
@@ -216,7 +244,8 @@
     "fragments": [
       "circuits/1963-1970-aut-dromo-hermanos-rodr-guez-77-left.webp",
       "circuits/1963-1970-aut-dromo-hermanos-rodr-guez-77-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo Hermanos Rodríguez (1963-1970)"
   },
   {
     "name": "1963-1971",
@@ -224,7 +253,8 @@
     "fragments": [
       "circuits/1963-1971-circuit-de-monaco-83-left.webp",
       "circuits/1963-1971-circuit-de-monaco-83-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (1963-1971)"
   },
   {
     "name": "1964-1974",
@@ -232,28 +262,32 @@
     "fragments": [
       "circuits/1964-1974-brands-hatch-17-left.webp",
       "circuits/1964-1974-brands-hatch-17-right.webp"
-    ]
+    ],
+    "searchKeywords": "Brands Hatch (1964-1974)"
   },
   {
     "name": "1964",
     "category": "Zeltweg",
     "fragments": [
       "circuits/1964-zeltweg-169-full.webp"
-    ]
+    ],
+    "searchKeywords": "Zeltweg (1964)"
   },
   {
     "name": "1965-1972",
     "category": "Circuit de Charade",
     "fragments": [
       "circuits/1965-1972-circuit-de-charade-25-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Charade (1965-1972)"
   },
   {
     "name": "1967",
     "category": "Bugatti Circuit",
     "fragments": [
       "circuits/1967-bugatti-circuit-66-full.webp"
-    ]
+    ],
+    "searchKeywords": "Bugatti Circuit (1967)"
   },
   {
     "name": "1967-1985",
@@ -261,7 +295,8 @@
     "fragments": [
       "circuits/1967-1985-kyalami-racing-circuit-60-left.webp",
       "circuits/1967-1985-kyalami-racing-circuit-60-right.webp"
-    ]
+    ],
+    "searchKeywords": "Kyalami Racing Circuit (1967-1985)"
   },
   {
     "name": "1967-1977",
@@ -269,14 +304,16 @@
     "fragments": [
       "circuits/1967-1977-mosport-park-108-left.webp",
       "circuits/1967-1977-mosport-park-108-right.webp"
-    ]
+    ],
+    "searchKeywords": "Mosport Park (1967-1977)"
   },
   {
     "name": "1968-1970",
     "category": "Circuit Mont-Tremblant",
     "fragments": [
       "circuits/1968-1970-circuit-mont-tremblant-91-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Mont-Tremblant (1968-1970)"
   },
   {
     "name": "1968-1979",
@@ -284,14 +321,16 @@
     "fragments": [
       "circuits/1968-1979-circuito-del-jarama-54-left.webp",
       "circuits/1968-1979-circuito-del-jarama-54-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuito del Jarama (1968-1979)"
   },
   {
     "name": "1969-1975",
     "category": "Circuito de Montjuïc",
     "fragments": [
       "circuits/1969-1975-circuito-de-montju-c-92-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuito de Montjuïc (1969-1975)"
   },
   {
     "name": "1970-1981",
@@ -299,7 +338,8 @@
     "fragments": [
       "circuits/1970-1981-hockenheimring-37-left.webp",
       "circuits/1970-1981-hockenheimring-37-right.webp"
-    ]
+    ],
+    "searchKeywords": "Hockenheimring (1970-1981)"
   },
   {
     "name": "1970-1976",
@@ -307,7 +347,8 @@
     "fragments": [
       "circuits/1970-1976-sterreichring-116-left.webp",
       "circuits/1970-1976-sterreichring-116-right.webp"
-    ]
+    ],
+    "searchKeywords": "Österreichring (1970-1976)"
   },
   {
     "name": "1971-1985",
@@ -315,49 +356,56 @@
     "fragments": [
       "circuits/1971-1985-circuit-paul-ricard-63-left.webp",
       "circuits/1971-1985-circuit-paul-ricard-63-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Paul Ricard (1971-1985)"
   },
   {
     "name": "1971-1974",
     "category": "Watkins Glen International",
     "fragments": [
       "circuits/1971-1974-watkins-glen-international-159-full.webp"
-    ]
+    ],
+    "searchKeywords": "Watkins Glen International (1971-1974)"
   },
   {
     "name": "1972-1973",
     "category": "Autodromo Nazionale Monza",
     "fragments": [
       "circuits/1972-1973-autodromo-nazionale-monza-103-full.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Nazionale Monza (1972-1973)"
   },
   {
     "name": "1972-1973",
     "category": "Autódromo Oscar Alfredo Gálvez",
     "fragments": [
       "circuits/1972-1973-aut-dromo-oscar-alfredo-g-lvez-21-full.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo Oscar Alfredo Gálvez (1972-1973)"
   },
   {
     "name": "1972",
     "category": "Circuit de Monaco",
     "fragments": [
       "circuits/1972-circuit-de-monaco-84-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (1972)"
   },
   {
     "name": "1972-1974",
     "category": "Nivelles-Baulers",
     "fragments": [
       "circuits/1972-1974-nivelles-baulers-111-full.webp"
-    ]
+    ],
+    "searchKeywords": "Nivelles-Baulers (1972-1974)"
   },
   {
     "name": "1973",
     "category": "Anderstorp Raceway",
     "fragments": [
       "circuits/1973-anderstorp-raceway-5-full.webp"
-    ]
+    ],
+    "searchKeywords": "Anderstorp Raceway (1973)"
   },
   {
     "name": "1973-1980",
@@ -365,7 +413,8 @@
     "fragments": [
       "circuits/1973-1980-aut-dromo-jos-carlos-pace-50-left.webp",
       "circuits/1973-1980-aut-dromo-jos-carlos-pace-50-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo José Carlos Pace (1973-1980)"
   },
   {
     "name": "1973-1978",
@@ -373,35 +422,40 @@
     "fragments": [
       "circuits/1973-1978-circuit-park-zandvoort-165-left.webp",
       "circuits/1973-1978-circuit-park-zandvoort-165-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Park Zandvoort (1973-1978)"
   },
   {
     "name": "1973",
     "category": "Circuit Zolder",
     "fragments": [
       "circuits/1973-circuit-zolder-170-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Zolder (1973)"
   },
   {
     "name": "1973-1975",
     "category": "Circuit de Monaco",
     "fragments": [
       "circuits/1973-1975-circuit-de-monaco-85-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (1973-1975)"
   },
   {
     "name": "1974-1977",
     "category": "Anderstorp Raceway",
     "fragments": [
       "circuits/1974-1977-anderstorp-raceway-6-full.webp"
-    ]
+    ],
+    "searchKeywords": "Anderstorp Raceway (1974-1977)"
   },
   {
     "name": "1974-1975",
     "category": "Autodromo Nazionale Monza",
     "fragments": [
       "circuits/1974-1975-autodromo-nazionale-monza-104-full.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Nazionale Monza (1974-1975)"
   },
   {
     "name": "1974-1981",
@@ -409,14 +463,16 @@
     "fragments": [
       "circuits/1974-1981-aut-dromo-oscar-alfredo-g-lvez-22-left.webp",
       "circuits/1974-1981-aut-dromo-oscar-alfredo-g-lvez-22-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo Oscar Alfredo Gálvez (1974-1981)"
   },
   {
     "name": "1974",
     "category": "Dijon-Prenois",
     "fragments": [
       "circuits/1974-dijon-prenois-29-full.webp"
-    ]
+    ],
+    "searchKeywords": "Dijon-Prenois (1974)"
   },
   {
     "name": "1975-1984",
@@ -424,7 +480,8 @@
     "fragments": [
       "circuits/1975-1984-circuit-zolder-171-left.webp",
       "circuits/1975-1984-circuit-zolder-171-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Zolder (1975-1984)"
   },
   {
     "name": "1975-1985",
@@ -432,7 +489,8 @@
     "fragments": [
       "circuits/1975-1985-silverstone-circuit-137-left.webp",
       "circuits/1975-1985-silverstone-circuit-137-right.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (1975-1985)"
   },
   {
     "name": "1975-1980",
@@ -440,7 +498,8 @@
     "fragments": [
       "circuits/1975-1980-watkins-glen-international-160-left.webp",
       "circuits/1975-1980-watkins-glen-international-160-right.webp"
-    ]
+    ],
+    "searchKeywords": "Watkins Glen International (1975-1980)"
   },
   {
     "name": "1976-1994",
@@ -448,7 +507,8 @@
     "fragments": [
       "circuits/1976-1994-autodromo-nazionale-monza-105-left.webp",
       "circuits/1976-1994-autodromo-nazionale-monza-105-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Nazionale Monza (1976-1994)"
   },
   {
     "name": "1976-1986",
@@ -456,7 +516,8 @@
     "fragments": [
       "circuits/1976-1986-brands-hatch-18-left.webp",
       "circuits/1976-1986-brands-hatch-18-right.webp"
-    ]
+    ],
+    "searchKeywords": "Brands Hatch (1976-1986)"
   },
   {
     "name": "1976-1985",
@@ -464,21 +525,24 @@
     "fragments": [
       "circuits/1976-1985-circuit-de-monaco-86-left.webp",
       "circuits/1976-1985-circuit-de-monaco-86-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (1976-1985)"
   },
   {
     "name": "1976-1977",
     "category": "Fuji Speedway",
     "fragments": [
       "circuits/1976-1977-fuji-speedway-35-full.webp"
-    ]
+    ],
+    "searchKeywords": "Fuji Speedway (1976-1977)"
   },
   {
     "name": "1976-1977",
     "category": "Long Beach",
     "fragments": [
       "circuits/1976-1977-long-beach-67-full.webp"
-    ]
+    ],
+    "searchKeywords": "Long Beach (1976-1977)"
   },
   {
     "name": "1977-1984",
@@ -486,7 +550,8 @@
     "fragments": [
       "circuits/1977-1984-dijon-prenois-30-left.webp",
       "circuits/1977-1984-dijon-prenois-30-right.webp"
-    ]
+    ],
+    "searchKeywords": "Dijon-Prenois (1977-1984)"
   },
   {
     "name": "1977-1987",
@@ -494,14 +559,16 @@
     "fragments": [
       "circuits/1977-1987-sterreichring-117-left.webp",
       "circuits/1977-1987-sterreichring-117-right.webp"
-    ]
+    ],
+    "searchKeywords": "Österreichring (1977-1987)"
   },
   {
     "name": "1978",
     "category": "Anderstorp Raceway",
     "fragments": [
       "circuits/1978-anderstorp-raceway-7-full.webp"
-    ]
+    ],
+    "searchKeywords": "Anderstorp Raceway (1978)"
   },
   {
     "name": "1978-1989",
@@ -509,21 +576,24 @@
     "fragments": [
       "circuits/1978-1989-aut-dromo-internacional-nelson-piquet-53-left.webp",
       "circuits/1978-1989-aut-dromo-internacional-nelson-piquet-53-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo Internacional Nelson Piquet (1978-1989)"
   },
   {
     "name": "1978",
     "category": "Circuit Gilles Villeneuve",
     "fragments": [
       "circuits/1978-circuit-gilles-villeneuve-93-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Gilles Villeneuve (1978)"
   },
   {
     "name": "1978-1981",
     "category": "Long Beach",
     "fragments": [
       "circuits/1978-1981-long-beach-68-full.webp"
-    ]
+    ],
+    "searchKeywords": "Long Beach (1978-1981)"
   },
   {
     "name": "1979-1986",
@@ -531,14 +601,16 @@
     "fragments": [
       "circuits/1979-1986-circuit-gilles-villeneuve-94-left.webp",
       "circuits/1979-1986-circuit-gilles-villeneuve-94-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Gilles Villeneuve (1979-1986)"
   },
   {
     "name": "1979",
     "category": "Circuit Park Zandvoort",
     "fragments": [
       "circuits/1979-circuit-park-zandvoort-166-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Park Zandvoort (1979)"
   },
   {
     "name": "1980-1994",
@@ -546,7 +618,8 @@
     "fragments": [
       "circuits/1980-1994-autodromo-enzo-e-dino-ferrari-45-left.webp",
       "circuits/1980-1994-autodromo-enzo-e-dino-ferrari-45-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Enzo e Dino Ferrari (1980-1994)"
   },
   {
     "name": "1980-1985",
@@ -554,28 +627,32 @@
     "fragments": [
       "circuits/1980-1985-circuit-park-zandvoort-167-left.webp",
       "circuits/1980-1985-circuit-park-zandvoort-167-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Park Zandvoort (1980-1985)"
   },
   {
     "name": "1981-1982",
     "category": "Caesars Palace",
     "fragments": [
       "circuits/1981-1982-caesars-palace-24-full.webp"
-    ]
+    ],
+    "searchKeywords": "Caesars Palace (1981-1982)"
   },
   {
     "name": "1981",
     "category": "Circuito del Jarama",
     "fragments": [
       "circuits/1981-circuito-del-jarama-55-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuito del Jarama (1981)"
   },
   {
     "name": "1982",
     "category": "Detroit Street Circuit",
     "fragments": [
       "circuits/1982-detroit-street-circuit-27-full.webp"
-    ]
+    ],
+    "searchKeywords": "Detroit Street Circuit (1982)"
   },
   {
     "name": "1982-1989",
@@ -583,14 +660,16 @@
     "fragments": [
       "circuits/1982-1989-hockenheimring-38-left.webp",
       "circuits/1982-1989-hockenheimring-38-right.webp"
-    ]
+    ],
+    "searchKeywords": "Hockenheimring (1982-1989)"
   },
   {
     "name": "1982",
     "category": "Long Beach",
     "fragments": [
       "circuits/1982-long-beach-69-full.webp"
-    ]
+    ],
+    "searchKeywords": "Long Beach (1982)"
   },
   {
     "name": "1983-2002",
@@ -598,7 +677,8 @@
     "fragments": [
       "circuits/1983-2002-circuit-de-spa-francorchamps-151-left.webp",
       "circuits/1983-2002-circuit-de-spa-francorchamps-151-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Spa-Francorchamps (1983-2002)"
   },
   {
     "name": "1983-1988",
@@ -606,14 +686,16 @@
     "fragments": [
       "circuits/1983-1988-detroit-street-circuit-28-left.webp",
       "circuits/1983-1988-detroit-street-circuit-28-right.webp"
-    ]
+    ],
+    "searchKeywords": "Detroit Street Circuit (1983-1988)"
   },
   {
     "name": "1983",
     "category": "Long Beach",
     "fragments": [
       "circuits/1983-long-beach-70-full.webp"
-    ]
+    ],
+    "searchKeywords": "Long Beach (1983)"
   },
   {
     "name": "1984-1993",
@@ -621,21 +703,24 @@
     "fragments": [
       "circuits/1984-1993-aut-dromo-do-estoril-33-left.webp",
       "circuits/1984-1993-aut-dromo-do-estoril-33-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo do Estoril (1984-1993)"
   },
   {
     "name": "1984",
     "category": "Fair Park",
     "fragments": [
       "circuits/1984-fair-park-26-full.webp"
-    ]
+    ],
+    "searchKeywords": "Fair Park (1984)"
   },
   {
     "name": "1984-1985",
     "category": "Nürburgring",
     "fragments": [
       "circuits/1984-1985-n-rburgring-113-full.webp"
-    ]
+    ],
+    "searchKeywords": "Nürburgring (1984-1985)"
   },
   {
     "name": "1985-1995",
@@ -643,7 +728,8 @@
     "fragments": [
       "circuits/1985-1995-adelaide-street-circuit-1-left.webp",
       "circuits/1985-1995-adelaide-street-circuit-1-right.webp"
-    ]
+    ],
+    "searchKeywords": "Adelaide Street Circuit (1985-1995)"
   },
   {
     "name": "1986-1992",
@@ -651,7 +737,8 @@
     "fragments": [
       "circuits/1986-1992-aut-dromo-hermanos-rodr-guez-78-left.webp",
       "circuits/1986-1992-aut-dromo-hermanos-rodr-guez-78-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo Hermanos Rodríguez (1986-1992)"
   },
   {
     "name": "1986-1990",
@@ -659,7 +746,8 @@
     "fragments": [
       "circuits/1986-1990-circuit-paul-ricard-64-left.webp",
       "circuits/1986-1990-circuit-paul-ricard-64-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Paul Ricard (1986-1990)"
   },
   {
     "name": "1986-1996",
@@ -667,7 +755,8 @@
     "fragments": [
       "circuits/1986-1996-circuit-de-monaco-87-left.webp",
       "circuits/1986-1996-circuit-de-monaco-87-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (1986-1996)"
   },
   {
     "name": "1986-1990",
@@ -675,21 +764,24 @@
     "fragments": [
       "circuits/1986-1990-circuito-de-jerez-57-left.webp",
       "circuits/1986-1990-circuito-de-jerez-57-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuito de Jerez (1986-1990)"
   },
   {
     "name": "1986-1988",
     "category": "Hungaroring",
     "fragments": [
       "circuits/1986-1988-hungaroring-42-full.webp"
-    ]
+    ],
+    "searchKeywords": "Hungaroring (1986-1988)"
   },
   {
     "name": "1987-1990",
     "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1987-1990-silverstone-circuit-138-full.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (1987-1990)"
   },
   {
     "name": "1987-2002",
@@ -697,14 +789,16 @@
     "fragments": [
       "circuits/1987-2002-suzuka-circuit-155-left.webp",
       "circuits/1987-2002-suzuka-circuit-155-right.webp"
-    ]
+    ],
+    "searchKeywords": "Suzuka Circuit (1987-2002)"
   },
   {
     "name": "1988-1990",
     "category": "Circuit Gilles Villeneuve",
     "fragments": [
       "circuits/1988-1990-circuit-gilles-villeneuve-95-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Gilles Villeneuve (1988-1990)"
   },
   {
     "name": "1989-2002",
@@ -712,14 +806,16 @@
     "fragments": [
       "circuits/1989-2002-hungaroring-43-left.webp",
       "circuits/1989-2002-hungaroring-43-right.webp"
-    ]
+    ],
+    "searchKeywords": "Hungaroring (1989-2002)"
   },
   {
     "name": "1989-1990",
     "category": "Phoenix Street Circuit",
     "fragments": [
       "circuits/1989-1990-phoenix-street-circuit-120-full.webp"
-    ]
+    ],
+    "searchKeywords": "Phoenix Street Circuit (1989-1990)"
   },
   {
     "name": "1990-2025",
@@ -729,49 +825,56 @@
       "circuits/1990-2025-aut-dromo-jos-carlos-pace-51-top-right.webp",
       "circuits/1990-2025-aut-dromo-jos-carlos-pace-51-bottom-left.webp",
       "circuits/1990-2025-aut-dromo-jos-carlos-pace-51-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo José Carlos Pace (1990-2025)"
   },
   {
     "name": "1990-1991",
     "category": "Hockenheimring",
     "fragments": [
       "circuits/1990-1991-hockenheimring-39-full.webp"
-    ]
+    ],
+    "searchKeywords": "Hockenheimring (1990-1991)"
   },
   {
     "name": "1991-1993",
     "category": "Circuit Gilles Villeneuve",
     "fragments": [
       "circuits/1991-1993-circuit-gilles-villeneuve-96-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Gilles Villeneuve (1991-1993)"
   },
   {
     "name": "1991-1994",
     "category": "Circuit de Barcelona-Catalunya",
     "fragments": [
       "circuits/1991-1994-circuit-de-barcelona-catalunya-11-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Barcelona-Catalunya (1991-1994)"
   },
   {
     "name": "1991",
     "category": "Circuit de Nevers Magny-Cours",
     "fragments": [
       "circuits/1991-circuit-de-nevers-magny-cours-72-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Nevers Magny-Cours (1991)"
   },
   {
     "name": "1991",
     "category": "Phoenix Street Circuit",
     "fragments": [
       "circuits/1991-phoenix-street-circuit-121-full.webp"
-    ]
+    ],
+    "searchKeywords": "Phoenix Street Circuit (1991)"
   },
   {
     "name": "1991-1993",
     "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1991-1993-silverstone-circuit-139-full.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (1991-1993)"
   },
   {
     "name": "1992-2002",
@@ -779,7 +882,8 @@
     "fragments": [
       "circuits/1992-2002-circuit-de-nevers-magny-cours-73-left.webp",
       "circuits/1992-2002-circuit-de-nevers-magny-cours-73-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Nevers Magny-Cours (1992-2002)"
   },
   {
     "name": "1992-2001",
@@ -787,56 +891,64 @@
     "fragments": [
       "circuits/1992-2001-hockenheimring-40-left.webp",
       "circuits/1992-2001-hockenheimring-40-right.webp"
-    ]
+    ],
+    "searchKeywords": "Hockenheimring (1992-2001)"
   },
   {
     "name": "1992-1993",
     "category": "Kyalami Racing Circuit",
     "fragments": [
       "circuits/1992-1993-kyalami-racing-circuit-61-full.webp"
-    ]
+    ],
+    "searchKeywords": "Kyalami Racing Circuit (1992-1993)"
   },
   {
     "name": "1993",
     "category": "Donington Park",
     "fragments": [
       "circuits/1993-donington-park-31-full.webp"
-    ]
+    ],
+    "searchKeywords": "Donington Park (1993)"
   },
   {
     "name": "1994-1996",
     "category": "Autódromo do Estoril",
     "fragments": [
       "circuits/1994-1996-aut-dromo-do-estoril-34-full.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo do Estoril (1994-1996)"
   },
   {
     "name": "1994-1995",
     "category": "Circuit Gilles Villeneuve",
     "fragments": [
       "circuits/1994-1995-circuit-gilles-villeneuve-97-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Gilles Villeneuve (1994-1995)"
   },
   {
     "name": "1994-1997",
     "category": "Circuito de Jerez",
     "fragments": [
       "circuits/1994-1997-circuito-de-jerez-58-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuito de Jerez (1994-1997)"
   },
   {
     "name": "1994-1995",
     "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1994-1995-silverstone-circuit-140-full.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (1994-1995)"
   },
   {
     "name": "1994-1995",
     "category": "TI Circuit Aida",
     "fragments": [
       "circuits/1994-1995-ti-circuit-aida-2-full.webp"
-    ]
+    ],
+    "searchKeywords": "TI Circuit Aida (1994-1995)"
   },
   {
     "name": "1995-2006",
@@ -844,7 +956,8 @@
     "fragments": [
       "circuits/1995-2006-autodromo-enzo-e-dino-ferrari-46-left.webp",
       "circuits/1995-2006-autodromo-enzo-e-dino-ferrari-46-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Enzo e Dino Ferrari (1995-2006)"
   },
   {
     "name": "1995-1999",
@@ -852,14 +965,16 @@
     "fragments": [
       "circuits/1995-1999-autodromo-nazionale-monza-106-left.webp",
       "circuits/1995-1999-autodromo-nazionale-monza-106-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Nazionale Monza (1995-1999)"
   },
   {
     "name": "1995-1998",
     "category": "Autódromo Oscar Alfredo Gálvez",
     "fragments": [
       "circuits/1995-1998-aut-dromo-oscar-alfredo-g-lvez-23-full.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo Oscar Alfredo Gálvez (1995-1998)"
   },
   {
     "name": "1995-2003",
@@ -867,7 +982,8 @@
     "fragments": [
       "circuits/1995-2003-circuit-de-barcelona-catalunya-12-left.webp",
       "circuits/1995-2003-circuit-de-barcelona-catalunya-12-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Barcelona-Catalunya (1995-2003)"
   },
   {
     "name": "1995-2001",
@@ -875,7 +991,8 @@
     "fragments": [
       "circuits/1995-2001-n-rburgring-114-left.webp",
       "circuits/1995-2001-n-rburgring-114-right.webp"
-    ]
+    ],
+    "searchKeywords": "Nürburgring (1995-2001)"
   },
   {
     "name": "1996-2001",
@@ -883,7 +1000,8 @@
     "fragments": [
       "circuits/1996-2001-circuit-gilles-villeneuve-98-left.webp",
       "circuits/1996-2001-circuit-gilles-villeneuve-98-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Gilles Villeneuve (1996-2001)"
   },
   {
     "name": "1996-2019",
@@ -893,14 +1011,16 @@
       "circuits/1996-2019-melbourne-grand-prix-circuit-75-top-right.webp",
       "circuits/1996-2019-melbourne-grand-prix-circuit-75-bottom-left.webp",
       "circuits/1996-2019-melbourne-grand-prix-circuit-75-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Melbourne Grand Prix Circuit (1996-2019)"
   },
   {
     "name": "1996",
     "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1996-silverstone-circuit-141-full.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (1996)"
   },
   {
     "name": "1997-2002",
@@ -908,7 +1028,8 @@
     "fragments": [
       "circuits/1997-2002-circuit-de-monaco-88-left.webp",
       "circuits/1997-2002-circuit-de-monaco-88-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (1997-2002)"
   },
   {
     "name": "1997-2025",
@@ -918,7 +1039,8 @@
       "circuits/1997-2025-red-bull-ring-154-top-right.webp",
       "circuits/1997-2025-red-bull-ring-154-bottom-left.webp",
       "circuits/1997-2025-red-bull-ring-154-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Red Bull Ring (1997-2025)"
   },
   {
     "name": "1997-2009",
@@ -926,7 +1048,8 @@
     "fragments": [
       "circuits/1997-2009-silverstone-circuit-142-left.webp",
       "circuits/1997-2009-silverstone-circuit-142-right.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (1997-2009)"
   },
   {
     "name": "1999-2017",
@@ -934,7 +1057,8 @@
     "fragments": [
       "circuits/1999-2017-sepang-international-circuit-59-left.webp",
       "circuits/1999-2017-sepang-international-circuit-59-right.webp"
-    ]
+    ],
+    "searchKeywords": "Sepang International Circuit (1999-2017)"
   },
   {
     "name": "2000-2025",
@@ -944,7 +1068,8 @@
       "circuits/2000-2025-autodromo-nazionale-monza-107-top-right.webp",
       "circuits/2000-2025-autodromo-nazionale-monza-107-bottom-left.webp",
       "circuits/2000-2025-autodromo-nazionale-monza-107-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Nazionale Monza (2000-2025)"
   },
   {
     "name": "2000-2007",
@@ -952,7 +1077,8 @@
     "fragments": [
       "circuits/2000-2007-indianapolis-motor-speedway-49-left.webp",
       "circuits/2000-2007-indianapolis-motor-speedway-49-right.webp"
-    ]
+    ],
+    "searchKeywords": "Indianapolis Motor Speedway (2000-2007)"
   },
   {
     "name": "2002-2025",
@@ -962,7 +1088,8 @@
       "circuits/2002-2025-circuit-gilles-villeneuve-99-top-right.webp",
       "circuits/2002-2025-circuit-gilles-villeneuve-99-bottom-left.webp",
       "circuits/2002-2025-circuit-gilles-villeneuve-99-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Gilles Villeneuve (2002-2025)"
   },
   {
     "name": "2002-2019",
@@ -970,7 +1097,8 @@
     "fragments": [
       "circuits/2002-2019-hockenheimring-41-left.webp",
       "circuits/2002-2019-hockenheimring-41-right.webp"
-    ]
+    ],
+    "searchKeywords": "Hockenheimring (2002-2019)"
   },
   {
     "name": "2002-2020",
@@ -978,7 +1106,8 @@
     "fragments": [
       "circuits/2002-2020-n-rburgring-115-left.webp",
       "circuits/2002-2020-n-rburgring-115-right.webp"
-    ]
+    ],
+    "searchKeywords": "Nürburgring (2002-2020)"
   },
   {
     "name": "2003-2025",
@@ -988,7 +1117,8 @@
       "circuits/2003-2025-circuit-de-monaco-89-top-right.webp",
       "circuits/2003-2025-circuit-de-monaco-89-bottom-left.webp",
       "circuits/2003-2025-circuit-de-monaco-89-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Monaco (2003-2025)"
   },
   {
     "name": "2003-2008",
@@ -996,7 +1126,8 @@
     "fragments": [
       "circuits/2003-2008-circuit-de-nevers-magny-cours-74-left.webp",
       "circuits/2003-2008-circuit-de-nevers-magny-cours-74-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Nevers Magny-Cours (2003-2008)"
   },
   {
     "name": "2003-2025",
@@ -1006,7 +1137,8 @@
       "circuits/2003-2025-hungaroring-44-top-right.webp",
       "circuits/2003-2025-hungaroring-44-bottom-left.webp",
       "circuits/2003-2025-hungaroring-44-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Hungaroring (2003-2025)"
   },
   {
     "name": "2003-2025",
@@ -1014,28 +1146,32 @@
     "fragments": [
       "circuits/2003-2025-suzuka-circuit-156-left.webp",
       "circuits/2003-2025-suzuka-circuit-156-right.webp"
-    ]
+    ],
+    "searchKeywords": "Suzuka Circuit (2003-2025)"
   },
   {
     "name": "2004",
     "category": "Bahrain International Circuit",
     "fragments": [
       "circuits/2004-bahrain-international-circuit-129-full.webp"
-    ]
+    ],
+    "searchKeywords": "Bahrain International Circuit (2004)"
   },
   {
     "name": "2004-2006",
     "category": "Circuit de Barcelona-Catalunya",
     "fragments": [
       "circuits/2004-2006-circuit-de-barcelona-catalunya-13-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Barcelona-Catalunya (2004-2006)"
   },
   {
     "name": "2004-2005",
     "category": "Circuit de Spa-Francorchamps",
     "fragments": [
       "circuits/2004-2005-circuit-de-spa-francorchamps-152-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Spa-Francorchamps (2004-2005)"
   },
   {
     "name": "2004-2025",
@@ -1043,7 +1179,8 @@
     "fragments": [
       "circuits/2004-2025-shanghai-international-circuit-134-left.webp",
       "circuits/2004-2025-shanghai-international-circuit-134-right.webp"
-    ]
+    ],
+    "searchKeywords": "Shanghai International Circuit (2004-2025)"
   },
   {
     "name": "2005-2025",
@@ -1053,7 +1190,8 @@
       "circuits/2005-2025-bahrain-international-circuit-130-top-right.webp",
       "circuits/2005-2025-bahrain-international-circuit-130-bottom-left.webp",
       "circuits/2005-2025-bahrain-international-circuit-130-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Bahrain International Circuit (2005-2025)"
   },
   {
     "name": "2005-2020",
@@ -1061,7 +1199,8 @@
     "fragments": [
       "circuits/2005-2020-istanbul-park-52-left.webp",
       "circuits/2005-2020-istanbul-park-52-right.webp"
-    ]
+    ],
+    "searchKeywords": "Istanbul Park (2005-2020)"
   },
   {
     "name": "2007-2020",
@@ -1069,7 +1208,8 @@
     "fragments": [
       "circuits/2007-2020-circuit-de-barcelona-catalunya-14-left.webp",
       "circuits/2007-2020-circuit-de-barcelona-catalunya-14-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Barcelona-Catalunya (2007-2020)"
   },
   {
     "name": "2007-2025",
@@ -1079,14 +1219,16 @@
       "circuits/2007-2025-circuit-de-spa-francorchamps-153-top-right.webp",
       "circuits/2007-2025-circuit-de-spa-francorchamps-153-bottom-left.webp",
       "circuits/2007-2025-circuit-de-spa-francorchamps-153-bottom-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Spa-Francorchamps (2007-2025)"
   },
   {
     "name": "2007-2008",
     "category": "Fuji Speedway",
     "fragments": [
       "circuits/2007-2008-fuji-speedway-36-full.webp"
-    ]
+    ],
+    "searchKeywords": "Fuji Speedway (2007-2008)"
   },
   {
     "name": "2008-2012",
@@ -1094,7 +1236,8 @@
     "fragments": [
       "circuits/2008-2012-marina-bay-street-circuit-145-left.webp",
       "circuits/2008-2012-marina-bay-street-circuit-145-right.webp"
-    ]
+    ],
+    "searchKeywords": "Marina Bay Street Circuit (2008-2012)"
   },
   {
     "name": "2008-2012",
@@ -1102,7 +1245,8 @@
     "fragments": [
       "circuits/2008-2012-valencia-street-circuit-157-left.webp",
       "circuits/2008-2012-valencia-street-circuit-157-right.webp"
-    ]
+    ],
+    "searchKeywords": "Valencia Street Circuit (2008-2012)"
   },
   {
     "name": "2009-2020",
@@ -1110,35 +1254,40 @@
     "fragments": [
       "circuits/2009-2020-yas-marina-circuit-161-left.webp",
       "circuits/2009-2020-yas-marina-circuit-161-right.webp"
-    ]
+    ],
+    "searchKeywords": "Yas Marina Circuit (2009-2020)"
   },
   {
     "name": "2010",
     "category": "Bahrain International Circuit",
     "fragments": [
       "circuits/2010-bahrain-international-circuit-131-full.webp"
-    ]
+    ],
+    "searchKeywords": "Bahrain International Circuit (2010)"
   },
   {
     "name": "2010-2013",
     "category": "Korea International Circuit",
     "fragments": [
       "circuits/2010-2013-korea-international-circuit-163-full.webp"
-    ]
+    ],
+    "searchKeywords": "Korea International Circuit (2010-2013)"
   },
   {
     "name": "2010",
     "category": "Silverstone Circuit",
     "fragments": [
       "circuits/2010-silverstone-circuit-143-full.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (2010)"
   },
   {
     "name": "2011-2013",
     "category": "Buddh International Circuit",
     "fragments": [
       "circuits/2011-2013-buddh-international-circuit-110-full.webp"
-    ]
+    ],
+    "searchKeywords": "Buddh International Circuit (2011-2013)"
   },
   {
     "name": "2011-2025",
@@ -1146,7 +1295,8 @@
     "fragments": [
       "circuits/2011-2025-silverstone-circuit-144-left.webp",
       "circuits/2011-2025-silverstone-circuit-144-right.webp"
-    ]
+    ],
+    "searchKeywords": "Silverstone Circuit (2011-2025)"
   },
   {
     "name": "2012-2025",
@@ -1154,14 +1304,16 @@
     "fragments": [
       "circuits/2012-2025-circuit-of-the-americas-8-left.webp",
       "circuits/2012-2025-circuit-of-the-americas-8-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit of the Americas (2012-2025)"
   },
   {
     "name": "2013-2014",
     "category": "Marina Bay Street Circuit",
     "fragments": [
       "circuits/2013-2014-marina-bay-street-circuit-146-full.webp"
-    ]
+    ],
+    "searchKeywords": "Marina Bay Street Circuit (2013-2014)"
   },
   {
     "name": "2014-2021",
@@ -1169,7 +1321,8 @@
     "fragments": [
       "circuits/2014-2021-sochi-autodrom-149-left.webp",
       "circuits/2014-2021-sochi-autodrom-149-right.webp"
-    ]
+    ],
+    "searchKeywords": "Sochi Autodrom (2014-2021)"
   },
   {
     "name": "2015-2025",
@@ -1177,7 +1330,8 @@
     "fragments": [
       "circuits/2015-2025-aut-dromo-hermanos-rodr-guez-79-left.webp",
       "circuits/2015-2025-aut-dromo-hermanos-rodr-guez-79-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autódromo Hermanos Rodríguez (2015-2025)"
   },
   {
     "name": "2015-2022",
@@ -1185,7 +1339,8 @@
     "fragments": [
       "circuits/2015-2022-marina-bay-street-circuit-147-left.webp",
       "circuits/2015-2022-marina-bay-street-circuit-147-right.webp"
-    ]
+    ],
+    "searchKeywords": "Marina Bay Street Circuit (2015-2022)"
   },
   {
     "name": "2016-2025",
@@ -1193,7 +1348,8 @@
     "fragments": [
       "circuits/2016-2025-baku-city-circuit-10-left.webp",
       "circuits/2016-2025-baku-city-circuit-10-right.webp"
-    ]
+    ],
+    "searchKeywords": "Baku City Circuit (2016-2025)"
   },
   {
     "name": "2018-2022",
@@ -1201,14 +1357,16 @@
     "fragments": [
       "circuits/2018-2022-circuit-paul-ricard-65-left.webp",
       "circuits/2018-2022-circuit-paul-ricard-65-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Paul Ricard (2018-2022)"
   },
   {
     "name": "2020-2021",
     "category": "Algarve International Circuit",
     "fragments": [
       "circuits/2020-2021-algarve-international-circuit-122-full.webp"
-    ]
+    ],
+    "searchKeywords": "Algarve International Circuit (2020-2021)"
   },
   {
     "name": "2020-2025",
@@ -1216,21 +1374,24 @@
     "fragments": [
       "circuits/2020-2025-autodromo-enzo-e-dino-ferrari-47-left.webp",
       "circuits/2020-2025-autodromo-enzo-e-dino-ferrari-47-right.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Enzo e Dino Ferrari (2020-2025)"
   },
   {
     "name": "2020",
     "category": "Autodromo Internazionale del Mugello",
     "fragments": [
       "circuits/2020-autodromo-internazionale-del-mugello-109-full.webp"
-    ]
+    ],
+    "searchKeywords": "Autodromo Internazionale del Mugello (2020)"
   },
   {
     "name": "2020",
     "category": "Bahrain International Circuit",
     "fragments": [
       "circuits/2020-bahrain-international-circuit-132-full.webp"
-    ]
+    ],
+    "searchKeywords": "Bahrain International Circuit (2020)"
   },
   {
     "name": "2021-2025",
@@ -1238,14 +1399,16 @@
     "fragments": [
       "circuits/2021-2025-circuit-park-zandvoort-168-left.webp",
       "circuits/2021-2025-circuit-park-zandvoort-168-right.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit Park Zandvoort (2021-2025)"
   },
   {
     "name": "2021-2022",
     "category": "Circuit de Barcelona-Catalunya",
     "fragments": [
       "circuits/2021-2022-circuit-de-barcelona-catalunya-15-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Barcelona-Catalunya (2021-2022)"
   },
   {
     "name": "2021-2025",
@@ -1253,14 +1416,16 @@
     "fragments": [
       "circuits/2021-2025-jeddah-corniche-circuit-56-left.webp",
       "circuits/2021-2025-jeddah-corniche-circuit-56-right.webp"
-    ]
+    ],
+    "searchKeywords": "Jeddah Corniche Circuit (2021-2025)"
   },
   {
     "name": "2021-2025",
     "category": "Lusail International Circuit",
     "fragments": [
       "circuits/2021-2025-lusail-international-circuit-71-full.webp"
-    ]
+    ],
+    "searchKeywords": "Lusail International Circuit (2021-2025)"
   },
   {
     "name": "2021-2025",
@@ -1268,7 +1433,8 @@
     "fragments": [
       "circuits/2021-2025-yas-marina-circuit-162-left.webp",
       "circuits/2021-2025-yas-marina-circuit-162-right.webp"
-    ]
+    ],
+    "searchKeywords": "Yas Marina Circuit (2021-2025)"
   },
   {
     "name": "2022-2025",
@@ -1276,7 +1442,8 @@
     "fragments": [
       "circuits/2022-2025-melbourne-grand-prix-circuit-76-left.webp",
       "circuits/2022-2025-melbourne-grand-prix-circuit-76-right.webp"
-    ]
+    ],
+    "searchKeywords": "Melbourne Grand Prix Circuit (2022-2025)"
   },
   {
     "name": "2022-2025",
@@ -1284,27 +1451,31 @@
     "fragments": [
       "circuits/2022-2025-miami-international-autodrome-80-left.webp",
       "circuits/2022-2025-miami-international-autodrome-80-right.webp"
-    ]
+    ],
+    "searchKeywords": "Miami International Autodrome (2022-2025)"
   },
   {
     "name": "2023-2025",
     "category": "Circuit de Barcelona-Catalunya",
     "fragments": [
       "circuits/2023-2025-circuit-de-barcelona-catalunya-16-full.webp"
-    ]
+    ],
+    "searchKeywords": "Circuit de Barcelona-Catalunya (2023-2025)"
   },
   {
     "name": "2023-2025",
     "category": "Las Vegas Street Circuit",
     "fragments": [
       "circuits/2023-2025-las-vegas-street-circuit-62-full.webp"
-    ]
+    ],
+    "searchKeywords": "Las Vegas Street Circuit (2023-2025)"
   },
   {
     "name": "2023-2025",
     "category": "Marina Bay Street Circuit",
     "fragments": [
       "circuits/2023-2025-marina-bay-street-circuit-148-full.webp"
-    ]
+    ],
+    "searchKeywords": "Marina Bay Street Circuit (2023-2025)"
   }
 ]

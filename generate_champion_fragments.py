@@ -153,6 +153,7 @@ def rebuild_manifest_from_fragments(folder_name: str, category: str, output_json
             {
                 "name": re.sub(r"\s+", " ", display_name).strip(),
                 "category": category,
+                "searchKeywords": re.sub(r"\s+", " ", display_name).strip(),
                 "fragments": fragments,
             }
         )
