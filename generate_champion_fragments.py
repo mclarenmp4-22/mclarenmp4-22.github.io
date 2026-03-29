@@ -148,7 +148,7 @@ def rebuild_manifest_from_fragments(folder_name: str, category: str, output_json
             new_path = folder / new_name
             if old_path != new_path:
                 old_path.replace(new_path)
-            fragments.append(f"{folder_name}/{new_name}")
+            fragments.append(f"https://mclarenmp4-22.github.io/{folder_name}/{new_name}")
         manifest.append(
             {
                 "name": re.sub(r"\s+", " ", display_name).strip(),
