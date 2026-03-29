@@ -47,7 +47,7 @@
   },
   {
     "name": "1950-1951",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1950-1951-silverstone-circuit-135-full.webp"
     ]
@@ -64,7 +64,7 @@
   },
   {
     "name": "1951-1954",
-    "category": "Pedralbes category",
+    "category": "Pedralbes Circuit",
     "fragments": [
       "circuits/1951-1954-pedralbes-circuit-118-full.webp"
     ]
@@ -86,7 +86,7 @@
   },
   {
     "name": "1952-1973",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1952-1973-silverstone-circuit-136-left.webp",
       "circuits/1952-1973-silverstone-circuit-136-right.webp"
@@ -110,7 +110,7 @@
   },
   {
     "name": "1955-1962",
-    "category": "Aintree Motor Racing category",
+    "category": "Aintree Motor Racing Circuit",
     "fragments": [
       "circuits/1955-1962-aintree-motor-racing-circuit-4-left.webp",
       "circuits/1955-1962-aintree-motor-racing-circuit-4-right.webp"
@@ -141,7 +141,7 @@
   },
   {
     "name": "1957",
-    "category": "Pescara category",
+    "category": "Pescara Circuit",
     "fragments": [
       "circuits/1957-pescara-circuit-119-full.webp"
     ]
@@ -155,7 +155,7 @@
   },
   {
     "name": "1958",
-    "category": "Ain-Diab category",
+    "category": "Ain-Diab Circuit",
     "fragments": [
       "circuits/1958-ain-diab-circuit-3-full.webp"
     ]
@@ -205,7 +205,7 @@
   },
   {
     "name": "1962-1965",
-    "category": "Prince George category",
+    "category": "Prince George Circuit",
     "fragments": [
       "circuits/1962-1965-prince-george-circuit-32-full.webp"
     ]
@@ -250,14 +250,14 @@
   },
   {
     "name": "1967",
-    "category": "Bugatti category",
+    "category": "Bugatti Circuit",
     "fragments": [
       "circuits/1967-bugatti-circuit-66-full.webp"
     ]
   },
   {
     "name": "1967-1985",
-    "category": "Kyalami Racing category",
+    "category": "Kyalami Racing Circuit",
     "fragments": [
       "circuits/1967-1985-kyalami-racing-circuit-60-left.webp",
       "circuits/1967-1985-kyalami-racing-circuit-60-right.webp"
@@ -428,7 +428,7 @@
   },
   {
     "name": "1975-1985",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1975-1985-silverstone-circuit-137-left.webp",
       "circuits/1975-1985-silverstone-circuit-137-right.webp"
@@ -572,7 +572,7 @@
   },
   {
     "name": "1982",
-    "category": "Detroit Street category",
+    "category": "Detroit Street Circuit",
     "fragments": [
       "circuits/1982-detroit-street-circuit-27-full.webp"
     ]
@@ -602,7 +602,7 @@
   },
   {
     "name": "1983-1988",
-    "category": "Detroit Street category",
+    "category": "Detroit Street Circuit",
     "fragments": [
       "circuits/1983-1988-detroit-street-circuit-28-left.webp",
       "circuits/1983-1988-detroit-street-circuit-28-right.webp"
@@ -639,7 +639,7 @@
   },
   {
     "name": "1985-1995",
-    "category": "Adelaide Street category",
+    "category": "Adelaide Street Circuit",
     "fragments": [
       "circuits/1985-1995-adelaide-street-circuit-1-left.webp",
       "circuits/1985-1995-adelaide-street-circuit-1-right.webp"
@@ -686,14 +686,14 @@
   },
   {
     "name": "1987-1990",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1987-1990-silverstone-circuit-138-full.webp"
     ]
   },
   {
     "name": "1987-2002",
-    "category": "Suzuka category",
+    "category": "Suzuka Circuit",
     "fragments": [
       "circuits/1987-2002-suzuka-circuit-155-left.webp",
       "circuits/1987-2002-suzuka-circuit-155-right.webp"
@@ -716,7 +716,7 @@
   },
   {
     "name": "1989-1990",
-    "category": "Phoenix Street category",
+    "category": "Phoenix Street Circuit",
     "fragments": [
       "circuits/1989-1990-phoenix-street-circuit-120-full.webp"
     ]
@@ -761,14 +761,14 @@
   },
   {
     "name": "1991",
-    "category": "Phoenix Street category",
+    "category": "Phoenix Street Circuit",
     "fragments": [
       "circuits/1991-phoenix-street-circuit-121-full.webp"
     ]
   },
   {
     "name": "1991-1993",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1991-1993-silverstone-circuit-139-full.webp"
     ]
@@ -791,7 +791,7 @@
   },
   {
     "name": "1992-1993",
-    "category": "Kyalami Racing category",
+    "category": "Kyalami Racing Circuit",
     "fragments": [
       "circuits/1992-1993-kyalami-racing-circuit-61-full.webp"
     ]
@@ -826,7 +826,7 @@
   },
   {
     "name": "1994-1995",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1994-1995-silverstone-circuit-140-full.webp"
     ]
@@ -887,7 +887,7 @@
   },
   {
     "name": "1996-2019",
-    "category": "Melbourne Grand Prix category",
+    "category": "Melbourne Grand Prix Circuit",
     "fragments": [
       "circuits/1996-2019-melbourne-grand-prix-circuit-75-top-left.webp",
       "circuits/1996-2019-melbourne-grand-prix-circuit-75-top-right.webp",
@@ -897,7 +897,7 @@
   },
   {
     "name": "1996",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1996-silverstone-circuit-141-full.webp"
     ]
@@ -922,7 +922,7 @@
   },
   {
     "name": "1997-2009",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/1997-2009-silverstone-circuit-142-left.webp",
       "circuits/1997-2009-silverstone-circuit-142-right.webp"
@@ -930,7 +930,7 @@
   },
   {
     "name": "1999-2017",
-    "category": "Sepang International category",
+    "category": "Sepang International Circuit",
     "fragments": [
       "circuits/1999-2017-sepang-international-circuit-59-left.webp",
       "circuits/1999-2017-sepang-international-circuit-59-right.webp"
@@ -1010,7 +1010,7 @@
   },
   {
     "name": "2003-2025",
-    "category": "Suzuka category",
+    "category": "Suzuka Circuit",
     "fragments": [
       "circuits/2003-2025-suzuka-circuit-156-left.webp",
       "circuits/2003-2025-suzuka-circuit-156-right.webp"
@@ -1018,7 +1018,7 @@
   },
   {
     "name": "2004",
-    "category": "Bahrain International category",
+    "category": "Bahrain International Circuit",
     "fragments": [
       "circuits/2004-bahrain-international-circuit-129-full.webp"
     ]
@@ -1039,7 +1039,7 @@
   },
   {
     "name": "2004-2025",
-    "category": "Shanghai International category",
+    "category": "Shanghai International Circuit",
     "fragments": [
       "circuits/2004-2025-shanghai-international-circuit-134-left.webp",
       "circuits/2004-2025-shanghai-international-circuit-134-right.webp"
@@ -1047,7 +1047,7 @@
   },
   {
     "name": "2005-2025",
-    "category": "Bahrain International category",
+    "category": "Bahrain International Circuit",
     "fragments": [
       "circuits/2005-2025-bahrain-international-circuit-130-top-left.webp",
       "circuits/2005-2025-bahrain-international-circuit-130-top-right.webp",
@@ -1090,7 +1090,7 @@
   },
   {
     "name": "2008-2012",
-    "category": "Marina Bay Street category",
+    "category": "Marina Bay Street Circuit",
     "fragments": [
       "circuits/2008-2012-marina-bay-street-circuit-145-left.webp",
       "circuits/2008-2012-marina-bay-street-circuit-145-right.webp"
@@ -1098,7 +1098,7 @@
   },
   {
     "name": "2008-2012",
-    "category": "Valencia Street category",
+    "category": "Valencia Street Circuit",
     "fragments": [
       "circuits/2008-2012-valencia-street-circuit-157-left.webp",
       "circuits/2008-2012-valencia-street-circuit-157-right.webp"
@@ -1106,7 +1106,7 @@
   },
   {
     "name": "2009-2020",
-    "category": "Yas Marina category",
+    "category": "Yas Marina Circuit",
     "fragments": [
       "circuits/2009-2020-yas-marina-circuit-161-left.webp",
       "circuits/2009-2020-yas-marina-circuit-161-right.webp"
@@ -1114,35 +1114,35 @@
   },
   {
     "name": "2010",
-    "category": "Bahrain International category",
+    "category": "Bahrain International Circuit",
     "fragments": [
       "circuits/2010-bahrain-international-circuit-131-full.webp"
     ]
   },
   {
     "name": "2010-2013",
-    "category": "Korea International category",
+    "category": "Korea International Circuit",
     "fragments": [
       "circuits/2010-2013-korea-international-circuit-163-full.webp"
     ]
   },
   {
     "name": "2010",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/2010-silverstone-circuit-143-full.webp"
     ]
   },
   {
     "name": "2011-2013",
-    "category": "Buddh International category",
+    "category": "Buddh International Circuit",
     "fragments": [
       "circuits/2011-2013-buddh-international-circuit-110-full.webp"
     ]
   },
   {
     "name": "2011-2025",
-    "category": "Silverstone category",
+    "category": "Silverstone Circuit",
     "fragments": [
       "circuits/2011-2025-silverstone-circuit-144-left.webp",
       "circuits/2011-2025-silverstone-circuit-144-right.webp"
@@ -1158,7 +1158,7 @@
   },
   {
     "name": "2013-2014",
-    "category": "Marina Bay Street category",
+    "category": "Marina Bay Street Circuit",
     "fragments": [
       "circuits/2013-2014-marina-bay-street-circuit-146-full.webp"
     ]
@@ -1181,7 +1181,7 @@
   },
   {
     "name": "2015-2022",
-    "category": "Marina Bay Street category",
+    "category": "Marina Bay Street Circuit",
     "fragments": [
       "circuits/2015-2022-marina-bay-street-circuit-147-left.webp",
       "circuits/2015-2022-marina-bay-street-circuit-147-right.webp"
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "2016-2025",
-    "category": "Baku City category",
+    "category": "Baku City Circuit",
     "fragments": [
       "circuits/2016-2025-baku-city-circuit-10-left.webp",
       "circuits/2016-2025-baku-city-circuit-10-right.webp"
@@ -1205,7 +1205,7 @@
   },
   {
     "name": "2020-2021",
-    "category": "Algarve International category",
+    "category": "Algarve International Circuit",
     "fragments": [
       "circuits/2020-2021-algarve-international-circuit-122-full.webp"
     ]
@@ -1227,7 +1227,7 @@
   },
   {
     "name": "2020",
-    "category": "Bahrain International category",
+    "category": "Bahrain International Circuit",
     "fragments": [
       "circuits/2020-bahrain-international-circuit-132-full.webp"
     ]
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "2021-2025",
-    "category": "Jeddah Corniche category",
+    "category": "Jeddah Corniche Circuit",
     "fragments": [
       "circuits/2021-2025-jeddah-corniche-circuit-56-left.webp",
       "circuits/2021-2025-jeddah-corniche-circuit-56-right.webp"
@@ -1257,14 +1257,14 @@
   },
   {
     "name": "2021-2025",
-    "category": "Lusail International category",
+    "category": "Lusail International Circuit",
     "fragments": [
       "circuits/2021-2025-lusail-international-circuit-71-full.webp"
     ]
   },
   {
     "name": "2021-2025",
-    "category": "Yas Marina category",
+    "category": "Yas Marina Circuit",
     "fragments": [
       "circuits/2021-2025-yas-marina-circuit-162-left.webp",
       "circuits/2021-2025-yas-marina-circuit-162-right.webp"
@@ -1272,7 +1272,7 @@
   },
   {
     "name": "2022-2025",
-    "category": "Melbourne Grand Prix category",
+    "category": "Melbourne Grand Prix Circuit",
     "fragments": [
       "circuits/2022-2025-melbourne-grand-prix-circuit-76-left.webp",
       "circuits/2022-2025-melbourne-grand-prix-circuit-76-right.webp"
@@ -1295,14 +1295,14 @@
   },
   {
     "name": "2023-2025",
-    "category": "Las Vegas Street category",
+    "category": "Las Vegas Street Circuit",
     "fragments": [
       "circuits/2023-2025-las-vegas-street-circuit-62-full.webp"
     ]
   },
   {
     "name": "2023-2025",
-    "category": "Marina Bay Street category",
+    "category": "Marina Bay Street Circuit",
     "fragments": [
       "circuits/2023-2025-marina-bay-street-circuit-148-full.webp"
     ]
