@@ -8,7 +8,8 @@
       "https://mclarenmp4-22.github.io/constructors/brm-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/brm-bottom-right.webp"
     ],
-    "searchKeywords": "BRM"
+    "searchKeywords": "BRM",
+    "rarityScore": 767.9499999999999
   },
   {
     "name": "Benetton",
@@ -19,7 +20,8 @@
       "https://mclarenmp4-22.github.io/constructors/benetton-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/benetton-bottom-right.webp"
     ],
-    "searchKeywords": "Benetton"
+    "searchKeywords": "Benetton",
+    "rarityScore": 1212.5
   },
   {
     "name": "Brabham",
@@ -30,7 +32,8 @@
       "https://mclarenmp4-22.github.io/constructors/brabham-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/brabham-bottom-right.webp"
     ],
-    "searchKeywords": "Brabham"
+    "searchKeywords": "Brabham",
+    "rarityScore": 1623.95
   },
   {
     "name": "Brawn GP",
@@ -41,7 +44,8 @@
       "https://mclarenmp4-22.github.io/constructors/brawn-gp-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/brawn-gp-bottom-right.webp"
     ],
-    "searchKeywords": "Brawn GP"
+    "searchKeywords": "Brawn GP",
+    "rarityScore": 261.7
   },
   {
     "name": "Cooper",
@@ -52,7 +56,8 @@
       "https://mclarenmp4-22.github.io/constructors/cooper-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/cooper-bottom-right.webp"
     ],
-    "searchKeywords": "Cooper"
+    "searchKeywords": "Cooper",
+    "rarityScore": 765.95
   },
   {
     "name": "Ferrari",
@@ -63,7 +68,8 @@
       "https://mclarenmp4-22.github.io/constructors/ferrari-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/ferrari-bottom-right.webp"
     ],
-    "searchKeywords": "Ferrari"
+    "searchKeywords": "Ferrari",
+    "rarityScore": 11996.254
   },
   {
     "name": "Lotus",
@@ -74,7 +80,8 @@
       "https://mclarenmp4-22.github.io/constructors/lotus-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/lotus-bottom-right.webp"
     ],
-    "searchKeywords": "Lotus"
+    "searchKeywords": "Lotus",
+    "rarityScore": 3322.5
   },
   {
     "name": "Matra",
@@ -85,7 +92,8 @@
       "https://mclarenmp4-22.github.io/constructors/matra-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/matra-bottom-right.webp"
     ],
-    "searchKeywords": "Matra"
+    "searchKeywords": "Matra",
+    "rarityScore": 311.65
   },
   {
     "name": "McLaren",
@@ -96,7 +104,8 @@
       "https://mclarenmp4-22.github.io/constructors/mclaren-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/mclaren-bottom-right.webp"
     ],
-    "searchKeywords": "McLaren"
+    "searchKeywords": "McLaren",
+    "rarityScore": 8444.65
   },
   {
     "name": "Mercedes",
@@ -107,7 +116,8 @@
       "https://mclarenmp4-22.github.io/constructors/mercedes-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/mercedes-bottom-right.webp"
     ],
-    "searchKeywords": "Mercedes"
+    "searchKeywords": "Mercedes",
+    "rarityScore": 5990.0779999999995
   },
   {
     "name": "Red Bull",
@@ -118,7 +128,8 @@
       "https://mclarenmp4-22.github.io/constructors/red-bull-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/red-bull-bottom-right.webp"
     ],
-    "searchKeywords": "Red Bull"
+    "searchKeywords": "Red Bull",
+    "rarityScore": 5609.0
   },
   {
     "name": "Renault",
@@ -129,7 +140,8 @@
       "https://mclarenmp4-22.github.io/constructors/renault-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/renault-bottom-right.webp"
     ],
-    "searchKeywords": "Renault"
+    "searchKeywords": "Renault",
+    "rarityScore": 1733.4
   },
   {
     "name": "Tyrrell",
@@ -140,7 +152,8 @@
       "https://mclarenmp4-22.github.io/constructors/tyrrell-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/tyrrell-bottom-right.webp"
     ],
-    "searchKeywords": "Tyrrell"
+    "searchKeywords": "Tyrrell",
+    "rarityScore": 1004.7500000000001
   },
   {
     "name": "Vanwall",
@@ -151,7 +164,8 @@
       "https://mclarenmp4-22.github.io/constructors/vanwall-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/vanwall-bottom-right.webp"
     ],
-    "searchKeywords": "Vanwall"
+    "searchKeywords": "Vanwall",
+    "rarityScore": 272.95
   },
   {
     "name": "Williams",
@@ -162,6 +176,7 @@
       "https://mclarenmp4-22.github.io/constructors/williams-bottom-left.webp",
       "https://mclarenmp4-22.github.io/constructors/williams-bottom-right.webp"
     ],
-    "searchKeywords": "Williams"
+    "searchKeywords": "Williams",
+    "rarityScore": 4905.599999999999
   }
 ]
