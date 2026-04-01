@@ -162,7 +162,8 @@ def main() -> None:
             cl.LastGrandPrix,
             cl.GrandPrixCount,
             cl.SVG,
-            lln.CircuitName
+            lln.CircuitName,
+            cl.GrandPrixCount
         FROM CircuitLayouts cl
         JOIN LatestLocationName lln
           ON lln.Latitude = cl.Latitude
@@ -194,6 +195,7 @@ def main() -> None:
                 "category": circuit_name,
                 "searchKeywords": f"{circuit_name} ({name})",
                 "fragments": fragments,
+                "rarityScore": 25*row["GrandPrixCount"]
             }
         )
 
