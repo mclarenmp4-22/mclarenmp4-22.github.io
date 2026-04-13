@@ -1,317 +1,178 @@
 import json
 import re
 import sqlite3
+import os
+import shutil
 from pathlib import Path
-
 from PIL import Image
-
 
 ROOT = Path(__file__).resolve().parent
 DB_PATH = Path(r"c:\Users\trues\OneDrive\Desktop\Advaith\F1 Results database, upgraded\sessionresults.db")
 
+# Output Directories
+DRIVERS_DIR = ROOT / "drivers"
+CONSTRUCTORS_DIR = ROOT / "constructors"
+DRIVERS_UNDIVIDED = ROOT / "drivers_undivided"
+CONSTRUCTORS_UNDIVIDED = ROOT / "constructors_undivided"
 
-def display_name_from_file(path: Path) -> str:
-    stem = path.stem
-    stem = re.sub(r"[_!]+$", "", stem)
-    stem = re.sub(r"_(\d+)$", "", stem)
-    stem = re.sub(r"[_!]+$", "", stem)
-    stem = stem.replace("_", " ").strip()
-    return stem
+def clean_slug(text: str) -> str:
+    text = text.lower().strip()
+    text = re.sub(r"[^a-z0-9]+", "-", text)
+    return text.strip("-")
 
+def get_latest_race_info():
+    conn = sqlite3.connect(DB_PATH)
+    cur = conn.cursor()
+    cur.execute("SELECT ID, Season FROM GrandsPrix ORDER BY ID DESC LIMIT 1")
+    race = cur.fetchone()
+    
+    cur.execute("""
+        SELECT DISTINCT d.Name 
+        FROM GrandPrixResults r 
+        JOIN Drivers d ON r.driverid = d.ID 
+        WHERE r.grandprixid = ?
+    """, (race[0],))
+    driver_entrants = {r[0] for r in cur.fetchall()}
+    
+    cur.execute("""
+        SELECT DISTINCT c.ConstructorName 
+        FROM GrandPrixResults r 
+        JOIN Constructors c ON r.constructorid = c.ID 
+        WHERE r.grandprixid = ?
+    """, (race[0],))
+    constructor_entrants = {r[0] for r in cur.fetchall()}
+    
+    conn.close()
+    return race[0], race[1], driver_entrants, constructor_entrants
 
-def clean_stem(path: Path) -> str:
-    stem = path.stem
-    stem = re.sub(r"[_!]+$", "", stem)
-    stem = re.sub(r"_(\d+)$", "", stem)
-    stem = re.sub(r"[_!]+$", "", stem)
-    stem = re.sub(r"_+", "_", stem).strip("_")
-    return stem
-
-
-def file_slug(path: Path) -> str:
-    stem = clean_stem(path)
-    stem = stem.lower()
-    stem = stem.replace("_", "-")
-    stem = re.sub(r"[^a-z0-9-]+", "-", stem)
-    stem = re.sub(r"-+", "-", stem).strip("-")
-    return stem
-
-
-def text_slug(value: str) -> str:
-    value = value.lower().strip()
-    value = re.sub(r"[^a-z0-9]+", "-", value)
-    return value.strip("-")
-
-
-def source_images(folder: Path) -> list[Path]:
-    images = []
-    for path in sorted(folder.glob("*.webp")):
-        if path.stem.endswith(("-top-left", "-top-right", "-bottom-left", "-bottom-right")):
-            continue
-        images.append(path)
-    return images
-
-
-def quarter_boxes(width: int, height: int) -> list[tuple[str, tuple[int, int, int, int]]]:
-    mid_x = width // 2
-    mid_y = height // 2
-    return [
-        ("top-left", (0, 0, mid_x, mid_y)),
-        ("top-right", (mid_x, 0, width, mid_y)),
-        ("bottom-left", (0, mid_y, mid_x, height)),
-        ("bottom-right", (mid_x, mid_y, width, height)),
-    ]
-
-
-def calculate_rarity_score(championships: int, wins: int, podiums: int, poles: int, points: float, starts: int, entries: int) -> float:
-    """Calculate rarityScore based on the formula:
-    25*Championships + 10*Wins + 6*Podiums + 5.5*Poles + 0.2*Points + 0.1*Starts + 0.05*Entries
-    """
-    return 25 * championships + 10 * wins + 6 * podiums + 5.5 * poles + 0.2 * points + 0.1 * starts + 0.05 * entries
-
-
-def fetch_driver_stats() -> dict[str, dict]:
-    """Fetch driver statistics from the database."""
+def fetch_stats(table: str, name_col: str):
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
-    
-    cur.execute("""
-        SELECT Name, Championships, Wins, Podiums, Poles, Points, Starts, Entries
-        FROM Drivers
-        WHERE Championships > 0
-        ORDER BY Name
-    """)
-    
-    stats = {}
-    for row in cur.fetchall():
-        stats[row["Name"]] = {
-            "championships": row["Championships"],
-            "wins": row["Wins"],
-            "podiums": row["Podiums"],
-            "poles": row["Poles"],
-            "points": row["Points"],
-            "starts": row["Starts"],
-            "entries": row["Entries"],
-        }
-    
+    cur.execute(f"SELECT {name_col}, Championships, Wins, Podiums, Poles, Points, Starts, Entries FROM {table}")
+    stats = {row[name_col]: dict(row) for row in cur.fetchall()}
     conn.close()
     return stats
 
+def calculate_rarity_score(s: dict) -> float:
+    return 25 * s["Championships"] + 10 * s["Wins"] + 6 * s["Podiums"] + 5.5 * s["Poles"] + 0.2 * s["Points"] + 0.1 * s["Starts"] + 0.05 * s["Entries"]
 
-def fetch_constructor_stats() -> dict[str, dict]:
-    """Fetch constructor statistics from the database."""
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    cur = conn.cursor()
-    
-    cur.execute("""
-        SELECT ConstructorName, Championships, Wins, Podiums, Poles, Points, Starts, Entries
-        FROM Constructors
-        WHERE Championships > 0
-        ORDER BY ConstructorName
-    """)
-    
-    stats = {}
-    for row in cur.fetchall():
-        stats[row["ConstructorName"]] = {
-            "championships": row["Championships"],
-            "wins": row["Wins"],
-            "podiums": row["Podiums"],
-            "poles": row["Poles"],
-            "points": row["Points"],
-            "starts": row["Starts"],
-            "entries": row["Entries"],
-        }
-    
-    conn.close()
-    return stats
+def get_fragment_count(stats: dict) -> int:
+    if stats["Championships"] > 0:
+        return 4
+    if stats["Wins"] > 0:
+        return 2
+    return 1
 
-
-def generate_manifest(folder_name: str, category: str, output_json: str, stats: dict[str, dict] | None = None) -> None:
-    folder = ROOT / folder_name
+def process_images(type_name: str, stats_dict: dict, entrants: set, source_dir: Path, undivided_dir: Path, output_json: str, base_url: str):
+    undivided_dir.mkdir(exist_ok=True)
     manifest = []
-
-    for image_path in source_images(folder):
-        with Image.open(image_path) as image:
-            fragments = []
-            base_stem = file_slug(image_path)
-            for suffix, box in quarter_boxes(*image.size):
-                fragment_name = f"{base_stem}-{suffix}.webp"
-                fragment_path = folder / fragment_name
-                image.crop(box).save(fragment_path, format="WEBP", quality=80, method=6)
-                fragments.append(f"{folder_name}/{fragment_name}")
-
-        name = display_name_from_file(image_path)
-        entry = {
-            "name": name,
-            "category": category,
-            "fragments": fragments,
-        }
-        
-        # Add rarityScore if stats are provided
-        if stats and name in stats:
-            stat = stats[name]
-            rarity = calculate_rarity_score(
-                stat["championships"],
-                stat["wins"],
-                stat["podiums"],
-                stat["poles"],
-                stat["points"],
-                stat["starts"],
-                stat["entries"],
-            )
-            entry["rarityScore"] = rarity
-        
-        manifest.append(entry)
-
-    (ROOT / output_json).write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"{folder_name}: generated {len(manifest)} entries")
-
-
-def main() -> None:
-    driver_stats = fetch_driver_stats()
-    constructor_stats = fetch_constructor_stats()
     
-    # Rebuild manifests from existing fragments and add rarityScore
-    rebuild_and_enrich_manifest("drivers", "World Champions", "drivers.json", driver_stats)
-    rebuild_and_enrich_manifest("constructors", "Constructors' Champions", "constructors.json", constructor_stats)
-
-
-def rebuild_and_enrich_manifest(folder_name: str, category: str, output_json: str, stats: dict[str, dict]) -> None:
-    """Rebuild manifest from fragments and add rarityScore from stats."""
-    folder = ROOT / folder_name
-    suffixes = ["top-left", "top-right", "bottom-left", "bottom-right"]
-    grouped: dict[str, dict[str, Path]] = {}
-
-    # Create case-insensitive lookup for stats
-    stats_lower = {k.lower(): v for k, v in stats.items()}
-
-    for path in sorted(folder.glob("*.webp")):
-        stem = path.stem
-        for suffix in suffixes:
-            token = f"-{suffix}"
-            if stem.endswith(token):
-                base = stem[: -len(token)]
-                grouped.setdefault(base, {})[suffix] = path
+    # 1. Group files by entity (slug)
+    files_by_entity = {}
+    for f in source_dir.glob("*.webp"):
+        stem = f.stem
+        # Check if it's a fragment
+        is_fragment = False
+        base = stem
+        for suffix in ["-top-left", "-top-right", "-bottom-left", "-bottom-right", "-left", "-right", "-full"]:
+            if stem.endswith(suffix):
+                base = stem[:-len(suffix)]
+                is_fragment = True
                 break
+        
+        # Check for numeric suffix like _1
+        base_name = base
+        if "_" in base:
+            parts = base.rsplit("_", 1)
+            if parts[1].isdigit():
+                base_name = parts[0]
+        
+        # Use slug instead of direct name for the key
+        entity_key = clean_slug(base_name)
+        files_by_entity.setdefault(entity_key, {"raw": [], "fragments": {}} )
+        if is_fragment:
+            files_by_entity[entity_key]["fragments"][stem] = f
+        else:
+            files_by_entity[entity_key]["raw"].append(f)
 
-    manifest = []
-    for base, parts in grouped.items():
-        if any(suffix not in parts for suffix in suffixes):
+    # 2. Process each entity
+    for s_name, stats in stats_dict.items():
+        found_data = files_by_entity.get(clean_slug(s_name))
+        if not found_data:
             continue
-        display_name = base.replace("_", " ").replace("-", " ").strip()
-        slug = text_slug(display_name)
+            
+        count = get_fragment_count(stats)
+        slug = clean_slug(s_name)
+        
+        # Determine if we should recompute
+        # Rules:
+        # - Champions: 4 frags
+        # - Winners: 2 frags
+        # - Everyone else: 1 frag (raw)
+        
         fragments = []
-        for suffix in suffixes:
-            old_path = parts[suffix]
-            new_name = f"{slug}-{suffix}.webp"
-            new_path = folder / new_name
-            if old_path != new_path:
-                old_path.replace(new_path)
-            fragments.append(f"https://mclarenmp4-22.github.io/{folder_name}/{new_name}")
         
-        entry = {
-            "name": re.sub(r"\s+", " ", display_name).strip(),
-            "category": category,
-            "searchKeywords": re.sub(r"\s+", " ", display_name).strip(),
-            "fragments": fragments,
-        }
+        # Case A: We have raw images
+        if found_data["raw"]:
+            for i, raw_path in enumerate(found_data["raw"]):
+                current_slug = f"{slug}-{i+1}" if len(found_data["raw"]) > 1 else slug
+                
+                # Copy to undivided if not champion (as per user instruction)
+                if stats["Championships"] == 0:
+                    shutil.copy2(raw_path, undivided_dir / f"{current_slug}.webp")
+                
+                with Image.open(raw_path) as img:
+                    w, h = img.size
+                    if count == 4:
+                        boxes = [
+                            ("top-left", (0, 0, w//2, h//2)),
+                            ("top-right", (w//2, 0, w, h//2)),
+                            ("bottom-left", (0, h//2, w//2, h)),
+                            ("bottom-right", (w//2, h//2, w, h)),
+                        ]
+                    elif count == 2:
+                        boxes = [
+                            ("left", (0, 0, w//2, h)),
+                            ("right", (w//2, 0, w, h)),
+                        ]
+                    else:
+                        boxes = [("full", (0, 0, w, h))]
+                    
+                    for suffix, box in boxes:
+                        frag_name = f"{current_slug}-{suffix}.webp"
+                        frag_path = source_dir / frag_name
+                        img.crop(box).save(frag_path, format="WEBP", quality=80)
+                        fragments.append(f"{base_url}/{type_name}/{frag_name}")
         
-        # Add rarityScore if stats are provided
-        # Use case-insensitive lookup
-        name_lower = entry["name"].lower()
-        if name_lower in stats_lower:
-            stat = stats_lower[name_lower]
-            rarity = calculate_rarity_score(
-                stat["championships"],
-                stat["wins"],
-                stat["podiums"],
-                stat["poles"],
-                stat["points"],
-                stat["starts"],
-                stat["entries"],
-            )
-            entry["rarityScore"] = rarity
-        
-        manifest.append(entry)
+        # Case B: We ONLY have existing fragments (likely champions)
+        elif found_data["fragments"]:
+            # If we don't have raw, we just list the fragments we found
+            for frag_stem in sorted(found_data["fragments"].keys()):
+                fragments.append(f"{base_url}/{type_name}/{frag_stem}.webp")
 
-    manifest.sort(key=lambda item: item["name"])
-    (ROOT / output_json).write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"{folder_name}: rebuilt {len(manifest)} entries")
+        if fragments:
+            manifest.append({
+                "name": s_name,
+                "category": "World Champions" if stats["Championships"] > 0 else "Race Winners" if stats["Wins"] > 0 else "Others",
+                "fragments": fragments,
+                "searchKeywords": s_name,
+                "rarityScore": calculate_rarity_score(stats)
+            })
 
+    output_file = ROOT / output_json
+    output_file.write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"Generated {len(manifest)} entries for {type_name}")
 
-def rewrite_manifest_with_safe_filenames(folder_name: str, output_json: str) -> None:
-    folder = ROOT / folder_name
-    manifest_path = ROOT / output_json
-    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-    updated = []
-
-    for entry in manifest:
-        old_paths = [ROOT / fragment for fragment in entry["fragments"]]
-        new_fragments = []
-        base = text_slug(entry["name"])
-        suffixes = ["top-left", "top-right", "bottom-left", "bottom-right"]
-        for old_path, suffix in zip(old_paths, suffixes):
-            new_name = f"{base}-{suffix}.webp"
-            new_path = folder / new_name
-            if old_path != new_path and old_path.exists():
-                old_path.replace(new_path)
-            new_fragments.append(f"{folder_name}/{new_name}")
-        updated.append(
-            {
-                "name": entry["name"],
-                "category": entry["category"],
-                "fragments": new_fragments,
-            }
-        )
-
-    manifest_path.write_text(json.dumps(updated, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"{folder_name}: rewrote {len(updated)} entries")
-
-
-
-def rebuild_manifest_from_fragments(folder_name: str, category: str, output_json: str) -> None:
-    folder = ROOT / folder_name
-    suffixes = ["top-left", "top-right", "bottom-left", "bottom-right"]
-    grouped: dict[str, dict[str, Path]] = {}
-
-    for path in sorted(folder.glob("*.webp")):
-        stem = path.stem
-        for suffix in suffixes:
-            token = f"-{suffix}"
-            if stem.endswith(token):
-                base = stem[: -len(token)]
-                grouped.setdefault(base, {})[suffix] = path
-                break
-
-    manifest = []
-    for base, parts in grouped.items():
-        if any(suffix not in parts for suffix in suffixes):
-            continue
-        display_name = base.replace("_", " ").replace("-", " ").strip()
-        slug = text_slug(display_name)
-        fragments = []
-        for suffix in suffixes:
-            old_path = parts[suffix]
-            new_name = f"{slug}-{suffix}.webp"
-            new_path = folder / new_name
-            if old_path != new_path:
-                old_path.replace(new_path)
-            fragments.append(f"https://mclarenmp4-22.github.io/{folder_name}/{new_name}")
-        manifest.append(
-            {
-                "name": re.sub(r"\s+", " ", display_name).strip(),
-                "category": category,
-                "searchKeywords": re.sub(r"\s+", " ", display_name).strip(),
-                "fragments": fragments, 
-            }
-        )
-
-    manifest.sort(key=lambda item: item["name"])
-    (ROOT / output_json).write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"{folder_name}: rebuilt {len(manifest)} entries")
-
+def main():
+    race_id, season, d_entrants, c_entrants = get_latest_race_info()
+    print(f"Latest Race: {race_id} ({season})")
+    
+    d_stats = fetch_stats("Drivers", "Name")
+    c_stats = fetch_stats("Constructors", "ConstructorName")
+    
+    process_images("drivers", d_stats, d_entrants, DRIVERS_DIR, DRIVERS_UNDIVIDED, "drivers.json", "https://mclarenmp4-22.github.io")
+    process_images("constructors", c_stats, c_entrants, CONSTRUCTORS_DIR, CONSTRUCTORS_UNDIVIDED, "constructors.json", "https://mclarenmp4-22.github.io")
 
 if __name__ == "__main__":
     main()

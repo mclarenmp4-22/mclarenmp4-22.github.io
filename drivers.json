@@ -1,192 +1,108 @@
 [
   {
-    "name": "Alain Prost",
+    "name": "Juan Manuel Fangio",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/alain-prost-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/alain-prost-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/alain-prost-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/alain-prost-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/juan-manuel-fangio-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/juan-manuel-fangio-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/juan-manuel-fangio-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/juan-manuel-fangio-top-right.webp"
     ],
-    "searchKeywords": "Alain Prost",
-    "rarityScore": 1608.65
-  },
-  {
-    "name": "Alan Jones",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/alan-jones-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/alan-jones-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/alan-jones-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/alan-jones-bottom-right.webp"
-    ],
-    "searchKeywords": "Alan Jones",
-    "rarityScore": 373.4
-  },
-  {
-    "name": "Alberto Ascari",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/alberto-ascari-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/alberto-ascari-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/alberto-ascari-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/alberto-ascari-bottom-right.webp"
-    ],
-    "searchKeywords": "Alberto Ascari",
-    "rarityScore": 390.25
-  },
-  {
-    "name": "Ayrton Senna",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/ayrton-senna-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/ayrton-senna-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/ayrton-senna-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/ayrton-senna-bottom-right.webp"
-    ],
-    "searchKeywords": "Ayrton Senna",
-    "rarityScore": 1456.0
-  },
-  {
-    "name": "Damon Hill",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/damon-hill-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/damon-hill-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/damon-hill-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/damon-hill-bottom-right.webp"
-    ],
-    "searchKeywords": "Damon Hill",
-    "rarityScore": 690.5500000000001
-  },
-  {
-    "name": "Denny Hulme",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/denny-hulme-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/denny-hulme-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/denny-hulme-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/denny-hulme-bottom-right.webp"
-    ],
-    "searchKeywords": "Denny Hulme",
-    "rarityScore": 369.8
-  },
-  {
-    "name": "Emerson Fittipaldi",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/emerson-fittipaldi-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/emerson-fittipaldi-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/emerson-fittipaldi-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/emerson-fittipaldi-bottom-right.webp"
-    ],
-    "searchKeywords": "Emerson Fittipaldi",
-    "rarityScore": 503.6
-  },
-  {
-    "name": "Fernando Alonso",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/fernando-alonso-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/fernando-alonso-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/fernando-alonso-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/fernando-alonso-bottom-right.webp"
-    ],
-    "searchKeywords": "Fernando Alonso",
-    "rarityScore": 1658.55
+    "searchKeywords": "Juan Manuel Fangio",
+    "rarityScore": 796.2280000000001
   },
   {
     "name": "Giuseppe Farina",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/giuseppe-farina-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/giuseppe-farina-top-right.webp",
       "https://mclarenmp4-22.github.io/drivers/giuseppe-farina-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/giuseppe-farina-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/giuseppe-farina-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/giuseppe-farina-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/giuseppe-farina-top-right.webp"
     ],
     "searchKeywords": "Giuseppe Farina",
     "rarityScore": 251.81599999999997
   },
   {
-    "name": "Graham Hill",
+    "name": "Alberto Ascari",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/graham-hill-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/graham-hill-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/graham-hill-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/graham-hill-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/alberto-ascari-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/alberto-ascari-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/alberto-ascari-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/alberto-ascari-top-right.webp"
     ],
-    "searchKeywords": "Graham Hill",
-    "rarityScore": 550.6
+    "searchKeywords": "Alberto Ascari",
+    "rarityScore": 390.25
+  },
+  {
+    "name": "Mike Hawthorn",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/mike-hawthorn-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/mike-hawthorn-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/mike-hawthorn-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/mike-hawthorn-top-right.webp"
+    ],
+    "searchKeywords": "Mike Hawthorn",
+    "rarityScore": 215.27800000000002
   },
   {
     "name": "Jack Brabham",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/jack-brabham-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jack-brabham-top-right.webp",
       "https://mclarenmp4-22.github.io/drivers/jack-brabham-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jack-brabham-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/jack-brabham-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/jack-brabham-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jack-brabham-top-right.webp"
     ],
     "searchKeywords": "Jack Brabham",
     "rarityScore": 535.65
   },
   {
-    "name": "Jackie Stewart",
+    "name": "Graham Hill",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/jackie-stewart-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jackie-stewart-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/jackie-stewart-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jackie-stewart-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/graham-hill-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/graham-hill-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/graham-hill-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/graham-hill-top-right.webp"
     ],
-    "searchKeywords": "Jackie Stewart",
-    "rarityScore": 777.9499999999999
+    "searchKeywords": "Graham Hill",
+    "rarityScore": 550.6
   },
   {
-    "name": "Jacques Villeneuve",
+    "name": "Phil Hill",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/jacques-villeneuve-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jacques-villeneuve-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/jacques-villeneuve-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jacques-villeneuve-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/phil-hill-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/phil-hill-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/phil-hill-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/phil-hill-top-right.webp"
     ],
-    "searchKeywords": "Jacques Villeneuve",
-    "rarityScore": 407.7
+    "searchKeywords": "Phil Hill",
+    "rarityScore": 208.55
   },
   {
-    "name": "James Hunt",
+    "name": "John Surtees",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/james-hunt-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/james-hunt-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/james-hunt-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/james-hunt-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/john-surtees-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/john-surtees-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/john-surtees-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/john-surtees-top-right.webp"
     ],
-    "searchKeywords": "James Hunt",
-    "rarityScore": 382.70000000000005
-  },
-  {
-    "name": "Jenson Button",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/jenson-button-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jenson-button-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/jenson-button-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jenson-button-bottom-right.webp"
-    ],
-    "searchKeywords": "Jenson Button",
-    "rarityScore": 802.6
+    "searchKeywords": "John Surtees",
+    "rarityScore": 317.09999999999997
   },
   {
     "name": "Jim Clark",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/jim-clark-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jim-clark-top-right.webp",
       "https://mclarenmp4-22.github.io/drivers/jim-clark-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jim-clark-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/jim-clark-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/jim-clark-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jim-clark-top-right.webp"
     ],
     "searchKeywords": "Jim Clark",
     "rarityScore": 735.65
@@ -195,228 +111,312 @@
     "name": "Jochen Rindt",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/jochen-rindt-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jochen-rindt-top-right.webp",
       "https://mclarenmp4-22.github.io/drivers/jochen-rindt-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jochen-rindt-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/jochen-rindt-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/jochen-rindt-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jochen-rindt-top-right.webp"
     ],
     "searchKeywords": "Jochen Rindt",
     "rarityScore": 243.55
   },
   {
-    "name": "Jody Scheckter",
+    "name": "Jackie Stewart",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/jody-scheckter-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jody-scheckter-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/jody-scheckter-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/jody-scheckter-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/jackie-stewart-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jackie-stewart-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/jackie-stewart-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jackie-stewart-top-right.webp"
     ],
-    "searchKeywords": "Jody Scheckter",
-    "rarityScore": 402.05
+    "searchKeywords": "Jackie Stewart",
+    "rarityScore": 777.9499999999999
   },
   {
-    "name": "John Surtees",
+    "name": "Denny Hulme",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/john-surtees-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/john-surtees-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/john-surtees-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/john-surtees-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/denny-hulme-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/denny-hulme-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/denny-hulme-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/denny-hulme-top-right.webp"
     ],
-    "searchKeywords": "John Surtees",
-    "rarityScore": 317.09999999999997
-  },
-  {
-    "name": "Juan Manuel Fangio",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/juan-manuel-fangio-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/juan-manuel-fangio-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/juan-manuel-fangio-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/juan-manuel-fangio-bottom-right.webp"
-    ],
-    "searchKeywords": "Juan Manuel Fangio",
-    "rarityScore": 796.2280000000001
-  },
-  {
-    "name": "Keke Rosberg",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/keke-rosberg-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/keke-rosberg-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/keke-rosberg-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/keke-rosberg-bottom-right.webp"
-    ],
-    "searchKeywords": "Keke Rosberg",
-    "rarityScore": 245.25
-  },
-  {
-    "name": "Kimi Räikkönen",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-bottom-right.webp"
-    ],
-    "searchKeywords": "Kimi Räikkönen",
-    "rarityScore": 1369.35
-  },
-  {
-    "name": "Lando Norris",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/lando-norris-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/lando-norris-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/lando-norris-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/lando-norris-bottom-right.webp"
-    ],
-    "searchKeywords": "Lando Norris",
-    "rarityScore": 797.4499999999999
-  },
-  {
-    "name": "Lewis Hamilton",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/lewis-hamilton-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/lewis-hamilton-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/lewis-hamilton-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/lewis-hamilton-bottom-right.webp"
-    ],
-    "searchKeywords": "Lewis Hamilton",
-    "rarityScore": 4077.65
+    "searchKeywords": "Denny Hulme",
+    "rarityScore": 369.8
   },
   {
     "name": "Mario Andretti",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/mario-andretti-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/mario-andretti-top-right.webp",
       "https://mclarenmp4-22.github.io/drivers/mario-andretti-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/mario-andretti-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/mario-andretti-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/mario-andretti-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/mario-andretti-top-right.webp"
     ],
     "searchKeywords": "Mario Andretti",
     "rarityScore": 403.3
   },
   {
-    "name": "Max Verstappen",
+    "name": "Emerson Fittipaldi",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/max-verstappen-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/max-verstappen-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/max-verstappen-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/max-verstappen-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/emerson-fittipaldi-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/emerson-fittipaldi-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/emerson-fittipaldi-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/emerson-fittipaldi-top-right.webp"
     ],
-    "searchKeywords": "Max Verstappen",
-    "rarityScore": 2557.25
-  },
-  {
-    "name": "Michael Schumacher",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/michael-schumacher-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/michael-schumacher-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/michael-schumacher-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/michael-schumacher-bottom-right.webp"
-    ],
-    "searchKeywords": "Michael Schumacher",
-    "rarityScore": 2738.35
-  },
-  {
-    "name": "Mika Hakkinen",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/mika-hakkinen-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/mika-hakkinen-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/mika-hakkinen-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/mika-hakkinen-bottom-right.webp"
-    ],
-    "searchKeywords": "Mika Hakkinen",
-    "rarityScore": 798.3000000000001
-  },
-  {
-    "name": "Mike Hawthorn",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/mike-hawthorn-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/mike-hawthorn-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/mike-hawthorn-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/mike-hawthorn-bottom-right.webp"
-    ],
-    "searchKeywords": "Mike Hawthorn",
-    "rarityScore": 215.27800000000002
-  },
-  {
-    "name": "Nelson Piquet",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/nelson-piquet-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/nelson-piquet-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/nelson-piquet-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/nelson-piquet-bottom-right.webp"
-    ],
-    "searchKeywords": "Nelson Piquet",
-    "rarityScore": 912.7
-  },
-  {
-    "name": "Nico Rosberg",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/nico-rosberg-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/nico-rosberg-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/nico-rosberg-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/nico-rosberg-bottom-right.webp"
-    ],
-    "searchKeywords": "Nico Rosberg",
-    "rarityScore": 1107.6000000000001
-  },
-  {
-    "name": "Nigel Mansell",
-    "category": "World Champions",
-    "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/nigel-mansell-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/nigel-mansell-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/nigel-mansell-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/nigel-mansell-bottom-right.webp"
-    ],
-    "searchKeywords": "Nigel Mansell",
-    "rarityScore": 976.0999999999999
+    "searchKeywords": "Emerson Fittipaldi",
+    "rarityScore": 503.6
   },
   {
     "name": "Niki Lauda",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/niki-lauda-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/niki-lauda-top-right.webp",
       "https://mclarenmp4-22.github.io/drivers/niki-lauda-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/niki-lauda-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/niki-lauda-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/niki-lauda-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/niki-lauda-top-right.webp"
     ],
     "searchKeywords": "Niki Lauda",
     "rarityScore": 878.6
   },
   {
-    "name": "Phil Hill",
+    "name": "Jody Scheckter",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/phil-hill-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/phil-hill-top-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/phil-hill-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/phil-hill-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/jody-scheckter-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jody-scheckter-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/jody-scheckter-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jody-scheckter-top-right.webp"
     ],
-    "searchKeywords": "Phil Hill",
-    "rarityScore": 208.55
+    "searchKeywords": "Jody Scheckter",
+    "rarityScore": 402.05
+  },
+  {
+    "name": "James Hunt",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/james-hunt-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/james-hunt-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/james-hunt-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/james-hunt-top-right.webp"
+    ],
+    "searchKeywords": "James Hunt",
+    "rarityScore": 382.70000000000005
+  },
+  {
+    "name": "Alan Jones",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/alan-jones-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/alan-jones-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/alan-jones-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/alan-jones-top-right.webp"
+    ],
+    "searchKeywords": "Alan Jones",
+    "rarityScore": 373.4
+  },
+  {
+    "name": "Keke Rosberg",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/keke-rosberg-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/keke-rosberg-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/keke-rosberg-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/keke-rosberg-top-right.webp"
+    ],
+    "searchKeywords": "Keke Rosberg",
+    "rarityScore": 245.25
+  },
+  {
+    "name": "Nelson Piquet",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/nelson-piquet-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/nelson-piquet-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/nelson-piquet-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/nelson-piquet-top-right.webp"
+    ],
+    "searchKeywords": "Nelson Piquet",
+    "rarityScore": 912.7
+  },
+  {
+    "name": "Alain Prost",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/alain-prost-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/alain-prost-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/alain-prost-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/alain-prost-top-right.webp"
+    ],
+    "searchKeywords": "Alain Prost",
+    "rarityScore": 1608.65
+  },
+  {
+    "name": "Nigel Mansell",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/nigel-mansell-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/nigel-mansell-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/nigel-mansell-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/nigel-mansell-top-right.webp"
+    ],
+    "searchKeywords": "Nigel Mansell",
+    "rarityScore": 976.0999999999999
+  },
+  {
+    "name": "Ayrton Senna",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/ayrton-senna-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/ayrton-senna-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/ayrton-senna-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/ayrton-senna-top-right.webp"
+    ],
+    "searchKeywords": "Ayrton Senna",
+    "rarityScore": 1456.0
+  },
+  {
+    "name": "Mika Hakkinen",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/mika-hakkinen-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/mika-hakkinen-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/mika-hakkinen-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/mika-hakkinen-top-right.webp"
+    ],
+    "searchKeywords": "Mika Hakkinen",
+    "rarityScore": 798.3000000000001
+  },
+  {
+    "name": "Michael Schumacher",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/michael-schumacher-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/michael-schumacher-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/michael-schumacher-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/michael-schumacher-top-right.webp"
+    ],
+    "searchKeywords": "Michael Schumacher",
+    "rarityScore": 2738.35
+  },
+  {
+    "name": "Damon Hill",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/damon-hill-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/damon-hill-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/damon-hill-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/damon-hill-top-right.webp"
+    ],
+    "searchKeywords": "Damon Hill",
+    "rarityScore": 690.5500000000001
+  },
+  {
+    "name": "Jacques Villeneuve",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jacques-villeneuve-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jacques-villeneuve-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/jacques-villeneuve-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jacques-villeneuve-top-right.webp"
+    ],
+    "searchKeywords": "Jacques Villeneuve",
+    "rarityScore": 407.7
+  },
+  {
+    "name": "Jenson Button",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jenson-button-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jenson-button-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/jenson-button-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jenson-button-top-right.webp"
+    ],
+    "searchKeywords": "Jenson Button",
+    "rarityScore": 802.6
+  },
+  {
+    "name": "Kimi Räikkönen",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-top-right.webp"
+    ],
+    "searchKeywords": "Kimi Räikkönen",
+    "rarityScore": 1369.35
+  },
+  {
+    "name": "Fernando Alonso",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/fernando-alonso-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/fernando-alonso-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/fernando-alonso-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/fernando-alonso-top-right.webp"
+    ],
+    "searchKeywords": "Fernando Alonso",
+    "rarityScore": 1658.7
+  },
+  {
+    "name": "Nico Rosberg",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/nico-rosberg-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/nico-rosberg-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/nico-rosberg-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/nico-rosberg-top-right.webp"
+    ],
+    "searchKeywords": "Nico Rosberg",
+    "rarityScore": 1107.6000000000001
   },
   {
     "name": "Sebastian Vettel",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/sebastian-vettel-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/sebastian-vettel-top-right.webp",
       "https://mclarenmp4-22.github.io/drivers/sebastian-vettel-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/sebastian-vettel-bottom-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/sebastian-vettel-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/sebastian-vettel-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/sebastian-vettel-top-right.webp"
     ],
     "searchKeywords": "Sebastian Vettel",
     "rarityScore": 2334.3999999999996
+  },
+  {
+    "name": "Lewis Hamilton",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/lewis-hamilton-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/lewis-hamilton-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/lewis-hamilton-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/lewis-hamilton-top-right.webp"
+    ],
+    "searchKeywords": "Lewis Hamilton",
+    "rarityScore": 4079.4
+  },
+  {
+    "name": "Max Verstappen",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/max-verstappen-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/max-verstappen-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/max-verstappen-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/max-verstappen-top-right.webp"
+    ],
+    "searchKeywords": "Max Verstappen",
+    "rarityScore": 2558.2000000000003
+  },
+  {
+    "name": "Lando Norris",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/lando-norris-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/lando-norris-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/lando-norris-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/lando-norris-top-right.webp"
+    ],
+    "searchKeywords": "Lando Norris",
+    "rarityScore": 799.6
   }
 ]

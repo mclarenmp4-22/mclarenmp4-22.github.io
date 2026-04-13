@@ -129,9 +129,11 @@ def fragment_regions(grand_prix_count: int) -> list[tuple[str, tuple[int, int, i
     ]
 
 
-def build_name(first_gp: str, last_gp: str) -> str:
+def build_name(first_gp: str, last_gp: str, is_in_latest_season: bool, max_year: str) -> str:
     first_year = first_gp[:4]
     last_year = last_gp[:4]
+    if is_in_latest_season:
+        last_year = max_year
     if first_year == last_year:
         return first_year
     return f"{first_year}-{last_year}"
@@ -143,10 +145,17 @@ def main() -> None:
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cur = conn.cursor()
+
+    cur.execute("SELECT MAX(Season) FROM Seasons")
+    max_year = str(cur.fetchone()[0])
+
+    cur.execute("SELECT DISTINCT CircuitID FROM GrandsPrix WHERE Season = ?", (max_year,))
+    circuits_in_latest = {row[0] for row in cur.fetchall()}
+
     cur.execute(
         """
         WITH LatestLocationName AS (
-            SELECT cl.Latitude, cl.Longitude, g.CircuitName
+            SELECT cl.Latitude, cl.Longitude, g.CircuitName, g.CircuitID
             FROM CircuitLayouts cl
             JOIN GrandsPrix g ON g.ID = cl.LastGrandPrixID
             WHERE cl.LastGrandPrixID = (
@@ -163,7 +172,7 @@ def main() -> None:
             cl.GrandPrixCount,
             cl.SVG,
             lln.CircuitName,
-            cl.GrandPrixCount
+            lln.CircuitID
         FROM CircuitLayouts cl
         JOIN LatestLocationName lln
           ON lln.Latitude = cl.Latitude
@@ -177,7 +186,8 @@ def main() -> None:
     manifest = []
     for row in rows:
         svg_text = row["SVG"]
-        name = build_name(row["FirstGrandPrix"], row["LastGrandPrix"])
+        is_in_latest = row["CircuitID"] in circuits_in_latest
+        name = build_name(row["FirstGrandPrix"], row["LastGrandPrix"], is_in_latest, max_year)
         circuit_name = row["CircuitName"]
         base_slug = f"{name}-{slugify(circuit_name)}-{row['ID']}"
         fragments = []
@@ -195,7 +205,7 @@ def main() -> None:
                 "category": circuit_name,
                 "searchKeywords": f"{circuit_name} ({name})",
                 "fragments": fragments,
-                "rarityScore": 25*row["GrandPrixCount"]
+                "rarityScore": 25 * row["GrandPrixCount"]
             }
         )
 
