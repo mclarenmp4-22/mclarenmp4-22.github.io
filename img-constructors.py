@@ -29,7 +29,8 @@ MIN_HEIGHT = 600
 OUTPUT_WIDTH = 1000
 OUTPUT_HEIGHT = 600
 MAX_IMAGES_PER_DRIVER = 10
-OUTPUT_DIR = "constructors"
+CHECK_DIR = "constructors"
+OUTPUT_DIR = "constructors_undivided"
 
 # Image search query templates for each driver
 QUERY_TEMPLATES = [
@@ -144,21 +145,34 @@ def crop_to_16x9(img: Image.Image) -> Image.Image:
 
 
 def sanitize(name: str) -> str:
-    return re.sub(r"\s+", "_", re.sub(r"[^\w\s-]", "", name).strip())[:60]
+    # Handle accents and special characters
+    import unicodedata
+    name = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('ascii')
+    name = name.lower().strip()
+    return re.sub(r"[^a-z0-9]+", "-", name).strip("-")
 
 
 def process_driver(driver_name: str) -> int:
     driver_slug = sanitize(driver_name)
 
-    # Check if already have enough images saved for this driver
-    existing = [f for f in os.listdir(OUTPUT_DIR) if f.startswith(driver_slug + "_")]
-    if len(existing) >= 1:
-        print(f"\n⏭️  {driver_name} — already has {len(existing)} images, skipping")
-        return len(existing)
+    # Check both folders (fragments in CHECK_DIR and raw in OUTPUT_DIR)
+    found_in = None
+    for folder in [CHECK_DIR, OUTPUT_DIR]:
+        if os.path.exists(folder):
+            # Check for any file starting with driver_slug (matches slug-fragment or slug_raw)
+            existing = [f for f in os.listdir(folder) if f.startswith(driver_slug)]
+            if len(existing) >= 1:
+                found_in = folder
+                break
+
+    if found_in:
+        print(f"\n⏭️  {driver_name} — already exists in {found_in}, skipping")
+        return 1
 
     print(f"\n🔍 {driver_name}")
 
     saved = 0
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     for query_template in QUERY_TEMPLATES:
         if saved >= MAX_IMAGES_PER_DRIVER:
             break
@@ -194,10 +208,11 @@ def process_driver(driver_name: str) -> int:
                 continue
 
             cropped = crop_to_16x9(img)
+            # Use underscore for multiple images if needed, but keep it clear
             out_name = f"{driver_slug}_{saved + 1}.webp"
             out_path = os.path.join(OUTPUT_DIR, out_name)
             cropped.save(out_path, format="WEBP", quality=80)
-            print(f"  ✅ saved as {out_name}")
+            print(f"  ✅ saved as {out_name} in {OUTPUT_DIR}")
             saved += 1
             time.sleep(0.3)
 

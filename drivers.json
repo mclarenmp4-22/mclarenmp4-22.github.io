@@ -24,6 +24,36 @@
     "rarityScore": 251.81599999999997
   },
   {
+    "name": "Luigi Fagioli",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/luigi-fagioli-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/luigi-fagioli-right.webp"
+    ],
+    "searchKeywords": "Luigi Fagioli",
+    "rarityScore": 53.45
+  },
+  {
+    "name": "José Froilán González",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jose-froilan-gonzalez-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jose-froilan-gonzalez-right.webp"
+    ],
+    "searchKeywords": "José Froilán González",
+    "rarityScore": 144.678
+  },
+  {
+    "name": "Maurice Trintignant",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/maurice-trintignant-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/maurice-trintignant-right.webp"
+    ],
+    "searchKeywords": "Maurice Trintignant",
+    "rarityScore": 101.06600000000002
+  },
+  {
     "name": "Alberto Ascari",
     "category": "World Champions",
     "fragments": [
@@ -34,6 +64,36 @@
     ],
     "searchKeywords": "Alberto Ascari",
     "rarityScore": 390.25
+  },
+  {
+    "name": "Piero Taruffi",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/piero-taruffi-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/piero-taruffi-right.webp"
+    ],
+    "searchKeywords": "Piero Taruffi",
+    "rarityScore": 50.00000000000001
+  },
+  {
+    "name": "Stirling Moss",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/stirling-moss-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/stirling-moss-right.webp"
+    ],
+    "searchKeywords": "Stirling Moss",
+    "rarityScore": 433.85
+  },
+  {
+    "name": "Peter Collins",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/peter-collins-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/peter-collins-right.webp"
+    ],
+    "searchKeywords": "Peter Collins",
+    "rarityScore": 95.8
   },
   {
     "name": "Mike Hawthorn",
@@ -48,6 +108,16 @@
     "rarityScore": 215.27800000000002
   },
   {
+    "name": "Luigi Musso",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/luigi-musso-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/luigi-musso-right.webp"
+    ],
+    "searchKeywords": "Luigi Musso",
+    "rarityScore": 62.9
+  },
+  {
     "name": "Jack Brabham",
     "category": "World Champions",
     "fragments": [
@@ -58,6 +128,36 @@
     ],
     "searchKeywords": "Jack Brabham",
     "rarityScore": 535.65
+  },
+  {
+    "name": "Tony Brooks",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/tony-brooks-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/tony-brooks-right.webp"
+    ],
+    "searchKeywords": "Tony Brooks",
+    "rarityScore": 154.79999999999998
+  },
+  {
+    "name": "Jo Bonnier",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jo-bonnier-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jo-bonnier-right.webp"
+    ],
+    "searchKeywords": "Jo Bonnier",
+    "rarityScore": 36.949999999999996
+  },
+  {
+    "name": "Wolfgang Von Trips",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/wolfgang-von-trips-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/wolfgang-von-trips-right.webp"
+    ],
+    "searchKeywords": "Wolfgang Von Trips",
+    "rarityScore": 75.7
   },
   {
     "name": "Graham Hill",
@@ -84,6 +184,36 @@
     "rarityScore": 208.55
   },
   {
+    "name": "Bruce McLaren",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/bruce-mclaren-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/bruce-mclaren-right.webp"
+    ],
+    "searchKeywords": "Bruce McLaren",
+    "rarityScore": 250.75000000000003
+  },
+  {
+    "name": "Innes Ireland",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/innes-ireland-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/innes-ireland-right.webp"
+    ],
+    "searchKeywords": "Innes Ireland",
+    "rarityScore": 47.3
+  },
+  {
+    "name": "Dan Gurney",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/dan-gurney-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/dan-gurney-right.webp"
+    ],
+    "searchKeywords": "Dan Gurney",
+    "rarityScore": 203.7
+  },
+  {
     "name": "John Surtees",
     "category": "World Champions",
     "fragments": [
@@ -96,6 +226,16 @@
     "rarityScore": 317.09999999999997
   },
   {
+    "name": "Richie Ginther",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/richie-ginther-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/richie-ginther-right.webp"
+    ],
+    "searchKeywords": "Richie Ginther",
+    "rarityScore": 121.25000000000001
+  },
+  {
     "name": "Jim Clark",
     "category": "World Champions",
     "fragments": [
@@ -106,6 +246,66 @@
     ],
     "searchKeywords": "Jim Clark",
     "rarityScore": 735.65
+  },
+  {
+    "name": "Lorenzo Bandini",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/lorenzo-bandini-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/lorenzo-bandini-right.webp"
+    ],
+    "searchKeywords": "Lorenzo Bandini",
+    "rarityScore": 79.3
+  },
+  {
+    "name": "Giancarlo Baghetti",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/giancarlo-baghetti-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/giancarlo-baghetti-right.webp"
+    ],
+    "searchKeywords": "Giancarlo Baghetti",
+    "rarityScore": 20.3
+  },
+  {
+    "name": "Pedro Rodriguez",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/pedro-rodriguez-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/pedro-rodriguez-right.webp"
+    ],
+    "searchKeywords": "Pedro Rodriguez",
+    "rarityScore": 80.55000000000001
+  },
+  {
+    "name": "Jo Siffert",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jo-siffert-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jo-siffert-right.webp"
+    ],
+    "searchKeywords": "Jo Siffert",
+    "rarityScore": 88.39999999999999
+  },
+  {
+    "name": "Ludovico Scarfiotti",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/ludovico-scarfiotti-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/ludovico-scarfiotti-right.webp"
+    ],
+    "searchKeywords": "Ludovico Scarfiotti",
+    "rarityScore": 20.3
+  },
+  {
+    "name": "Peter Revson",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/peter-revson-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/peter-revson-right.webp"
+    ],
+    "searchKeywords": "Peter Revson",
+    "rarityScore": 88.85
   },
   {
     "name": "Jochen Rindt",
@@ -144,6 +344,26 @@
     "rarityScore": 369.8
   },
   {
+    "name": "Jacky Ickx",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jacky-ickx-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jacky-ickx-right.webp"
+    ],
+    "searchKeywords": "Jacky Ickx",
+    "rarityScore": 347.6
+  },
+  {
+    "name": "Jean-Pierre Beltoise",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jean-pierre-beltoise-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jean-pierre-beltoise-right.webp"
+    ],
+    "searchKeywords": "Jean-Pierre Beltoise",
+    "rarityScore": 80.9
+  },
+  {
     "name": "Mario Andretti",
     "category": "World Champions",
     "fragments": [
@@ -154,6 +374,46 @@
     ],
     "searchKeywords": "Mario Andretti",
     "rarityScore": 403.3
+  },
+  {
+    "name": "François Cevert",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/francois-cevert-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/francois-cevert-right.webp"
+    ],
+    "searchKeywords": "François Cevert",
+    "rarityScore": 110.15
+  },
+  {
+    "name": "Ronnie Peterson",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/ronnie-peterson-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/ronnie-peterson-right.webp"
+    ],
+    "searchKeywords": "Ronnie Peterson",
+    "rarityScore": 384.85
+  },
+  {
+    "name": "Peter Gethin",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/peter-gethin-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/peter-gethin-right.webp"
+    ],
+    "searchKeywords": "Peter Gethin",
+    "rarityScore": 19.85
+  },
+  {
+    "name": "Clay Regazzoni",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/clay-regazzoni-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/clay-regazzoni-right.webp"
+    ],
+    "searchKeywords": "Clay Regazzoni",
+    "rarityScore": 300.34999999999997
   },
   {
     "name": "Emerson Fittipaldi",
@@ -180,6 +440,36 @@
     "rarityScore": 878.6
   },
   {
+    "name": "Carlos Pace",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/carlos-pace-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/carlos-pace-right.webp"
+    ],
+    "searchKeywords": "Carlos Pace",
+    "rarityScore": 68.64999999999999
+  },
+  {
+    "name": "Carlos Reutemann",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/carlos-reutemann-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/carlos-reutemann-right.webp"
+    ],
+    "searchKeywords": "Carlos Reutemann",
+    "rarityScore": 499.55
+  },
+  {
+    "name": "Patrick Depailler",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/patrick-depailler-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/patrick-depailler-right.webp"
+    ],
+    "searchKeywords": "Patrick Depailler",
+    "rarityScore": 175.79999999999998
+  },
+  {
     "name": "Jody Scheckter",
     "category": "World Champions",
     "fragments": [
@@ -204,6 +494,56 @@
     "rarityScore": 382.70000000000005
   },
   {
+    "name": "John Watson",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/john-watson-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/john-watson-right.webp"
+    ],
+    "searchKeywords": "John Watson",
+    "rarityScore": 228.15
+  },
+  {
+    "name": "Jochen Mass",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jochen-mass-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jochen-mass-right.webp"
+    ],
+    "searchKeywords": "Jochen Mass",
+    "rarityScore": 81.80000000000001
+  },
+  {
+    "name": "Vittorio Brambilla",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/vittorio-brambilla-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/vittorio-brambilla-right.webp"
+    ],
+    "searchKeywords": "Vittorio Brambilla",
+    "rarityScore": 30.150000000000002
+  },
+  {
+    "name": "Jean-Pierre Jabouille",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jean-pierre-jabouille-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jean-pierre-jabouille-right.webp"
+    ],
+    "searchKeywords": "Jean-Pierre Jabouille",
+    "rarityScore": 70.85
+  },
+  {
+    "name": "Jacques Laffite",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jacques-laffite-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jacques-laffite-right.webp"
+    ],
+    "searchKeywords": "Jacques Laffite",
+    "rarityScore": 350.2
+  },
+  {
     "name": "Alan Jones",
     "category": "World Champions",
     "fragments": [
@@ -214,6 +554,66 @@
     ],
     "searchKeywords": "Alan Jones",
     "rarityScore": 373.4
+  },
+  {
+    "name": "Gunnar Nilsson",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/gunnar-nilsson-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/gunnar-nilsson-right.webp"
+    ],
+    "searchKeywords": "Gunnar Nilsson",
+    "rarityScore": 42.300000000000004
+  },
+  {
+    "name": "Riccardo Patrese",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/riccardo-patrese-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/riccardo-patrese-right.webp"
+    ],
+    "searchKeywords": "Riccardo Patrese",
+    "rarityScore": 400.95
+  },
+  {
+    "name": "Patrick Tambay",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/patrick-tambay-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/patrick-tambay-right.webp"
+    ],
+    "searchKeywords": "Patrick Tambay",
+    "rarityScore": 142.64999999999998
+  },
+  {
+    "name": "Gilles Villeneuve",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/gilles-villeneuve-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/gilles-villeneuve-right.webp"
+    ],
+    "searchKeywords": "Gilles Villeneuve",
+    "rarityScore": 176.4
+  },
+  {
+    "name": "Didier Pironi",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/didier-pironi-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/didier-pironi-right.webp"
+    ],
+    "searchKeywords": "Didier Pironi",
+    "rarityScore": 156.79999999999998
+  },
+  {
+    "name": "René Arnoux",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/rene-arnoux-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/rene-arnoux-right.webp"
+    ],
+    "searchKeywords": "René Arnoux",
+    "rarityScore": 349.5
   },
   {
     "name": "Keke Rosberg",
@@ -240,6 +640,16 @@
     "rarityScore": 912.7
   },
   {
+    "name": "Elio De Angelis",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/elio-de-angelis-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/elio-de-angelis-right.webp"
+    ],
+    "searchKeywords": "Elio De Angelis",
+    "rarityScore": 123.75000000000001
+  },
+  {
     "name": "Alain Prost",
     "category": "World Champions",
     "fragments": [
@@ -264,6 +674,26 @@
     "rarityScore": 976.0999999999999
   },
   {
+    "name": "Michele Alboreto",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/michele-alboreto-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/michele-alboreto-right.webp"
+    ],
+    "searchKeywords": "Michele Alboreto",
+    "rarityScore": 251.6
+  },
+  {
+    "name": "Thierry Boutsen",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/thierry-boutsen-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/thierry-boutsen-right.webp"
+    ],
+    "searchKeywords": "Thierry Boutsen",
+    "rarityScore": 166.45
+  },
+  {
     "name": "Ayrton Senna",
     "category": "World Champions",
     "fragments": [
@@ -274,6 +704,46 @@
     ],
     "searchKeywords": "Ayrton Senna",
     "rarityScore": 1456.0
+  },
+  {
+    "name": "Gerhard Berger",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/gerhard-berger-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/gerhard-berger-right.webp"
+    ],
+    "searchKeywords": "Gerhard Berger",
+    "rarityScore": 549.6
+  },
+  {
+    "name": "Alessandro Nannini",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/alessandro-nannini-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/alessandro-nannini-right.webp"
+    ],
+    "searchKeywords": "Alessandro Nannini",
+    "rarityScore": 81.64999999999999
+  },
+  {
+    "name": "Johnny Herbert",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/johnny-herbert-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/johnny-herbert-right.webp"
+    ],
+    "searchKeywords": "Johnny Herbert",
+    "rarityScore": 105.1
+  },
+  {
+    "name": "Jean Alesi",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jean-alesi-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jean-alesi-right.webp"
+    ],
+    "searchKeywords": "Jean Alesi",
+    "rarityScore": 279.04999999999995
   },
   {
     "name": "Mika Hakkinen",
@@ -312,6 +782,56 @@
     "rarityScore": 690.5500000000001
   },
   {
+    "name": "Rubens Barrichello",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/rubens-barrichello-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/rubens-barrichello-right.webp"
+    ],
+    "searchKeywords": "Rubens Barrichello",
+    "rarityScore": 760.95
+  },
+  {
+    "name": "Eddie Irvine",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/eddie-irvine-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/eddie-irvine-right.webp"
+    ],
+    "searchKeywords": "Eddie Irvine",
+    "rarityScore": 247.1
+  },
+  {
+    "name": "Olivier Panis",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/olivier-panis-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/olivier-panis-right.webp"
+    ],
+    "searchKeywords": "Olivier Panis",
+    "rarityScore": 70.05000000000001
+  },
+  {
+    "name": "Heinz-Harald Frentzen",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/heinz-harald-frentzen-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/heinz-harald-frentzen-right.webp"
+    ],
+    "searchKeywords": "Heinz-Harald Frentzen",
+    "rarityScore": 198.05
+  },
+  {
+    "name": "David Coulthard",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/david-coulthard-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/david-coulthard-right.webp"
+    ],
+    "searchKeywords": "David Coulthard",
+    "rarityScore": 700.35
+  },
+  {
     "name": "Jacques Villeneuve",
     "category": "World Champions",
     "fragments": [
@@ -322,6 +842,36 @@
     ],
     "searchKeywords": "Jacques Villeneuve",
     "rarityScore": 407.7
+  },
+  {
+    "name": "Giancarlo Fisichella",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/giancarlo-fisichella-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/giancarlo-fisichella-right.webp"
+    ],
+    "searchKeywords": "Giancarlo Fisichella",
+    "rarityScore": 245.45000000000002
+  },
+  {
+    "name": "Ralf Schumacher",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/ralf-schumacher-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/ralf-schumacher-right.webp"
+    ],
+    "searchKeywords": "Ralf Schumacher",
+    "rarityScore": 339.1
+  },
+  {
+    "name": "Jarno Trulli",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/jarno-trulli-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/jarno-trulli-right.webp"
+    ],
+    "searchKeywords": "Jarno Trulli",
+    "rarityScore": 172.8
   },
   {
     "name": "Jenson Button",
@@ -336,13 +886,23 @@
     "rarityScore": 802.6
   },
   {
+    "name": "Juan-Pablo Montoya",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/juan-pablo-montoya-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/juan-pablo-montoya-right.webp"
+    ],
+    "searchKeywords": "Juan-Pablo Montoya",
+    "rarityScore": 392.2
+  },
+  {
     "name": "Kimi Räikkönen",
     "category": "World Champions",
     "fragments": [
-      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-bottom-right.webp",
-      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-top-left.webp",
-      "https://mclarenmp4-22.github.io/drivers/kimi-r-ikk-nen-top-right.webp"
+      "https://mclarenmp4-22.github.io/drivers/kimi-raikkonen-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/kimi-raikkonen-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/drivers/kimi-raikkonen-top-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/kimi-raikkonen-top-right.webp"
     ],
     "searchKeywords": "Kimi Räikkönen",
     "rarityScore": 1369.35
@@ -360,6 +920,26 @@
     "rarityScore": 1658.7
   },
   {
+    "name": "Felipe Massa",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/felipe-massa-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/felipe-massa-right.webp"
+    ],
+    "searchKeywords": "Felipe Massa",
+    "rarityScore": 711.75
+  },
+  {
+    "name": "Mark Webber",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/mark-webber-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/mark-webber-right.webp"
+    ],
+    "searchKeywords": "Mark Webber",
+    "rarityScore": 647.0
+  },
+  {
     "name": "Nico Rosberg",
     "category": "World Champions",
     "fragments": [
@@ -370,6 +950,16 @@
     ],
     "searchKeywords": "Nico Rosberg",
     "rarityScore": 1107.6000000000001
+  },
+  {
+    "name": "Robert Kubica",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/robert-kubica-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/robert-kubica-right.webp"
+    ],
+    "searchKeywords": "Robert Kubica",
+    "rarityScore": 155.05
   },
   {
     "name": "Sebastian Vettel",
@@ -396,6 +986,56 @@
     "rarityScore": 4079.4
   },
   {
+    "name": "Heikki Kovalainen",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/heikki-kovalainen-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/heikki-kovalainen-right.webp"
+    ],
+    "searchKeywords": "Heikki Kovalainen",
+    "rarityScore": 74.14999999999999
+  },
+  {
+    "name": "Pastor Maldonado",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/pastor-maldonado-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/pastor-maldonado-right.webp"
+    ],
+    "searchKeywords": "Pastor Maldonado",
+    "rarityScore": 46.75000000000001
+  },
+  {
+    "name": "Sergio Perez",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/sergio-perez-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/sergio-perez-right.webp"
+    ],
+    "searchKeywords": "Sergio Perez",
+    "rarityScore": 676.2
+  },
+  {
+    "name": "Daniel Ricciardo",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/daniel-ricciardo-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/daniel-ricciardo-right.webp"
+    ],
+    "searchKeywords": "Daniel Ricciardo",
+    "rarityScore": 587.15
+  },
+  {
+    "name": "Valtteri Bottas",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/valtteri-bottas-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/valtteri-bottas-right.webp"
+    ],
+    "searchKeywords": "Valtteri Bottas",
+    "rarityScore": 1004.85
+  },
+  {
     "name": "Max Verstappen",
     "category": "World Champions",
     "fragments": [
@@ -408,6 +1048,56 @@
     "rarityScore": 2558.2000000000003
   },
   {
+    "name": "Esteban Ocon",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/esteban-ocon-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/esteban-ocon-right.webp"
+    ],
+    "searchKeywords": "Esteban Ocon",
+    "rarityScore": 154.50000000000003
+  },
+  {
+    "name": "Carlos Sainz",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/carlos-sainz-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/carlos-sainz-right.webp"
+    ],
+    "searchKeywords": "Carlos Sainz",
+    "rarityScore": 543.8000000000001
+  },
+  {
+    "name": "Charles Leclerc",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/charles-leclerc-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/charles-leclerc-right.webp"
+    ],
+    "searchKeywords": "Charles Leclerc",
+    "rarityScore": 907.35
+  },
+  {
+    "name": "Pierre Gasly",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/pierre-gasly-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/pierre-gasly-right.webp"
+    ],
+    "searchKeywords": "Pierre Gasly",
+    "rarityScore": 158.30000000000004
+  },
+  {
+    "name": "George Russell",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/george-russell-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/george-russell-right.webp"
+    ],
+    "searchKeywords": "George Russell",
+    "rarityScore": 505.55
+  },
+  {
     "name": "Lando Norris",
     "category": "World Champions",
     "fragments": [
@@ -418,5 +1108,25 @@
     ],
     "searchKeywords": "Lando Norris",
     "rarityScore": 799.6
+  },
+  {
+    "name": "Oscar Piastri",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/oscar-piastri-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/oscar-piastri-right.webp"
+    ],
+    "searchKeywords": "Oscar Piastri",
+    "rarityScore": 458.90000000000003
+  },
+  {
+    "name": "Kimi Antonelli",
+    "category": "Race Winners",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/drivers/kimi-antonelli-left.webp",
+      "https://mclarenmp4-22.github.io/drivers/kimi-antonelli-right.webp"
+    ],
+    "searchKeywords": "Kimi Antonelli",
+    "rarityScore": 114.85000000000001
   }
 ]

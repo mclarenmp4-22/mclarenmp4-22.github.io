@@ -1,5 +1,161 @@
 [
   {
+    "name": "Cooper",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/cooper-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/cooper-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/cooper-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/cooper-top-right.webp"
+    ],
+    "searchKeywords": "Cooper",
+    "rarityScore": 765.95
+  },
+  {
+    "name": "Ferrari",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/ferrari-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/ferrari-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/ferrari-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/ferrari-top-right.webp"
+    ],
+    "searchKeywords": "Ferrari",
+    "rarityScore": 12007.154
+  },
+  {
+    "name": "BRM",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/brm-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/brm-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/brm-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/brm-top-right.webp"
+    ],
+    "searchKeywords": "BRM",
+    "rarityScore": 767.9499999999999
+  },
+  {
+    "name": "Mercedes",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/mercedes-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/mercedes-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/mercedes-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/mercedes-top-right.webp"
+    ],
+    "searchKeywords": "Mercedes",
+    "rarityScore": 6019.278
+  },
+  {
+    "name": "Vanwall",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/vanwall-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/vanwall-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/vanwall-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/vanwall-top-right.webp"
+    ],
+    "searchKeywords": "Vanwall",
+    "rarityScore": 272.95
+  },
+  {
+    "name": "Lotus",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/lotus-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/lotus-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/lotus-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/lotus-top-right.webp"
+    ],
+    "searchKeywords": "Lotus",
+    "rarityScore": 3322.5
+  },
+  {
+    "name": "Brabham",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/brabham-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/brabham-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/brabham-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/brabham-top-right.webp"
+    ],
+    "searchKeywords": "Brabham",
+    "rarityScore": 1623.95
+  },
+  {
+    "name": "McLaren",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/mclaren-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/mclaren-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/mclaren-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/mclaren-top-right.webp"
+    ],
+    "searchKeywords": "McLaren",
+    "rarityScore": 8456.55
+  },
+  {
+    "name": "Matra",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/matra-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/matra-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/matra-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/matra-top-right.webp"
+    ],
+    "searchKeywords": "Matra",
+    "rarityScore": 311.65
+  },
+  {
+    "name": "Tyrrell",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/tyrrell-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/tyrrell-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/tyrrell-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/tyrrell-top-right.webp"
+    ],
+    "searchKeywords": "Tyrrell",
+    "rarityScore": 1004.7500000000001
+  },
+  {
+    "name": "Williams",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/williams-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/williams-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/williams-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/williams-top-right.webp"
+    ],
+    "searchKeywords": "Williams",
+    "rarityScore": 4905.9
+  },
+  {
+    "name": "Renault",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/renault-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/renault-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/renault-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/renault-top-right.webp"
+    ],
+    "searchKeywords": "Renault",
+    "rarityScore": 1733.4
+  },
+  {
+    "name": "Benetton",
+    "category": "World Champions",
+    "fragments": [
+      "https://mclarenmp4-22.github.io/constructors/benetton-bottom-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/benetton-bottom-right.webp",
+      "https://mclarenmp4-22.github.io/constructors/benetton-top-left.webp",
+      "https://mclarenmp4-22.github.io/constructors/benetton-top-right.webp"
+    ],
+    "searchKeywords": "Benetton",
+    "rarityScore": 1212.5
+  },
+  {
     "name": "Red Bull",
     "category": "World Champions",
     "fragments": [

@@ -16,6 +16,9 @@ DRIVERS_UNDIVIDED = ROOT / "drivers_undivided"
 CONSTRUCTORS_UNDIVIDED = ROOT / "constructors_undivided"
 
 def clean_slug(text: str) -> str:
+    # Handle accents and special characters (e.g., Räikkönen -> raikkonen)
+    import unicodedata
+    text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('ascii')
     text = text.lower().strip()
     text = re.sub(r"[^a-z0-9]+", "-", text)
     return text.strip("-")
@@ -64,92 +67,130 @@ def get_fragment_count(stats: dict) -> int:
         return 2
     return 1
 
-def process_images(type_name: str, stats_dict: dict, entrants: set, source_dir: Path, undivided_dir: Path, output_json: str, base_url: str):
-    undivided_dir.mkdir(exist_ok=True)
+def process_images(type_name: str, stats_dict: dict, entrants: set, source_dir: Path, output_dir: Path, output_json: str, base_url: str):
+    output_dir.mkdir(exist_ok=True)
+    source_dir.mkdir(exist_ok=True)
     manifest = []
     
-    # 1. Group files by entity (slug)
+    # Track all valid files in this run
+    valid_files = set()
+
+    # 1. Group files by entity (slug) from ALL folders (undivided and primary)
     files_by_entity = {}
-    for f in source_dir.glob("*.webp"):
+    
+    # Check undivided and main output dir for raw images
+    for folder in [source_dir, output_dir]:
+        for f in folder.glob("*.webp"):
+            stem = f.stem
+            # Ignore fragment files when looking for raw images
+            is_frag = False
+            for suffix in ["-top-left", "-top-right", "-bottom-left", "-bottom-right", "-left", "-right", "-full"]:
+                if stem.endswith(suffix):
+                    is_frag = True
+                    break
+            if is_frag:
+                continue
+
+            base_name = stem
+            if "_" in stem:
+                parts = stem.rsplit("_", 1)
+                if parts[1].isdigit():
+                    base_name = parts[0]
+            
+            entity_key = clean_slug(base_name)
+            files_by_entity.setdefault(entity_key, {"raw": [], "fragments": {}} )
+            if f not in files_by_entity[entity_key]["raw"]:
+                files_by_entity[entity_key]["raw"].append(f)
+
+    # Check output folder for existing fragments
+    for f in output_dir.glob("*.webp"):
         stem = f.stem
-        # Check if it's a fragment
-        is_fragment = False
         base = stem
+        is_fragment = False
         for suffix in ["-top-left", "-top-right", "-bottom-left", "-bottom-right", "-left", "-right", "-full"]:
             if stem.endswith(suffix):
                 base = stem[:-len(suffix)]
                 is_fragment = True
                 break
         
-        # Check for numeric suffix like _1
-        base_name = base
-        if "_" in base:
-            parts = base.rsplit("_", 1)
-            if parts[1].isdigit():
-                base_name = parts[0]
-        
-        # Use slug instead of direct name for the key
-        entity_key = clean_slug(base_name)
-        files_by_entity.setdefault(entity_key, {"raw": [], "fragments": {}} )
         if is_fragment:
+            entity_key = clean_slug(base)
+            files_by_entity.setdefault(entity_key, {"raw": [], "fragments": {}} )
             files_by_entity[entity_key]["fragments"][stem] = f
-        else:
-            files_by_entity[entity_key]["raw"].append(f)
 
     # 2. Process each entity
     for s_name, stats in stats_dict.items():
-        found_data = files_by_entity.get(clean_slug(s_name))
+        entity_key = clean_slug(s_name)
+        found_data = files_by_entity.get(entity_key)
         if not found_data:
             continue
             
-        count = get_fragment_count(stats)
-        slug = clean_slug(s_name)
-        
-        # Determine if we should recompute
-        # Rules:
-        # - Champions: 4 frags
-        # - Winners: 2 frags
-        # - Everyone else: 1 frag (raw)
+        target_count = get_fragment_count(stats)
+        is_recent_entrant = s_name in entrants
         
         fragments = []
         
-        # Case A: We have raw images
-        if found_data["raw"]:
+        # Decide if we need to re-fragment/rename/standardize
+        needs_refragment = is_recent_entrant or not found_data["fragments"]
+        
+        # Standardize check: If existing fragments don't match the new lowercase-hyphenated key, we re-fragment
+        if not needs_refragment and found_data["fragments"]:
+            # If any existing fragment doesn't start with the correct slug, re-save them
+            first_frag = next(iter(found_data["fragments"].keys()))
+            if not first_frag.startswith(entity_key + "-"):
+                needs_refragment = True
+            
+            # Count check
+            if not needs_refragment and len(found_data["raw"]) == 1 and len(found_data["fragments"]) != target_count:
+                needs_refragment = True
+
+        if needs_refragment and found_data["raw"]:
             for i, raw_path in enumerate(found_data["raw"]):
-                current_slug = f"{slug}-{i+1}" if len(found_data["raw"]) > 1 else slug
-                
-                # Copy to undivided if not champion (as per user instruction)
-                if stats["Championships"] == 0:
-                    shutil.copy2(raw_path, undivided_dir / f"{current_slug}.webp")
+                current_slug = f"{entity_key}-{i+1}" if len(found_data["raw"]) > 1 else entity_key
                 
                 with Image.open(raw_path) as img:
                     w, h = img.size
-                    if count == 4:
-                        boxes = [
-                            ("top-left", (0, 0, w//2, h//2)),
-                            ("top-right", (w//2, 0, w, h//2)),
-                            ("bottom-left", (0, h//2, w//2, h)),
-                            ("bottom-right", (w//2, h//2, w, h)),
-                        ]
-                    elif count == 2:
-                        boxes = [
-                            ("left", (0, 0, w//2, h)),
-                            ("right", (w//2, 0, w, h)),
-                        ]
+                    if target_count == 4:
+                        boxes = [("top-left", (0, 0, w//2, h//2)), ("top-right", (w//2, 0, w, h//2)), ("bottom-left", (0, h//2, w//2, h)), ("bottom-right", (w//2, h//2, w, h))]
+                    elif target_count == 2:
+                        boxes = [("left", (0, 0, w//2, h)), ("right", (w//2, 0, w, h))]
                     else:
                         boxes = [("full", (0, 0, w, h))]
                     
                     for suffix, box in boxes:
                         frag_name = f"{current_slug}-{suffix}.webp"
-                        frag_path = source_dir / frag_name
-                        img.crop(box).save(frag_path, format="WEBP", quality=80)
+                        img.crop(box).save(output_dir / frag_name, format="WEBP", quality=80)
                         fragments.append(f"{base_url}/{type_name}/{frag_name}")
-        
-        # Case B: We ONLY have existing fragments (likely champions)
-        elif found_data["fragments"]:
-            # If we don't have raw, we just list the fragments we found
-            for frag_stem in sorted(found_data["fragments"].keys()):
-                fragments.append(f"{base_url}/{type_name}/{frag_stem}.webp")
+                        valid_files.add(frag_name)
+        else:
+            # Reuse existing fragments, but standardize names (e.g., Alain_Prost -> alain-prost)
+            if found_data["fragments"]:
+                for frag_stem in sorted(found_data["fragments"].keys()):
+                    # Identify the suffix
+                    suffix = ""
+                    for s in ["-top-left", "-top-right", "-bottom-left", "-bottom-right", "-left", "-right", "-full"]:
+                        if frag_stem.endswith(s):
+                            suffix = s
+                            break
+                    
+                    # Construct new name
+                    new_frag_name = f"{entity_key}{suffix}.webp"
+                    old_path = output_dir / f"{frag_stem}.webp"
+                    new_path = output_dir / new_frag_name
+                    
+                    if old_path.exists() and old_path != new_path:
+                        print(f"Renaming fragment {old_path.name} -> {new_frag_name}")
+                        old_path.replace(new_path)
+                    
+                    fragments.append(f"{base_url}/{type_name}/{new_frag_name}")
+                    valid_files.add(new_frag_name)
+            elif found_data["raw"]:
+                for i, raw_path in enumerate(found_data["raw"]):
+                    current_slug = f"{entity_key}-{i+1}" if len(found_data["raw"]) > 1 else entity_key
+                    frag_name = f"{current_slug}-full.webp"
+                    shutil.copy2(raw_path, output_dir / frag_name)
+                    fragments.append(f"{base_url}/{type_name}/{frag_name}")
+                    valid_files.add(frag_name)
 
         if fragments:
             manifest.append({
@@ -164,6 +205,12 @@ def process_images(type_name: str, stats_dict: dict, entrants: set, source_dir: 
     output_file.write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Generated {len(manifest)} entries for {type_name}")
 
+    # Cleanup: Remove any .webp files in output_dir NOT in valid_files
+    for f in output_dir.glob("*.webp"):
+        if f.name not in valid_files:
+            f.unlink()
+
+
 def main():
     race_id, season, d_entrants, c_entrants = get_latest_race_info()
     print(f"Latest Race: {race_id} ({season})")
@@ -171,8 +218,8 @@ def main():
     d_stats = fetch_stats("Drivers", "Name")
     c_stats = fetch_stats("Constructors", "ConstructorName")
     
-    process_images("drivers", d_stats, d_entrants, DRIVERS_DIR, DRIVERS_UNDIVIDED, "drivers.json", "https://mclarenmp4-22.github.io")
-    process_images("constructors", c_stats, c_entrants, CONSTRUCTORS_DIR, CONSTRUCTORS_UNDIVIDED, "constructors.json", "https://mclarenmp4-22.github.io")
+    process_images("drivers", d_stats, d_entrants, DRIVERS_UNDIVIDED, DRIVERS_DIR, "drivers.json", "https://mclarenmp4-22.github.io")
+    process_images("constructors", c_stats, c_entrants, CONSTRUCTORS_UNDIVIDED, CONSTRUCTORS_DIR, "constructors.json", "https://mclarenmp4-22.github.io")
 
 if __name__ == "__main__":
     main()
