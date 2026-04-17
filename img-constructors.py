@@ -23,7 +23,7 @@ from bs4 import BeautifulSoup
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 
-DRIVER_LIMIT = 1
+DRIVER_LIMIT = 500
 MIN_WIDTH = 1000
 MIN_HEIGHT = 600
 OUTPUT_WIDTH = 1000
@@ -34,6 +34,8 @@ OUTPUT_DIR = "constructors_undivided"
 
 # Image search query templates for each driver
 QUERY_TEMPLATES = [
+    "{} F1 car on track, racing",
+    "{} F1 Team",
     "{} Formula One car on track, racing",
     "{} Formula One car on track",
     "{} in an F1 car",
@@ -67,7 +69,7 @@ def get_drivers_from_db() -> list:
     cur.execute("""
         SELECT ConstructorName, Starts
         FROM Constructors
-        WHERE Championships > 0
+        WHERE Wins > 0 AND indy500only = 0
     """,)
     rows = cur.fetchall()
     random.shuffle(rows)
