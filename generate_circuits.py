@@ -197,7 +197,7 @@ def main() -> None:
             image = full_image.crop(crop_box)
             filename = f"{base_slug}-{fragment_name}.webp"
             image.save(OUTPUT_DIR / filename, format="WEBP", quality=WEBP_QUALITY, method=6)
-            fragments.append(f"https://mclarenmp4-22.github.io/circuits/{filename}")
+            fragments.append(f"https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/{filename}")
 
         manifest.append(
             {

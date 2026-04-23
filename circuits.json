@@ -4,8 +4,8 @@
     "category": "Autodromo Nazionale Monza",
     "searchKeywords": "Autodromo Nazionale Monza (1950-1954)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1950-1954-autodromo-nazionale-monza-100-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1950-1954-autodromo-nazionale-monza-100-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1954-autodromo-nazionale-monza-100-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1954-autodromo-nazionale-monza-100-right.webp"
     ],
     "rarityScore": 125
   },
@@ -14,8 +14,8 @@
     "category": "Circuit Bremgarten",
     "searchKeywords": "Circuit Bremgarten (1950-1954)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1950-1954-circuit-bremgarten-19-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1950-1954-circuit-bremgarten-19-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1954-circuit-bremgarten-19-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1954-circuit-bremgarten-19-right.webp"
     ],
     "rarityScore": 125
   },
@@ -24,7 +24,7 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (1950)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1950-circuit-de-monaco-81-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-circuit-de-monaco-81-full.webp"
     ],
     "rarityScore": 25
   },
@@ -33,8 +33,8 @@
     "category": "Circuit de Spa-Francorchamps",
     "searchKeywords": "Circuit de Spa-Francorchamps (1950-1970)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1950-1970-circuit-de-spa-francorchamps-150-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1950-1970-circuit-de-spa-francorchamps-150-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1970-circuit-de-spa-francorchamps-150-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1970-circuit-de-spa-francorchamps-150-right.webp"
     ],
     "rarityScore": 450
   },
@@ -43,8 +43,8 @@
     "category": "Indianapolis Motor Speedway",
     "searchKeywords": "Indianapolis Motor Speedway (1950-1960)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1950-1960-indianapolis-motor-speedway-48-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1950-1960-indianapolis-motor-speedway-48-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1960-indianapolis-motor-speedway-48-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1960-indianapolis-motor-speedway-48-right.webp"
     ],
     "rarityScore": 275
   },
@@ -53,7 +53,7 @@
     "category": "Reims-Gueux",
     "searchKeywords": "Reims-Gueux (1950-1951)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1950-1951-reims-gueux-124-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1951-reims-gueux-124-full.webp"
     ],
     "rarityScore": 50
   },
@@ -62,7 +62,7 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (1950-1951)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1950-1951-silverstone-circuit-135-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1950-1951-silverstone-circuit-135-full.webp"
     ],
     "rarityScore": 50
   },
@@ -71,10 +71,10 @@
     "category": "Nürburgring",
     "searchKeywords": "Nürburgring (1951-1976)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1951-1976-n-rburgring-112-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1951-1976-n-rburgring-112-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/1951-1976-n-rburgring-112-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1951-1976-n-rburgring-112-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1951-1976-n-rburgring-112-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1951-1976-n-rburgring-112-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1951-1976-n-rburgring-112-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1951-1976-n-rburgring-112-bottom-right.webp"
     ],
     "rarityScore": 550
   },
@@ -83,7 +83,7 @@
     "category": "Pedralbes Circuit",
     "searchKeywords": "Pedralbes Circuit (1951-1954)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1951-1954-pedralbes-circuit-118-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1951-1954-pedralbes-circuit-118-full.webp"
     ],
     "rarityScore": 50
   },
@@ -92,8 +92,8 @@
     "category": "Circuit Park Zandvoort",
     "searchKeywords": "Circuit Park Zandvoort (1952-1971)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1952-1971-circuit-park-zandvoort-164-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1952-1971-circuit-park-zandvoort-164-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1952-1971-circuit-park-zandvoort-164-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1952-1971-circuit-park-zandvoort-164-right.webp"
     ],
     "rarityScore": 425
   },
@@ -102,7 +102,7 @@
     "category": "Rouen-Les-Essarts",
     "searchKeywords": "Rouen-Les-Essarts (1952)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1952-rouen-les-essarts-127-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1952-rouen-les-essarts-127-full.webp"
     ],
     "rarityScore": 25
   },
@@ -111,8 +111,8 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (1952-1973)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1952-1973-silverstone-circuit-136-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1952-1973-silverstone-circuit-136-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1952-1973-silverstone-circuit-136-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1952-1973-silverstone-circuit-136-right.webp"
     ],
     "rarityScore": 300
   },
@@ -121,8 +121,8 @@
     "category": "Autódromo Oscar Alfredo Gálvez",
     "searchKeywords": "Autódromo Oscar Alfredo Gálvez (1953-1960)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1953-1960-aut-dromo-oscar-alfredo-g-lvez-20-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1953-1960-aut-dromo-oscar-alfredo-g-lvez-20-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1953-1960-aut-dromo-oscar-alfredo-g-lvez-20-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1953-1960-aut-dromo-oscar-alfredo-g-lvez-20-right.webp"
     ],
     "rarityScore": 175
   },
@@ -131,8 +131,8 @@
     "category": "Reims-Gueux",
     "searchKeywords": "Reims-Gueux (1953-1966)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1953-1966-reims-gueux-125-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1953-1966-reims-gueux-125-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1953-1966-reims-gueux-125-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1953-1966-reims-gueux-125-right.webp"
     ],
     "rarityScore": 225
   },
@@ -141,8 +141,8 @@
     "category": "Aintree Motor Racing Circuit",
     "searchKeywords": "Aintree Motor Racing Circuit (1955-1962)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1955-1962-aintree-motor-racing-circuit-4-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1955-1962-aintree-motor-racing-circuit-4-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1955-1962-aintree-motor-racing-circuit-4-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1955-1962-aintree-motor-racing-circuit-4-right.webp"
     ],
     "rarityScore": 125
   },
@@ -151,7 +151,7 @@
     "category": "Autodromo Nazionale Monza",
     "searchKeywords": "Autodromo Nazionale Monza (1955-1961)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1955-1961-autodromo-nazionale-monza-101-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1955-1961-autodromo-nazionale-monza-101-full.webp"
     ],
     "rarityScore": 100
   },
@@ -160,8 +160,8 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (1955-1962)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1955-1962-circuit-de-monaco-82-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1955-1962-circuit-de-monaco-82-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1955-1962-circuit-de-monaco-82-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1955-1962-circuit-de-monaco-82-right.webp"
     ],
     "rarityScore": 200
   },
@@ -170,8 +170,8 @@
     "category": "Autodromo Nazionale Monza",
     "searchKeywords": "Autodromo Nazionale Monza (1957-1971)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1957-1971-autodromo-nazionale-monza-102-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1957-1971-autodromo-nazionale-monza-102-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1957-1971-autodromo-nazionale-monza-102-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1957-1971-autodromo-nazionale-monza-102-right.webp"
     ],
     "rarityScore": 325
   },
@@ -180,7 +180,7 @@
     "category": "Pescara Circuit",
     "searchKeywords": "Pescara Circuit (1957)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1957-pescara-circuit-119-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1957-pescara-circuit-119-full.webp"
     ],
     "rarityScore": 25
   },
@@ -189,7 +189,7 @@
     "category": "Rouen-Les-Essarts",
     "searchKeywords": "Rouen-Les-Essarts (1957-1968)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1957-1968-rouen-les-essarts-128-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1957-1968-rouen-les-essarts-128-full.webp"
     ],
     "rarityScore": 100
   },
@@ -198,7 +198,7 @@
     "category": "Ain-Diab Circuit",
     "searchKeywords": "Ain-Diab Circuit (1958)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1958-ain-diab-circuit-3-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1958-ain-diab-circuit-3-full.webp"
     ],
     "rarityScore": 25
   },
@@ -207,7 +207,7 @@
     "category": "Circuito da Boavista",
     "searchKeywords": "Circuito da Boavista (1958-1960)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1958-1960-circuito-da-boavista-123-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1958-1960-circuito-da-boavista-123-full.webp"
     ],
     "rarityScore": 50
   },
@@ -216,7 +216,7 @@
     "category": "AVUS",
     "searchKeywords": "AVUS (1959)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1959-avus-9-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1959-avus-9-full.webp"
     ],
     "rarityScore": 25
   },
@@ -225,7 +225,7 @@
     "category": "Circuito de Monsanto",
     "searchKeywords": "Circuito de Monsanto (1959)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1959-circuito-de-monsanto-90-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1959-circuito-de-monsanto-90-full.webp"
     ],
     "rarityScore": 25
   },
@@ -234,7 +234,7 @@
     "category": "Sebring International Raceway",
     "searchKeywords": "Sebring International Raceway (1959)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1959-sebring-international-raceway-133-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1959-sebring-international-raceway-133-full.webp"
     ],
     "rarityScore": 25
   },
@@ -243,7 +243,7 @@
     "category": "Riverside International Raceway",
     "searchKeywords": "Riverside International Raceway (1960)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1960-riverside-international-raceway-126-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1960-riverside-international-raceway-126-full.webp"
     ],
     "rarityScore": 25
   },
@@ -252,8 +252,8 @@
     "category": "Watkins Glen International",
     "searchKeywords": "Watkins Glen International (1961-1970)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1961-1970-watkins-glen-international-158-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1961-1970-watkins-glen-international-158-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1961-1970-watkins-glen-international-158-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1961-1970-watkins-glen-international-158-right.webp"
     ],
     "rarityScore": 250
   },
@@ -262,7 +262,7 @@
     "category": "Prince George Circuit",
     "searchKeywords": "Prince George Circuit (1962-1965)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1962-1965-prince-george-circuit-32-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1962-1965-prince-george-circuit-32-full.webp"
     ],
     "rarityScore": 75
   },
@@ -271,8 +271,8 @@
     "category": "Autódromo Hermanos Rodríguez",
     "searchKeywords": "Autódromo Hermanos Rodríguez (1963-1970)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1963-1970-aut-dromo-hermanos-rodr-guez-77-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1963-1970-aut-dromo-hermanos-rodr-guez-77-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1963-1970-aut-dromo-hermanos-rodr-guez-77-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1963-1970-aut-dromo-hermanos-rodr-guez-77-right.webp"
     ],
     "rarityScore": 200
   },
@@ -281,8 +281,8 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (1963-1971)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1963-1971-circuit-de-monaco-83-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1963-1971-circuit-de-monaco-83-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1963-1971-circuit-de-monaco-83-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1963-1971-circuit-de-monaco-83-right.webp"
     ],
     "rarityScore": 225
   },
@@ -291,8 +291,8 @@
     "category": "Brands Hatch",
     "searchKeywords": "Brands Hatch (1964-1974)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1964-1974-brands-hatch-17-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1964-1974-brands-hatch-17-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1964-1974-brands-hatch-17-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1964-1974-brands-hatch-17-right.webp"
     ],
     "rarityScore": 150
   },
@@ -301,7 +301,7 @@
     "category": "Zeltweg",
     "searchKeywords": "Zeltweg (1964)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1964-zeltweg-169-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1964-zeltweg-169-full.webp"
     ],
     "rarityScore": 25
   },
@@ -310,7 +310,7 @@
     "category": "Circuit de Charade",
     "searchKeywords": "Circuit de Charade (1965-1972)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1965-1972-circuit-de-charade-25-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1965-1972-circuit-de-charade-25-full.webp"
     ],
     "rarityScore": 100
   },
@@ -319,7 +319,7 @@
     "category": "Bugatti Circuit",
     "searchKeywords": "Bugatti Circuit (1967)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1967-bugatti-circuit-66-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1967-bugatti-circuit-66-full.webp"
     ],
     "rarityScore": 25
   },
@@ -328,8 +328,8 @@
     "category": "Kyalami Racing Circuit",
     "searchKeywords": "Kyalami Racing Circuit (1967-1985)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1967-1985-kyalami-racing-circuit-60-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1967-1985-kyalami-racing-circuit-60-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1967-1985-kyalami-racing-circuit-60-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1967-1985-kyalami-racing-circuit-60-right.webp"
     ],
     "rarityScore": 450
   },
@@ -338,8 +338,8 @@
     "category": "Mosport Park",
     "searchKeywords": "Mosport Park (1967-1977)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1967-1977-mosport-park-108-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1967-1977-mosport-park-108-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1967-1977-mosport-park-108-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1967-1977-mosport-park-108-right.webp"
     ],
     "rarityScore": 200
   },
@@ -348,7 +348,7 @@
     "category": "Circuit Mont-Tremblant",
     "searchKeywords": "Circuit Mont-Tremblant (1968-1970)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1968-1970-circuit-mont-tremblant-91-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1968-1970-circuit-mont-tremblant-91-full.webp"
     ],
     "rarityScore": 50
   },
@@ -357,8 +357,8 @@
     "category": "Circuito del Jarama",
     "searchKeywords": "Circuito del Jarama (1968-1979)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1968-1979-circuito-del-jarama-54-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1968-1979-circuito-del-jarama-54-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1968-1979-circuito-del-jarama-54-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1968-1979-circuito-del-jarama-54-right.webp"
     ],
     "rarityScore": 200
   },
@@ -367,7 +367,7 @@
     "category": "Circuito de Montjuïc",
     "searchKeywords": "Circuito de Montjuïc (1969-1975)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1969-1975-circuito-de-montju-c-92-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1969-1975-circuito-de-montju-c-92-full.webp"
     ],
     "rarityScore": 100
   },
@@ -376,8 +376,8 @@
     "category": "Hockenheimring",
     "searchKeywords": "Hockenheimring (1970-1981)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1970-1981-hockenheimring-37-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1970-1981-hockenheimring-37-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1970-1981-hockenheimring-37-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1970-1981-hockenheimring-37-right.webp"
     ],
     "rarityScore": 150
   },
@@ -386,8 +386,8 @@
     "category": "Österreichring",
     "searchKeywords": "Österreichring (1970-1976)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1970-1976-sterreichring-116-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1970-1976-sterreichring-116-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1970-1976-sterreichring-116-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1970-1976-sterreichring-116-right.webp"
     ],
     "rarityScore": 175
   },
@@ -396,8 +396,8 @@
     "category": "Circuit Paul Ricard",
     "searchKeywords": "Circuit Paul Ricard (1971-1985)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1971-1985-circuit-paul-ricard-63-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1971-1985-circuit-paul-ricard-63-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1971-1985-circuit-paul-ricard-63-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1971-1985-circuit-paul-ricard-63-right.webp"
     ],
     "rarityScore": 225
   },
@@ -406,7 +406,7 @@
     "category": "Watkins Glen International",
     "searchKeywords": "Watkins Glen International (1971-1974)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1971-1974-watkins-glen-international-159-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1971-1974-watkins-glen-international-159-full.webp"
     ],
     "rarityScore": 100
   },
@@ -415,7 +415,7 @@
     "category": "Autodromo Nazionale Monza",
     "searchKeywords": "Autodromo Nazionale Monza (1972-1973)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1972-1973-autodromo-nazionale-monza-103-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1972-1973-autodromo-nazionale-monza-103-full.webp"
     ],
     "rarityScore": 50
   },
@@ -424,7 +424,7 @@
     "category": "Autódromo Oscar Alfredo Gálvez",
     "searchKeywords": "Autódromo Oscar Alfredo Gálvez (1972-1973)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1972-1973-aut-dromo-oscar-alfredo-g-lvez-21-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1972-1973-aut-dromo-oscar-alfredo-g-lvez-21-full.webp"
     ],
     "rarityScore": 50
   },
@@ -433,7 +433,7 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (1972)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1972-circuit-de-monaco-84-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1972-circuit-de-monaco-84-full.webp"
     ],
     "rarityScore": 25
   },
@@ -442,7 +442,7 @@
     "category": "Nivelles-Baulers",
     "searchKeywords": "Nivelles-Baulers (1972-1974)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1972-1974-nivelles-baulers-111-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1972-1974-nivelles-baulers-111-full.webp"
     ],
     "rarityScore": 50
   },
@@ -451,7 +451,7 @@
     "category": "Anderstorp Raceway",
     "searchKeywords": "Anderstorp Raceway (1973)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1973-anderstorp-raceway-5-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1973-anderstorp-raceway-5-full.webp"
     ],
     "rarityScore": 25
   },
@@ -460,8 +460,8 @@
     "category": "Autódromo José Carlos Pace",
     "searchKeywords": "Autódromo José Carlos Pace (1973-1980)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1973-1980-aut-dromo-jos-carlos-pace-50-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1973-1980-aut-dromo-jos-carlos-pace-50-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1973-1980-aut-dromo-jos-carlos-pace-50-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1973-1980-aut-dromo-jos-carlos-pace-50-right.webp"
     ],
     "rarityScore": 175
   },
@@ -470,8 +470,8 @@
     "category": "Circuit Park Zandvoort",
     "searchKeywords": "Circuit Park Zandvoort (1973-1978)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1973-1978-circuit-park-zandvoort-165-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1973-1978-circuit-park-zandvoort-165-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1973-1978-circuit-park-zandvoort-165-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1973-1978-circuit-park-zandvoort-165-right.webp"
     ],
     "rarityScore": 150
   },
@@ -480,7 +480,7 @@
     "category": "Circuit Zolder",
     "searchKeywords": "Circuit Zolder (1973)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1973-circuit-zolder-170-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1973-circuit-zolder-170-full.webp"
     ],
     "rarityScore": 25
   },
@@ -489,7 +489,7 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (1973-1975)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1973-1975-circuit-de-monaco-85-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1973-1975-circuit-de-monaco-85-full.webp"
     ],
     "rarityScore": 75
   },
@@ -498,7 +498,7 @@
     "category": "Anderstorp Raceway",
     "searchKeywords": "Anderstorp Raceway (1974-1977)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1974-1977-anderstorp-raceway-6-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1974-1977-anderstorp-raceway-6-full.webp"
     ],
     "rarityScore": 100
   },
@@ -507,7 +507,7 @@
     "category": "Autodromo Nazionale Monza",
     "searchKeywords": "Autodromo Nazionale Monza (1974-1975)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1974-1975-autodromo-nazionale-monza-104-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1974-1975-autodromo-nazionale-monza-104-full.webp"
     ],
     "rarityScore": 50
   },
@@ -516,8 +516,8 @@
     "category": "Autódromo Oscar Alfredo Gálvez",
     "searchKeywords": "Autódromo Oscar Alfredo Gálvez (1974-1981)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1974-1981-aut-dromo-oscar-alfredo-g-lvez-22-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1974-1981-aut-dromo-oscar-alfredo-g-lvez-22-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1974-1981-aut-dromo-oscar-alfredo-g-lvez-22-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1974-1981-aut-dromo-oscar-alfredo-g-lvez-22-right.webp"
     ],
     "rarityScore": 175
   },
@@ -526,7 +526,7 @@
     "category": "Dijon-Prenois",
     "searchKeywords": "Dijon-Prenois (1974)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1974-dijon-prenois-29-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1974-dijon-prenois-29-full.webp"
     ],
     "rarityScore": 25
   },
@@ -535,8 +535,8 @@
     "category": "Circuit Zolder",
     "searchKeywords": "Circuit Zolder (1975-1984)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1975-1984-circuit-zolder-171-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1975-1984-circuit-zolder-171-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1975-1984-circuit-zolder-171-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1975-1984-circuit-zolder-171-right.webp"
     ],
     "rarityScore": 225
   },
@@ -545,8 +545,8 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (1975-1985)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1975-1985-silverstone-circuit-137-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1975-1985-silverstone-circuit-137-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1975-1985-silverstone-circuit-137-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1975-1985-silverstone-circuit-137-right.webp"
     ],
     "rarityScore": 150
   },
@@ -555,8 +555,8 @@
     "category": "Watkins Glen International",
     "searchKeywords": "Watkins Glen International (1975-1980)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1975-1980-watkins-glen-international-160-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1975-1980-watkins-glen-international-160-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1975-1980-watkins-glen-international-160-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1975-1980-watkins-glen-international-160-right.webp"
     ],
     "rarityScore": 150
   },
@@ -565,8 +565,8 @@
     "category": "Autodromo Nazionale Monza",
     "searchKeywords": "Autodromo Nazionale Monza (1976-1994)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1976-1994-autodromo-nazionale-monza-105-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1976-1994-autodromo-nazionale-monza-105-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1976-1994-autodromo-nazionale-monza-105-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1976-1994-autodromo-nazionale-monza-105-right.webp"
     ],
     "rarityScore": 450
   },
@@ -575,8 +575,8 @@
     "category": "Brands Hatch",
     "searchKeywords": "Brands Hatch (1976-1986)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1976-1986-brands-hatch-18-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1976-1986-brands-hatch-18-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1976-1986-brands-hatch-18-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1976-1986-brands-hatch-18-right.webp"
     ],
     "rarityScore": 200
   },
@@ -585,8 +585,8 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (1976-1985)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1976-1985-circuit-de-monaco-86-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1976-1985-circuit-de-monaco-86-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1976-1985-circuit-de-monaco-86-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1976-1985-circuit-de-monaco-86-right.webp"
     ],
     "rarityScore": 250
   },
@@ -595,7 +595,7 @@
     "category": "Fuji Speedway",
     "searchKeywords": "Fuji Speedway (1976-1977)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1976-1977-fuji-speedway-35-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1976-1977-fuji-speedway-35-full.webp"
     ],
     "rarityScore": 50
   },
@@ -604,7 +604,7 @@
     "category": "Long Beach",
     "searchKeywords": "Long Beach (1976-1977)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1976-1977-long-beach-67-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1976-1977-long-beach-67-full.webp"
     ],
     "rarityScore": 50
   },
@@ -613,8 +613,8 @@
     "category": "Dijon-Prenois",
     "searchKeywords": "Dijon-Prenois (1977-1984)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1977-1984-dijon-prenois-30-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1977-1984-dijon-prenois-30-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1977-1984-dijon-prenois-30-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1977-1984-dijon-prenois-30-right.webp"
     ],
     "rarityScore": 125
   },
@@ -623,8 +623,8 @@
     "category": "Österreichring",
     "searchKeywords": "Österreichring (1977-1987)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1977-1987-sterreichring-117-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1977-1987-sterreichring-117-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1977-1987-sterreichring-117-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1977-1987-sterreichring-117-right.webp"
     ],
     "rarityScore": 275
   },
@@ -633,7 +633,7 @@
     "category": "Anderstorp Raceway",
     "searchKeywords": "Anderstorp Raceway (1978)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1978-anderstorp-raceway-7-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1978-anderstorp-raceway-7-full.webp"
     ],
     "rarityScore": 25
   },
@@ -642,8 +642,8 @@
     "category": "Autódromo Internacional Nelson Piquet",
     "searchKeywords": "Autódromo Internacional Nelson Piquet (1978-1989)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1978-1989-aut-dromo-internacional-nelson-piquet-53-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1978-1989-aut-dromo-internacional-nelson-piquet-53-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1978-1989-aut-dromo-internacional-nelson-piquet-53-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1978-1989-aut-dromo-internacional-nelson-piquet-53-right.webp"
     ],
     "rarityScore": 250
   },
@@ -652,7 +652,7 @@
     "category": "Circuit Gilles Villeneuve",
     "searchKeywords": "Circuit Gilles Villeneuve (1978)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1978-circuit-gilles-villeneuve-93-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1978-circuit-gilles-villeneuve-93-full.webp"
     ],
     "rarityScore": 25
   },
@@ -661,7 +661,7 @@
     "category": "Long Beach",
     "searchKeywords": "Long Beach (1978-1981)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1978-1981-long-beach-68-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1978-1981-long-beach-68-full.webp"
     ],
     "rarityScore": 100
   },
@@ -670,8 +670,8 @@
     "category": "Circuit Gilles Villeneuve",
     "searchKeywords": "Circuit Gilles Villeneuve (1979-1986)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1979-1986-circuit-gilles-villeneuve-94-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1979-1986-circuit-gilles-villeneuve-94-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1979-1986-circuit-gilles-villeneuve-94-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1979-1986-circuit-gilles-villeneuve-94-right.webp"
     ],
     "rarityScore": 200
   },
@@ -680,7 +680,7 @@
     "category": "Circuit Park Zandvoort",
     "searchKeywords": "Circuit Park Zandvoort (1979)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1979-circuit-park-zandvoort-166-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1979-circuit-park-zandvoort-166-full.webp"
     ],
     "rarityScore": 25
   },
@@ -689,8 +689,8 @@
     "category": "Autodromo Enzo e Dino Ferrari",
     "searchKeywords": "Autodromo Enzo e Dino Ferrari (1980-1994)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1980-1994-autodromo-enzo-e-dino-ferrari-45-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1980-1994-autodromo-enzo-e-dino-ferrari-45-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1980-1994-autodromo-enzo-e-dino-ferrari-45-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1980-1994-autodromo-enzo-e-dino-ferrari-45-right.webp"
     ],
     "rarityScore": 375
   },
@@ -699,8 +699,8 @@
     "category": "Circuit Park Zandvoort",
     "searchKeywords": "Circuit Park Zandvoort (1980-1985)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1980-1985-circuit-park-zandvoort-167-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1980-1985-circuit-park-zandvoort-167-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1980-1985-circuit-park-zandvoort-167-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1980-1985-circuit-park-zandvoort-167-right.webp"
     ],
     "rarityScore": 150
   },
@@ -709,7 +709,7 @@
     "category": "Caesars Palace",
     "searchKeywords": "Caesars Palace (1981-1982)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1981-1982-caesars-palace-24-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1981-1982-caesars-palace-24-full.webp"
     ],
     "rarityScore": 50
   },
@@ -718,7 +718,7 @@
     "category": "Circuito del Jarama",
     "searchKeywords": "Circuito del Jarama (1981)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1981-circuito-del-jarama-55-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1981-circuito-del-jarama-55-full.webp"
     ],
     "rarityScore": 25
   },
@@ -727,7 +727,7 @@
     "category": "Detroit Street Circuit",
     "searchKeywords": "Detroit Street Circuit (1982)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1982-detroit-street-circuit-27-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1982-detroit-street-circuit-27-full.webp"
     ],
     "rarityScore": 25
   },
@@ -736,8 +736,8 @@
     "category": "Hockenheimring",
     "searchKeywords": "Hockenheimring (1982-1989)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1982-1989-hockenheimring-38-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1982-1989-hockenheimring-38-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1982-1989-hockenheimring-38-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1982-1989-hockenheimring-38-right.webp"
     ],
     "rarityScore": 175
   },
@@ -746,7 +746,7 @@
     "category": "Long Beach",
     "searchKeywords": "Long Beach (1982)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1982-long-beach-69-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1982-long-beach-69-full.webp"
     ],
     "rarityScore": 25
   },
@@ -755,8 +755,8 @@
     "category": "Circuit de Spa-Francorchamps",
     "searchKeywords": "Circuit de Spa-Francorchamps (1983-2002)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1983-2002-circuit-de-spa-francorchamps-151-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1983-2002-circuit-de-spa-francorchamps-151-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1983-2002-circuit-de-spa-francorchamps-151-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1983-2002-circuit-de-spa-francorchamps-151-right.webp"
     ],
     "rarityScore": 475
   },
@@ -765,8 +765,8 @@
     "category": "Detroit Street Circuit",
     "searchKeywords": "Detroit Street Circuit (1983-1988)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1983-1988-detroit-street-circuit-28-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1983-1988-detroit-street-circuit-28-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1983-1988-detroit-street-circuit-28-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1983-1988-detroit-street-circuit-28-right.webp"
     ],
     "rarityScore": 150
   },
@@ -775,7 +775,7 @@
     "category": "Long Beach",
     "searchKeywords": "Long Beach (1983)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1983-long-beach-70-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1983-long-beach-70-full.webp"
     ],
     "rarityScore": 25
   },
@@ -784,8 +784,8 @@
     "category": "Autódromo do Estoril",
     "searchKeywords": "Autódromo do Estoril (1984-1993)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1984-1993-aut-dromo-do-estoril-33-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1984-1993-aut-dromo-do-estoril-33-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1984-1993-aut-dromo-do-estoril-33-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1984-1993-aut-dromo-do-estoril-33-right.webp"
     ],
     "rarityScore": 250
   },
@@ -794,7 +794,7 @@
     "category": "Fair Park",
     "searchKeywords": "Fair Park (1984)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1984-fair-park-26-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1984-fair-park-26-full.webp"
     ],
     "rarityScore": 25
   },
@@ -803,7 +803,7 @@
     "category": "Nürburgring",
     "searchKeywords": "Nürburgring (1984-1985)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1984-1985-n-rburgring-113-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1984-1985-n-rburgring-113-full.webp"
     ],
     "rarityScore": 50
   },
@@ -812,8 +812,8 @@
     "category": "Adelaide Street Circuit",
     "searchKeywords": "Adelaide Street Circuit (1985-1995)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1985-1995-adelaide-street-circuit-1-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1985-1995-adelaide-street-circuit-1-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1985-1995-adelaide-street-circuit-1-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1985-1995-adelaide-street-circuit-1-right.webp"
     ],
     "rarityScore": 275
   },
@@ -822,8 +822,8 @@
     "category": "Autódromo Hermanos Rodríguez",
     "searchKeywords": "Autódromo Hermanos Rodríguez (1986-1992)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1986-1992-aut-dromo-hermanos-rodr-guez-78-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1986-1992-aut-dromo-hermanos-rodr-guez-78-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1992-aut-dromo-hermanos-rodr-guez-78-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1992-aut-dromo-hermanos-rodr-guez-78-right.webp"
     ],
     "rarityScore": 175
   },
@@ -832,8 +832,8 @@
     "category": "Circuit Paul Ricard",
     "searchKeywords": "Circuit Paul Ricard (1986-1990)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1986-1990-circuit-paul-ricard-64-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1986-1990-circuit-paul-ricard-64-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1990-circuit-paul-ricard-64-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1990-circuit-paul-ricard-64-right.webp"
     ],
     "rarityScore": 125
   },
@@ -842,8 +842,8 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (1986-1996)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1986-1996-circuit-de-monaco-87-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1986-1996-circuit-de-monaco-87-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1996-circuit-de-monaco-87-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1996-circuit-de-monaco-87-right.webp"
     ],
     "rarityScore": 275
   },
@@ -852,8 +852,8 @@
     "category": "Circuito de Jerez",
     "searchKeywords": "Circuito de Jerez (1986-1990)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1986-1990-circuito-de-jerez-57-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1986-1990-circuito-de-jerez-57-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1990-circuito-de-jerez-57-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1990-circuito-de-jerez-57-right.webp"
     ],
     "rarityScore": 125
   },
@@ -862,7 +862,7 @@
     "category": "Hungaroring",
     "searchKeywords": "Hungaroring (1986-1988)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1986-1988-hungaroring-42-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1986-1988-hungaroring-42-full.webp"
     ],
     "rarityScore": 75
   },
@@ -871,7 +871,7 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (1987-1990)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1987-1990-silverstone-circuit-138-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1987-1990-silverstone-circuit-138-full.webp"
     ],
     "rarityScore": 100
   },
@@ -880,8 +880,8 @@
     "category": "Suzuka Circuit",
     "searchKeywords": "Suzuka Circuit (1987-2026)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1987-2026-suzuka-circuit-155-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1987-2026-suzuka-circuit-155-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1987-2026-suzuka-circuit-155-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1987-2026-suzuka-circuit-155-right.webp"
     ],
     "rarityScore": 400
   },
@@ -890,7 +890,7 @@
     "category": "Circuit Gilles Villeneuve",
     "searchKeywords": "Circuit Gilles Villeneuve (1988-1990)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1988-1990-circuit-gilles-villeneuve-95-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1988-1990-circuit-gilles-villeneuve-95-full.webp"
     ],
     "rarityScore": 75
   },
@@ -899,8 +899,8 @@
     "category": "Hungaroring",
     "searchKeywords": "Hungaroring (1989-2002)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1989-2002-hungaroring-43-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1989-2002-hungaroring-43-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1989-2002-hungaroring-43-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1989-2002-hungaroring-43-right.webp"
     ],
     "rarityScore": 350
   },
@@ -909,7 +909,7 @@
     "category": "Phoenix Street Circuit",
     "searchKeywords": "Phoenix Street Circuit (1989-1990)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1989-1990-phoenix-street-circuit-120-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1989-1990-phoenix-street-circuit-120-full.webp"
     ],
     "rarityScore": 50
   },
@@ -918,10 +918,10 @@
     "category": "Autódromo José Carlos Pace",
     "searchKeywords": "Autódromo José Carlos Pace (1990-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1990-2025-aut-dromo-jos-carlos-pace-51-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1990-2025-aut-dromo-jos-carlos-pace-51-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/1990-2025-aut-dromo-jos-carlos-pace-51-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1990-2025-aut-dromo-jos-carlos-pace-51-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1990-2025-aut-dromo-jos-carlos-pace-51-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1990-2025-aut-dromo-jos-carlos-pace-51-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1990-2025-aut-dromo-jos-carlos-pace-51-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1990-2025-aut-dromo-jos-carlos-pace-51-bottom-right.webp"
     ],
     "rarityScore": 900
   },
@@ -930,7 +930,7 @@
     "category": "Hockenheimring",
     "searchKeywords": "Hockenheimring (1990-1991)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1990-1991-hockenheimring-39-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1990-1991-hockenheimring-39-full.webp"
     ],
     "rarityScore": 50
   },
@@ -939,7 +939,7 @@
     "category": "Circuit Gilles Villeneuve",
     "searchKeywords": "Circuit Gilles Villeneuve (1991-1993)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1991-1993-circuit-gilles-villeneuve-96-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1991-1993-circuit-gilles-villeneuve-96-full.webp"
     ],
     "rarityScore": 75
   },
@@ -948,7 +948,7 @@
     "category": "Circuit de Barcelona-Catalunya",
     "searchKeywords": "Circuit de Barcelona-Catalunya (1991-1994)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1991-1994-circuit-de-barcelona-catalunya-11-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1991-1994-circuit-de-barcelona-catalunya-11-full.webp"
     ],
     "rarityScore": 100
   },
@@ -957,7 +957,7 @@
     "category": "Circuit de Nevers Magny-Cours",
     "searchKeywords": "Circuit de Nevers Magny-Cours (1991)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1991-circuit-de-nevers-magny-cours-72-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1991-circuit-de-nevers-magny-cours-72-full.webp"
     ],
     "rarityScore": 25
   },
@@ -966,7 +966,7 @@
     "category": "Phoenix Street Circuit",
     "searchKeywords": "Phoenix Street Circuit (1991)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1991-phoenix-street-circuit-121-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1991-phoenix-street-circuit-121-full.webp"
     ],
     "rarityScore": 25
   },
@@ -975,7 +975,7 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (1991-1993)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1991-1993-silverstone-circuit-139-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1991-1993-silverstone-circuit-139-full.webp"
     ],
     "rarityScore": 75
   },
@@ -984,8 +984,8 @@
     "category": "Circuit de Nevers Magny-Cours",
     "searchKeywords": "Circuit de Nevers Magny-Cours (1992-2002)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1992-2002-circuit-de-nevers-magny-cours-73-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1992-2002-circuit-de-nevers-magny-cours-73-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1992-2002-circuit-de-nevers-magny-cours-73-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1992-2002-circuit-de-nevers-magny-cours-73-right.webp"
     ],
     "rarityScore": 275
   },
@@ -994,8 +994,8 @@
     "category": "Hockenheimring",
     "searchKeywords": "Hockenheimring (1992-2001)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1992-2001-hockenheimring-40-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1992-2001-hockenheimring-40-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1992-2001-hockenheimring-40-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1992-2001-hockenheimring-40-right.webp"
     ],
     "rarityScore": 250
   },
@@ -1004,7 +1004,7 @@
     "category": "Kyalami Racing Circuit",
     "searchKeywords": "Kyalami Racing Circuit (1992-1993)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1992-1993-kyalami-racing-circuit-61-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1992-1993-kyalami-racing-circuit-61-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1013,7 +1013,7 @@
     "category": "Donington Park",
     "searchKeywords": "Donington Park (1993)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1993-donington-park-31-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1993-donington-park-31-full.webp"
     ],
     "rarityScore": 25
   },
@@ -1022,7 +1022,7 @@
     "category": "Autódromo do Estoril",
     "searchKeywords": "Autódromo do Estoril (1994-1996)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1994-1996-aut-dromo-do-estoril-34-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1994-1996-aut-dromo-do-estoril-34-full.webp"
     ],
     "rarityScore": 75
   },
@@ -1031,7 +1031,7 @@
     "category": "Circuit Gilles Villeneuve",
     "searchKeywords": "Circuit Gilles Villeneuve (1994-1995)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1994-1995-circuit-gilles-villeneuve-97-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1994-1995-circuit-gilles-villeneuve-97-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1040,7 +1040,7 @@
     "category": "Circuito de Jerez",
     "searchKeywords": "Circuito de Jerez (1994-1997)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1994-1997-circuito-de-jerez-58-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1994-1997-circuito-de-jerez-58-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1049,7 +1049,7 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (1994-1995)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1994-1995-silverstone-circuit-140-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1994-1995-silverstone-circuit-140-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1058,7 +1058,7 @@
     "category": "TI Circuit Aida",
     "searchKeywords": "TI Circuit Aida (1994-1995)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1994-1995-ti-circuit-aida-2-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1994-1995-ti-circuit-aida-2-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1067,8 +1067,8 @@
     "category": "Autodromo Enzo e Dino Ferrari",
     "searchKeywords": "Autodromo Enzo e Dino Ferrari (1995-2006)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1995-2006-autodromo-enzo-e-dino-ferrari-46-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1995-2006-autodromo-enzo-e-dino-ferrari-46-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-2006-autodromo-enzo-e-dino-ferrari-46-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-2006-autodromo-enzo-e-dino-ferrari-46-right.webp"
     ],
     "rarityScore": 300
   },
@@ -1077,8 +1077,8 @@
     "category": "Autodromo Nazionale Monza",
     "searchKeywords": "Autodromo Nazionale Monza (1995-1999)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1995-1999-autodromo-nazionale-monza-106-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1995-1999-autodromo-nazionale-monza-106-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-1999-autodromo-nazionale-monza-106-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-1999-autodromo-nazionale-monza-106-right.webp"
     ],
     "rarityScore": 125
   },
@@ -1087,7 +1087,7 @@
     "category": "Autódromo Oscar Alfredo Gálvez",
     "searchKeywords": "Autódromo Oscar Alfredo Gálvez (1995-1998)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1995-1998-aut-dromo-oscar-alfredo-g-lvez-23-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-1998-aut-dromo-oscar-alfredo-g-lvez-23-full.webp"
     ],
     "rarityScore": 100
   },
@@ -1096,8 +1096,8 @@
     "category": "Circuit de Barcelona-Catalunya",
     "searchKeywords": "Circuit de Barcelona-Catalunya (1995-2003)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1995-2003-circuit-de-barcelona-catalunya-12-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1995-2003-circuit-de-barcelona-catalunya-12-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-2003-circuit-de-barcelona-catalunya-12-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-2003-circuit-de-barcelona-catalunya-12-right.webp"
     ],
     "rarityScore": 225
   },
@@ -1106,8 +1106,8 @@
     "category": "Nürburgring",
     "searchKeywords": "Nürburgring (1995-2001)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1995-2001-n-rburgring-114-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1995-2001-n-rburgring-114-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-2001-n-rburgring-114-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1995-2001-n-rburgring-114-right.webp"
     ],
     "rarityScore": 175
   },
@@ -1116,8 +1116,8 @@
     "category": "Circuit Gilles Villeneuve",
     "searchKeywords": "Circuit Gilles Villeneuve (1996-2001)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1996-2001-circuit-gilles-villeneuve-98-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1996-2001-circuit-gilles-villeneuve-98-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1996-2001-circuit-gilles-villeneuve-98-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1996-2001-circuit-gilles-villeneuve-98-right.webp"
     ],
     "rarityScore": 150
   },
@@ -1126,10 +1126,10 @@
     "category": "Melbourne Grand Prix Circuit",
     "searchKeywords": "Melbourne Grand Prix Circuit (1996-2026)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1996-2026-melbourne-grand-prix-circuit-75-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1996-2026-melbourne-grand-prix-circuit-75-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/1996-2026-melbourne-grand-prix-circuit-75-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1996-2026-melbourne-grand-prix-circuit-75-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1996-2026-melbourne-grand-prix-circuit-75-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1996-2026-melbourne-grand-prix-circuit-75-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1996-2026-melbourne-grand-prix-circuit-75-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1996-2026-melbourne-grand-prix-circuit-75-bottom-right.webp"
     ],
     "rarityScore": 600
   },
@@ -1138,7 +1138,7 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (1996)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1996-silverstone-circuit-141-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1996-silverstone-circuit-141-full.webp"
     ],
     "rarityScore": 25
   },
@@ -1147,8 +1147,8 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (1997-2002)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1997-2002-circuit-de-monaco-88-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1997-2002-circuit-de-monaco-88-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1997-2002-circuit-de-monaco-88-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1997-2002-circuit-de-monaco-88-right.webp"
     ],
     "rarityScore": 150
   },
@@ -1157,10 +1157,10 @@
     "category": "Red Bull Ring",
     "searchKeywords": "Red Bull Ring (1997-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1997-2025-red-bull-ring-154-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1997-2025-red-bull-ring-154-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/1997-2025-red-bull-ring-154-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1997-2025-red-bull-ring-154-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1997-2025-red-bull-ring-154-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1997-2025-red-bull-ring-154-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1997-2025-red-bull-ring-154-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1997-2025-red-bull-ring-154-bottom-right.webp"
     ],
     "rarityScore": 600
   },
@@ -1169,8 +1169,8 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (1997-2009)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1997-2009-silverstone-circuit-142-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1997-2009-silverstone-circuit-142-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1997-2009-silverstone-circuit-142-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1997-2009-silverstone-circuit-142-right.webp"
     ],
     "rarityScore": 325
   },
@@ -1179,8 +1179,8 @@
     "category": "Sepang International Circuit",
     "searchKeywords": "Sepang International Circuit (1999-2017)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/1999-2017-sepang-international-circuit-59-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/1999-2017-sepang-international-circuit-59-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1999-2017-sepang-international-circuit-59-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/1999-2017-sepang-international-circuit-59-right.webp"
     ],
     "rarityScore": 475
   },
@@ -1189,10 +1189,10 @@
     "category": "Autodromo Nazionale Monza",
     "searchKeywords": "Autodromo Nazionale Monza (2000-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2000-2025-autodromo-nazionale-monza-107-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2000-2025-autodromo-nazionale-monza-107-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/2000-2025-autodromo-nazionale-monza-107-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2000-2025-autodromo-nazionale-monza-107-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2000-2025-autodromo-nazionale-monza-107-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2000-2025-autodromo-nazionale-monza-107-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2000-2025-autodromo-nazionale-monza-107-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2000-2025-autodromo-nazionale-monza-107-bottom-right.webp"
     ],
     "rarityScore": 700
   },
@@ -1201,8 +1201,8 @@
     "category": "Indianapolis Motor Speedway",
     "searchKeywords": "Indianapolis Motor Speedway (2000-2007)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2000-2007-indianapolis-motor-speedway-49-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2000-2007-indianapolis-motor-speedway-49-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2000-2007-indianapolis-motor-speedway-49-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2000-2007-indianapolis-motor-speedway-49-right.webp"
     ],
     "rarityScore": 200
   },
@@ -1211,10 +1211,10 @@
     "category": "Circuit Gilles Villeneuve",
     "searchKeywords": "Circuit Gilles Villeneuve (2002-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2002-2025-circuit-gilles-villeneuve-99-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2002-2025-circuit-gilles-villeneuve-99-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/2002-2025-circuit-gilles-villeneuve-99-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2002-2025-circuit-gilles-villeneuve-99-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2002-2025-circuit-gilles-villeneuve-99-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2002-2025-circuit-gilles-villeneuve-99-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2002-2025-circuit-gilles-villeneuve-99-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2002-2025-circuit-gilles-villeneuve-99-bottom-right.webp"
     ],
     "rarityScore": 550
   },
@@ -1223,8 +1223,8 @@
     "category": "Hockenheimring",
     "searchKeywords": "Hockenheimring (2002-2019)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2002-2019-hockenheimring-41-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2002-2019-hockenheimring-41-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2002-2019-hockenheimring-41-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2002-2019-hockenheimring-41-right.webp"
     ],
     "rarityScore": 300
   },
@@ -1233,8 +1233,8 @@
     "category": "Nürburgring",
     "searchKeywords": "Nürburgring (2002-2020)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2002-2020-n-rburgring-115-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2002-2020-n-rburgring-115-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2002-2020-n-rburgring-115-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2002-2020-n-rburgring-115-right.webp"
     ],
     "rarityScore": 250
   },
@@ -1243,10 +1243,10 @@
     "category": "Circuit de Monaco",
     "searchKeywords": "Circuit de Monaco (2003-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2003-2025-circuit-de-monaco-89-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2025-circuit-de-monaco-89-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2025-circuit-de-monaco-89-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2025-circuit-de-monaco-89-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2025-circuit-de-monaco-89-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2025-circuit-de-monaco-89-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2025-circuit-de-monaco-89-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2025-circuit-de-monaco-89-bottom-right.webp"
     ],
     "rarityScore": 600
   },
@@ -1255,8 +1255,8 @@
     "category": "Circuit de Nevers Magny-Cours",
     "searchKeywords": "Circuit de Nevers Magny-Cours (2003-2008)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2003-2008-circuit-de-nevers-magny-cours-74-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2008-circuit-de-nevers-magny-cours-74-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2008-circuit-de-nevers-magny-cours-74-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2008-circuit-de-nevers-magny-cours-74-right.webp"
     ],
     "rarityScore": 150
   },
@@ -1265,10 +1265,10 @@
     "category": "Hungaroring",
     "searchKeywords": "Hungaroring (2003-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2003-2025-hungaroring-44-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2025-hungaroring-44-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2025-hungaroring-44-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2025-hungaroring-44-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2025-hungaroring-44-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2025-hungaroring-44-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2025-hungaroring-44-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2025-hungaroring-44-bottom-right.webp"
     ],
     "rarityScore": 625
   },
@@ -1277,10 +1277,10 @@
     "category": "Suzuka Circuit",
     "searchKeywords": "Suzuka Circuit (2003-2026)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2003-2026-suzuka-circuit-156-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2026-suzuka-circuit-156-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2026-suzuka-circuit-156-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2003-2026-suzuka-circuit-156-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2026-suzuka-circuit-156-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2026-suzuka-circuit-156-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2026-suzuka-circuit-156-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2003-2026-suzuka-circuit-156-bottom-right.webp"
     ],
     "rarityScore": 525
   },
@@ -1289,7 +1289,7 @@
     "category": "Bahrain International Circuit",
     "searchKeywords": "Bahrain International Circuit (2004)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2004-bahrain-international-circuit-129-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2004-bahrain-international-circuit-129-full.webp"
     ],
     "rarityScore": 25
   },
@@ -1298,7 +1298,7 @@
     "category": "Circuit de Barcelona-Catalunya",
     "searchKeywords": "Circuit de Barcelona-Catalunya (2004-2006)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2004-2006-circuit-de-barcelona-catalunya-13-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2004-2006-circuit-de-barcelona-catalunya-13-full.webp"
     ],
     "rarityScore": 75
   },
@@ -1307,7 +1307,7 @@
     "category": "Circuit de Spa-Francorchamps",
     "searchKeywords": "Circuit de Spa-Francorchamps (2004-2005)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2004-2005-circuit-de-spa-francorchamps-152-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2004-2005-circuit-de-spa-francorchamps-152-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1316,8 +1316,8 @@
     "category": "Shanghai International Circuit",
     "searchKeywords": "Shanghai International Circuit (2004-2026)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2004-2026-shanghai-international-circuit-134-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2004-2026-shanghai-international-circuit-134-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2004-2026-shanghai-international-circuit-134-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2004-2026-shanghai-international-circuit-134-right.webp"
     ],
     "rarityScore": 450
   },
@@ -1326,10 +1326,10 @@
     "category": "Bahrain International Circuit",
     "searchKeywords": "Bahrain International Circuit (2005-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2005-2025-bahrain-international-circuit-130-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2005-2025-bahrain-international-circuit-130-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/2005-2025-bahrain-international-circuit-130-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2005-2025-bahrain-international-circuit-130-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2005-2025-bahrain-international-circuit-130-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2005-2025-bahrain-international-circuit-130-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2005-2025-bahrain-international-circuit-130-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2005-2025-bahrain-international-circuit-130-bottom-right.webp"
     ],
     "rarityScore": 525
   },
@@ -1338,8 +1338,8 @@
     "category": "Istanbul Park",
     "searchKeywords": "Istanbul Park (2005-2020)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2005-2020-istanbul-park-52-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2005-2020-istanbul-park-52-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2005-2020-istanbul-park-52-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2005-2020-istanbul-park-52-right.webp"
     ],
     "rarityScore": 200
   },
@@ -1348,8 +1348,8 @@
     "category": "Circuit de Barcelona-Catalunya",
     "searchKeywords": "Circuit de Barcelona-Catalunya (2007-2020)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2007-2020-circuit-de-barcelona-catalunya-14-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2007-2020-circuit-de-barcelona-catalunya-14-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2007-2020-circuit-de-barcelona-catalunya-14-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2007-2020-circuit-de-barcelona-catalunya-14-right.webp"
     ],
     "rarityScore": 350
   },
@@ -1358,10 +1358,10 @@
     "category": "Circuit de Spa-Francorchamps",
     "searchKeywords": "Circuit de Spa-Francorchamps (2007-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2007-2025-circuit-de-spa-francorchamps-153-top-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2007-2025-circuit-de-spa-francorchamps-153-top-right.webp",
-      "https://mclarenmp4-22.github.io/circuits/2007-2025-circuit-de-spa-francorchamps-153-bottom-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2007-2025-circuit-de-spa-francorchamps-153-bottom-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2007-2025-circuit-de-spa-francorchamps-153-top-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2007-2025-circuit-de-spa-francorchamps-153-top-right.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2007-2025-circuit-de-spa-francorchamps-153-bottom-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2007-2025-circuit-de-spa-francorchamps-153-bottom-right.webp"
     ],
     "rarityScore": 525
   },
@@ -1370,7 +1370,7 @@
     "category": "Fuji Speedway",
     "searchKeywords": "Fuji Speedway (2007-2008)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2007-2008-fuji-speedway-36-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2007-2008-fuji-speedway-36-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1379,8 +1379,8 @@
     "category": "Marina Bay Street Circuit",
     "searchKeywords": "Marina Bay Street Circuit (2008-2012)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2008-2012-marina-bay-street-circuit-145-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2008-2012-marina-bay-street-circuit-145-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2008-2012-marina-bay-street-circuit-145-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2008-2012-marina-bay-street-circuit-145-right.webp"
     ],
     "rarityScore": 125
   },
@@ -1389,8 +1389,8 @@
     "category": "Valencia Street Circuit",
     "searchKeywords": "Valencia Street Circuit (2008-2012)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2008-2012-valencia-street-circuit-157-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2008-2012-valencia-street-circuit-157-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2008-2012-valencia-street-circuit-157-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2008-2012-valencia-street-circuit-157-right.webp"
     ],
     "rarityScore": 125
   },
@@ -1399,8 +1399,8 @@
     "category": "Yas Marina Circuit",
     "searchKeywords": "Yas Marina Circuit (2009-2020)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2009-2020-yas-marina-circuit-161-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2009-2020-yas-marina-circuit-161-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2009-2020-yas-marina-circuit-161-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2009-2020-yas-marina-circuit-161-right.webp"
     ],
     "rarityScore": 300
   },
@@ -1409,7 +1409,7 @@
     "category": "Bahrain International Circuit",
     "searchKeywords": "Bahrain International Circuit (2010)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2010-bahrain-international-circuit-131-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2010-bahrain-international-circuit-131-full.webp"
     ],
     "rarityScore": 25
   },
@@ -1418,7 +1418,7 @@
     "category": "Korea International Circuit",
     "searchKeywords": "Korea International Circuit (2010-2013)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2010-2013-korea-international-circuit-163-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2010-2013-korea-international-circuit-163-full.webp"
     ],
     "rarityScore": 100
   },
@@ -1427,7 +1427,7 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (2010)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2010-silverstone-circuit-143-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2010-silverstone-circuit-143-full.webp"
     ],
     "rarityScore": 25
   },
@@ -1436,7 +1436,7 @@
     "category": "Buddh International Circuit",
     "searchKeywords": "Buddh International Circuit (2011-2013)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2011-2013-buddh-international-circuit-110-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2011-2013-buddh-international-circuit-110-full.webp"
     ],
     "rarityScore": 75
   },
@@ -1445,8 +1445,8 @@
     "category": "Silverstone Circuit",
     "searchKeywords": "Silverstone Circuit (2011-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2011-2025-silverstone-circuit-144-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2011-2025-silverstone-circuit-144-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2011-2025-silverstone-circuit-144-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2011-2025-silverstone-circuit-144-right.webp"
     ],
     "rarityScore": 450
   },
@@ -1455,8 +1455,8 @@
     "category": "Circuit of the Americas",
     "searchKeywords": "Circuit of the Americas (2012-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2012-2025-circuit-of-the-americas-8-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2012-2025-circuit-of-the-americas-8-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2012-2025-circuit-of-the-americas-8-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2012-2025-circuit-of-the-americas-8-right.webp"
     ],
     "rarityScore": 375
   },
@@ -1465,7 +1465,7 @@
     "category": "Marina Bay Street Circuit",
     "searchKeywords": "Marina Bay Street Circuit (2013-2014)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2013-2014-marina-bay-street-circuit-146-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2013-2014-marina-bay-street-circuit-146-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1474,8 +1474,8 @@
     "category": "Sochi Autodrom",
     "searchKeywords": "Sochi Autodrom (2014-2021)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2014-2021-sochi-autodrom-149-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2014-2021-sochi-autodrom-149-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2014-2021-sochi-autodrom-149-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2014-2021-sochi-autodrom-149-right.webp"
     ],
     "rarityScore": 225
   },
@@ -1484,8 +1484,8 @@
     "category": "Autódromo Hermanos Rodríguez",
     "searchKeywords": "Autódromo Hermanos Rodríguez (2015-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2015-2025-aut-dromo-hermanos-rodr-guez-79-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2015-2025-aut-dromo-hermanos-rodr-guez-79-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2015-2025-aut-dromo-hermanos-rodr-guez-79-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2015-2025-aut-dromo-hermanos-rodr-guez-79-right.webp"
     ],
     "rarityScore": 300
   },
@@ -1494,8 +1494,8 @@
     "category": "Marina Bay Street Circuit",
     "searchKeywords": "Marina Bay Street Circuit (2015-2022)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2015-2022-marina-bay-street-circuit-147-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2015-2022-marina-bay-street-circuit-147-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2015-2022-marina-bay-street-circuit-147-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2015-2022-marina-bay-street-circuit-147-right.webp"
     ],
     "rarityScore": 175
   },
@@ -1504,8 +1504,8 @@
     "category": "Baku City Circuit",
     "searchKeywords": "Baku City Circuit (2016-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2016-2025-baku-city-circuit-10-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2016-2025-baku-city-circuit-10-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2016-2025-baku-city-circuit-10-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2016-2025-baku-city-circuit-10-right.webp"
     ],
     "rarityScore": 275
   },
@@ -1514,8 +1514,8 @@
     "category": "Circuit Paul Ricard",
     "searchKeywords": "Circuit Paul Ricard (2018-2022)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2018-2022-circuit-paul-ricard-65-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2018-2022-circuit-paul-ricard-65-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2018-2022-circuit-paul-ricard-65-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2018-2022-circuit-paul-ricard-65-right.webp"
     ],
     "rarityScore": 150
   },
@@ -1524,7 +1524,7 @@
     "category": "Algarve International Circuit",
     "searchKeywords": "Algarve International Circuit (2020-2021)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2020-2021-algarve-international-circuit-122-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2020-2021-algarve-international-circuit-122-full.webp"
     ],
     "rarityScore": 75
   },
@@ -1533,8 +1533,8 @@
     "category": "Autodromo Enzo e Dino Ferrari",
     "searchKeywords": "Autodromo Enzo e Dino Ferrari (2020-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2020-2025-autodromo-enzo-e-dino-ferrari-47-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2020-2025-autodromo-enzo-e-dino-ferrari-47-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2020-2025-autodromo-enzo-e-dino-ferrari-47-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2020-2025-autodromo-enzo-e-dino-ferrari-47-right.webp"
     ],
     "rarityScore": 175
   },
@@ -1543,7 +1543,7 @@
     "category": "Autodromo Internazionale del Mugello",
     "searchKeywords": "Autodromo Internazionale del Mugello (2020)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2020-autodromo-internazionale-del-mugello-109-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2020-autodromo-internazionale-del-mugello-109-full.webp"
     ],
     "rarityScore": 25
   },
@@ -1552,7 +1552,7 @@
     "category": "Bahrain International Circuit",
     "searchKeywords": "Bahrain International Circuit (2020)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2020-bahrain-international-circuit-132-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2020-bahrain-international-circuit-132-full.webp"
     ],
     "rarityScore": 25
   },
@@ -1561,8 +1561,8 @@
     "category": "Circuit Park Zandvoort",
     "searchKeywords": "Circuit Park Zandvoort (2021-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2021-2025-circuit-park-zandvoort-168-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2021-2025-circuit-park-zandvoort-168-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2021-2025-circuit-park-zandvoort-168-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2021-2025-circuit-park-zandvoort-168-right.webp"
     ],
     "rarityScore": 175
   },
@@ -1571,7 +1571,7 @@
     "category": "Circuit de Barcelona-Catalunya",
     "searchKeywords": "Circuit de Barcelona-Catalunya (2021-2022)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2021-2022-circuit-de-barcelona-catalunya-15-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2021-2022-circuit-de-barcelona-catalunya-15-full.webp"
     ],
     "rarityScore": 100
   },
@@ -1580,8 +1580,8 @@
     "category": "Jeddah Corniche Circuit",
     "searchKeywords": "Jeddah Corniche Circuit (2021-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2021-2025-jeddah-corniche-circuit-56-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2021-2025-jeddah-corniche-circuit-56-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2021-2025-jeddah-corniche-circuit-56-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2021-2025-jeddah-corniche-circuit-56-right.webp"
     ],
     "rarityScore": 150
   },
@@ -1590,7 +1590,7 @@
     "category": "Lusail International Circuit",
     "searchKeywords": "Lusail International Circuit (2021-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2021-2025-lusail-international-circuit-71-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2021-2025-lusail-international-circuit-71-full.webp"
     ],
     "rarityScore": 100
   },
@@ -1599,8 +1599,8 @@
     "category": "Yas Marina Circuit",
     "searchKeywords": "Yas Marina Circuit (2021-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2021-2025-yas-marina-circuit-162-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2021-2025-yas-marina-circuit-162-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2021-2025-yas-marina-circuit-162-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2021-2025-yas-marina-circuit-162-right.webp"
     ],
     "rarityScore": 125
   },
@@ -1609,8 +1609,8 @@
     "category": "Melbourne Grand Prix Circuit",
     "searchKeywords": "Melbourne Grand Prix Circuit (2022-2026)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2022-2026-melbourne-grand-prix-circuit-76-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2022-2026-melbourne-grand-prix-circuit-76-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2022-2026-melbourne-grand-prix-circuit-76-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2022-2026-melbourne-grand-prix-circuit-76-right.webp"
     ],
     "rarityScore": 125
   },
@@ -1619,8 +1619,8 @@
     "category": "Miami International Autodrome",
     "searchKeywords": "Miami International Autodrome (2022-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2022-2025-miami-international-autodrome-80-left.webp",
-      "https://mclarenmp4-22.github.io/circuits/2022-2025-miami-international-autodrome-80-right.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2022-2025-miami-international-autodrome-80-left.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2022-2025-miami-international-autodrome-80-right.webp"
     ],
     "rarityScore": 125
   },
@@ -1629,7 +1629,7 @@
     "category": "Circuit de Barcelona-Catalunya",
     "searchKeywords": "Circuit de Barcelona-Catalunya (2023-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2023-2025-circuit-de-barcelona-catalunya-16-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2023-2025-circuit-de-barcelona-catalunya-16-full.webp"
     ],
     "rarityScore": 75
   },
@@ -1638,7 +1638,7 @@
     "category": "Las Vegas Street Circuit",
     "searchKeywords": "Las Vegas Street Circuit (2023-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2023-2025-las-vegas-street-circuit-62-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2023-2025-las-vegas-street-circuit-62-full.webp"
     ],
     "rarityScore": 50
   },
@@ -1647,7 +1647,7 @@
     "category": "Marina Bay Street Circuit",
     "searchKeywords": "Marina Bay Street Circuit (2023-2025)",
     "fragments": [
-      "https://mclarenmp4-22.github.io/circuits/2023-2025-marina-bay-street-circuit-148-full.webp"
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/circuits/2023-2025-marina-bay-street-circuit-148-full.webp"
     ],
     "rarityScore": 75
   }

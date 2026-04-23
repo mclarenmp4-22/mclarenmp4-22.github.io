@@ -7,7 +7,7 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parent
-DB_PATH = Path(r"c:\Users\trues\OneDrive\Desktop\Advaith\F1 Results database, upgraded\sessionresults.db")
+DB_PATH = Path(r"../F1 Results database, upgraded/sessionresults.db")
 
 # Output Directories
 DRIVERS_DIR = ROOT / "drivers"
@@ -218,8 +218,8 @@ def main():
     d_stats = fetch_stats("Drivers", "Name")
     c_stats = fetch_stats("Constructors", "ConstructorName")
     
-    process_images("drivers", d_stats, d_entrants, DRIVERS_UNDIVIDED, DRIVERS_DIR, "drivers.json", "https://mclarenmp4-22.github.io")
-    process_images("constructors", c_stats, c_entrants, CONSTRUCTORS_UNDIVIDED, CONSTRUCTORS_DIR, "constructors.json", "https://mclarenmp4-22.github.io")
+    process_images("drivers", d_stats, d_entrants, DRIVERS_UNDIVIDED, DRIVERS_DIR, "drivers.json", "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io")
+    process_images("constructors", c_stats, c_entrants, CONSTRUCTORS_UNDIVIDED, CONSTRUCTORS_DIR, "constructors.json", "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io")
 
 if __name__ == "__main__":
     main()
