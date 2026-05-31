@@ -195,7 +195,7 @@ def process_images(type_name: str, stats_dict: dict, entrants: set, source_dir: 
         if fragments:
             manifest.append({
                 "name": s_name,
-                "category": "World Champions" if stats["Championships"] > 0 else "Race Winners" if stats["Wins"] > 0 else "Others",
+                "category": "World Champions" if stats["Championships"] > 0 else "Race Winners" if stats["Wins"] > 0 else "Podium Finishers" if stats["Podiums"] > 0 else "Participants",
                 "fragments": fragments,
                 "searchKeywords": s_name,
                 "rarityScore": calculate_rarity_score(stats)

@@ -7,7 +7,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/alfa-romeo-right.webp"
     ],
     "searchKeywords": "Alfa Romeo",
-    "rarityScore": 458.5
+    "rarityScore": 485.45
   },
   {
     "name": "Maserati",
@@ -17,7 +17,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/maserati-right.webp"
     ],
     "searchKeywords": "Maserati",
-    "rarityScore": 476.828
+    "rarityScore": 520.428
+  },
+  {
+    "name": "Talbot Lago",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/talbot-lago-full.webp"
+    ],
+    "searchKeywords": "Talbot Lago",
+    "rarityScore": 30.150000000000002
   },
   {
     "name": "Cooper",
@@ -29,7 +38,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/cooper-top-right.webp"
     ],
     "searchKeywords": "Cooper",
-    "rarityScore": 765.95
+    "rarityScore": 807.7
   },
   {
     "name": "Ferrari",
@@ -41,7 +50,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/ferrari-top-right.webp"
     ],
     "searchKeywords": "Ferrari",
-    "rarityScore": 12007.154
+    "rarityScore": 12123.854
   },
   {
     "name": "BRM",
@@ -53,7 +62,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/brm-top-right.webp"
     ],
     "searchKeywords": "BRM",
-    "rarityScore": 767.9499999999999
+    "rarityScore": 818.8499999999999
+  },
+  {
+    "name": "Gordini",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/gordini-full.webp"
+    ],
+    "searchKeywords": "Gordini",
+    "rarityScore": 33.6
+  },
+  {
+    "name": "Connaught",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/connaught-full.webp"
+    ],
+    "searchKeywords": "Connaught",
+    "rarityScore": 17.9
   },
   {
     "name": "Mercedes",
@@ -65,7 +92,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/mercedes-top-right.webp"
     ],
     "searchKeywords": "Mercedes",
-    "rarityScore": 6019.278
+    "rarityScore": 6061.728
   },
   {
     "name": "Vanwall",
@@ -77,7 +104,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/vanwall-top-right.webp"
     ],
     "searchKeywords": "Vanwall",
-    "rarityScore": 272.95
+    "rarityScore": 279.95
+  },
+  {
+    "name": "Lancia",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/lancia-full.webp"
+    ],
+    "searchKeywords": "Lancia",
+    "rarityScore": 20.650000000000002
   },
   {
     "name": "Porsche",
@@ -87,7 +123,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/porsche-right.webp"
     ],
     "searchKeywords": "Porsche",
-    "rarityScore": 64.35
+    "rarityScore": 68.64999999999999
   },
   {
     "name": "Lotus",
@@ -99,7 +135,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/lotus-top-right.webp"
     ],
     "searchKeywords": "Lotus",
-    "rarityScore": 3322.5
+    "rarityScore": 3441.7999999999997
+  },
+  {
+    "name": "Aston Martin",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/aston-martin-full.webp"
+    ],
+    "searchKeywords": "Aston Martin",
+    "rarityScore": 210.6
+  },
+  {
+    "name": "Lola",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/lola-full.webp"
+    ],
+    "searchKeywords": "Lola",
+    "rarityScore": 75.15
   },
   {
     "name": "Brabham",
@@ -111,7 +165,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/brabham-top-right.webp"
     ],
     "searchKeywords": "Brabham",
-    "rarityScore": 1623.95
+    "rarityScore": 1708.6499999999999
   },
   {
     "name": "Honda",
@@ -121,7 +175,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/honda-right.webp"
     ],
     "searchKeywords": "Honda",
-    "rarityScore": 141.5
+    "rarityScore": 151.0
   },
   {
     "name": "McLaren",
@@ -133,7 +187,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/mclaren-top-right.webp"
     ],
     "searchKeywords": "McLaren",
-    "rarityScore": 8456.55
+    "rarityScore": 8572.6
   },
   {
     "name": "Eagle",
@@ -143,7 +197,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/eagle-right.webp"
     ],
     "searchKeywords": "Eagle",
-    "rarityScore": 26.3
+    "rarityScore": 31.9
   },
   {
     "name": "Matra",
@@ -155,7 +209,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/matra-top-right.webp"
     ],
     "searchKeywords": "Matra",
-    "rarityScore": 311.65
+    "rarityScore": 318.8
+  },
+  {
+    "name": "Surtees",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/surtees-full.webp"
+    ],
+    "searchKeywords": "Surtees",
+    "rarityScore": 63.5
   },
   {
     "name": "Tyrrell",
@@ -167,7 +230,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/tyrrell-top-right.webp"
     ],
     "searchKeywords": "Tyrrell",
-    "rarityScore": 1004.7500000000001
+    "rarityScore": 1068.8500000000001
   },
   {
     "name": "Shadow",
@@ -177,7 +240,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/shadow-right.webp"
     ],
     "searchKeywords": "Shadow",
-    "rarityScore": 97.95
+    "rarityScore": 118.50000000000001
   },
   {
     "name": "Hesketh",
@@ -187,7 +250,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/hesketh-right.webp"
     ],
     "searchKeywords": "Hesketh",
-    "rarityScore": 67.45
+    "rarityScore": 76.6
   },
   {
     "name": "Penske",
@@ -197,7 +260,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/penske-right.webp"
     ],
     "searchKeywords": "Penske",
-    "rarityScore": 36.5
+    "rarityScore": 39.800000000000004
   },
   {
     "name": "Williams",
@@ -209,7 +272,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/williams-top-right.webp"
     ],
     "searchKeywords": "Williams",
-    "rarityScore": 4905.9
+    "rarityScore": 4983.549999999999
+  },
+  {
+    "name": "Copersucar",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/copersucar-full.webp"
+    ],
+    "searchKeywords": "Copersucar",
+    "rarityScore": 25.35
   },
   {
     "name": "Ligier",
@@ -219,7 +291,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/ligier-right.webp"
     ],
     "searchKeywords": "Ligier",
-    "rarityScore": 563.6
+    "rarityScore": 608.9000000000001
   },
   {
     "name": "Wolf",
@@ -229,7 +301,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/wolf-right.webp"
     ],
     "searchKeywords": "Wolf",
-    "rarityScore": 132.75000000000003
+    "rarityScore": 137.55
   },
   {
     "name": "Renault",
@@ -241,7 +313,34 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/renault-top-right.webp"
     ],
     "searchKeywords": "Renault",
-    "rarityScore": 1733.4
+    "rarityScore": 1773.8500000000001
+  },
+  {
+    "name": "Arrows",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/arrows-full.webp"
+    ],
+    "searchKeywords": "Arrows",
+    "rarityScore": 170.95000000000002
+  },
+  {
+    "name": "Fittipaldi",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/fittipaldi-full.webp"
+    ],
+    "searchKeywords": "Fittipaldi",
+    "rarityScore": 25.25
+  },
+  {
+    "name": "Toleman",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/toleman-full.webp"
+    ],
+    "searchKeywords": "Toleman",
+    "rarityScore": 49.6
   },
   {
     "name": "Benetton",
@@ -253,7 +352,43 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/benetton-top-right.webp"
     ],
     "searchKeywords": "Benetton",
-    "rarityScore": 1212.5
+    "rarityScore": 1239.8
+  },
+  {
+    "name": "Dallara",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/dallara-full.webp"
+    ],
+    "searchKeywords": "Dallara",
+    "rarityScore": 36.6
+  },
+  {
+    "name": "Onyx",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/onyx-full.webp"
+    ],
+    "searchKeywords": "Onyx",
+    "rarityScore": 14.4
+  },
+  {
+    "name": "Leyton House",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/leyton-house-full.webp"
+    ],
+    "searchKeywords": "Leyton House",
+    "rarityScore": 17.1
+  },
+  {
+    "name": "Footwork",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/footwork-full.webp"
+    ],
+    "searchKeywords": "Footwork",
+    "rarityScore": 40.1
   },
   {
     "name": "Jordan",
@@ -263,7 +398,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/jordan-right.webp"
     ],
     "searchKeywords": "Jordan",
-    "rarityScore": 264.59999999999997
+    "rarityScore": 300.45
+  },
+  {
+    "name": "Sauber",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/sauber-full.webp"
+    ],
+    "searchKeywords": "Sauber",
+    "rarityScore": 276.1
+  },
+  {
+    "name": "Prost",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/prost-full.webp"
+    ],
+    "searchKeywords": "Prost",
+    "rarityScore": 49.7
   },
   {
     "name": "Stewart",
@@ -273,7 +426,34 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/stewart-right.webp"
     ],
     "searchKeywords": "Stewart",
-    "rarityScore": 60.9
+    "rarityScore": 69.5
+  },
+  {
+    "name": "BAR",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/bar-full.webp"
+    ],
+    "searchKeywords": "BAR",
+    "rarityScore": 183.25
+  },
+  {
+    "name": "Jaguar",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/jaguar-full.webp"
+    ],
+    "searchKeywords": "Jaguar",
+    "rarityScore": 48.25
+  },
+  {
+    "name": "Toyota",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/toyota-full.webp"
+    ],
+    "searchKeywords": "Toyota",
+    "rarityScore": 194.1
   },
   {
     "name": "Red Bull",
@@ -285,7 +465,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/red-bull-top-right.webp"
     ],
     "searchKeywords": "Red Bull",
-    "rarityScore": 5610.1
+    "rarityScore": 5634.750000000001
   },
   {
     "name": "BMW Sauber",
@@ -295,7 +475,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/bmw-sauber-right.webp"
     ],
     "searchKeywords": "BMW Sauber",
-    "rarityScore": 209.2
+    "rarityScore": 215.45
   },
   {
     "name": "Toro Rosso",
@@ -305,7 +485,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/toro-rosso-right.webp"
     ],
     "searchKeywords": "Toro Rosso",
-    "rarityScore": 193.95000000000002
+    "rarityScore": 215.9
+  },
+  {
+    "name": "Force India",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/force-india-full.webp"
+    ],
+    "searchKeywords": "Force India",
+    "rarityScore": 327.25
   },
   {
     "name": "Brawn GP",
@@ -317,7 +506,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/brawn-gp-top-right.webp"
     ],
     "searchKeywords": "Brawn GP",
-    "rarityScore": 261.7
+    "rarityScore": 261.99999999999994
   },
   {
     "name": "Racing Point",
@@ -327,7 +516,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/racing-point-right.webp"
     ],
     "searchKeywords": "Racing Point",
-    "rarityScore": 105.85
+    "rarityScore": 107.7
   },
   {
     "name": "AlphaTauri",
@@ -337,7 +526,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/alphatauri-right.webp"
     ],
     "searchKeywords": "AlphaTauri",
-    "rarityScore": 105.25000000000001
+    "rarityScore": 108.70000000000002
   },
   {
     "name": "Alpine",
@@ -347,6 +536,15 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/alpine-right.webp"
     ],
     "searchKeywords": "Alpine",
-    "rarityScore": 186.65
+    "rarityScore": 193.35000000000002
+  },
+  {
+    "name": "Racing Bulls",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/constructors/racing-bulls-full.webp"
+    ],
+    "searchKeywords": "Racing Bulls",
+    "rarityScore": 35.6
   }
 ]
