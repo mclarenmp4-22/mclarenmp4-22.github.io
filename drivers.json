@@ -9,7 +9,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/juan-manuel-fangio-top-right.webp"
     ],
     "searchKeywords": "Juan Manuel Fangio",
-    "rarityScore": 798.778
+    "rarityScore": 798.678
   },
   {
     "name": "Giuseppe Farina",
@@ -21,7 +21,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/giuseppe-farina-top-right.webp"
     ],
     "searchKeywords": "Giuseppe Farina",
-    "rarityScore": 253.666
+    "rarityScore": 253.46599999999998
   },
   {
     "name": "Luigi Fagioli",
@@ -34,6 +34,42 @@
     "rarityScore": 53.599999999999994
   },
   {
+    "name": "Reg Parnell",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/reg-parnell-full.webp"
+    ],
+    "searchKeywords": "Reg Parnell",
+    "rarityScore": 9.0
+  },
+  {
+    "name": "Louis Rosier",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/louis-rosier-full.webp"
+    ],
+    "searchKeywords": "Louis Rosier",
+    "rarityScore": 21.6
+  },
+  {
+    "name": "Louis Chiron",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/louis-chiron-full.webp"
+    ],
+    "searchKeywords": "Louis Chiron",
+    "rarityScore": 9.25
+  },
+  {
+    "name": "Felice Bonetto",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/felice-bonetto-full.webp"
+    ],
+    "searchKeywords": "Felice Bonetto",
+    "rarityScore": 18.0
+  },
+  {
     "name": "José Froilán González",
     "category": "Race Winners",
     "fragments": [
@@ -41,7 +77,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jose-froilan-gonzalez-right.webp"
     ],
     "searchKeywords": "José Froilán González",
-    "rarityScore": 146.928
+    "rarityScore": 146.428
+  },
+  {
+    "name": "Harry Schell",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/harry-schell-full.webp"
+    ],
+    "searchKeywords": "Harry Schell",
+    "rarityScore": 27.85
+  },
+  {
+    "name": "Robert Manzon",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/robert-manzon-full.webp"
+    ],
+    "searchKeywords": "Robert Manzon",
+    "rarityScore": 19.65
   },
   {
     "name": "Maurice Trintignant",
@@ -51,7 +105,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/maurice-trintignant-right.webp"
     ],
     "searchKeywords": "Maurice Trintignant",
-    "rarityScore": 108.166
+    "rarityScore": 107.46600000000001
+  },
+  {
+    "name": "Peter Whitehead",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/peter-whitehead-full.webp"
+    ],
+    "searchKeywords": "Peter Whitehead",
+    "rarityScore": 8.6
+  },
+  {
+    "name": "Luigi Villoresi",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/luigi-villoresi-full.webp"
+    ],
+    "searchKeywords": "Luigi Villoresi",
+    "rarityScore": 62.85
   },
   {
     "name": "Alberto Ascari",
@@ -63,7 +135,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/alberto-ascari-top-right.webp"
     ],
     "searchKeywords": "Alberto Ascari",
-    "rarityScore": 392.35
+    "rarityScore": 392.25000000000006
+  },
+  {
+    "name": "Rudi Fischer",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/rudi-fischer-full.webp"
+    ],
+    "searchKeywords": "Rudi Fischer",
+    "rarityScore": 15.2
+  },
+  {
+    "name": "Dorino Serafini",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/dorino-serafini-full.webp"
+    ],
+    "searchKeywords": "Dorino Serafini",
+    "rarityScore": 6.749999999999999
   },
   {
     "name": "Piero Taruffi",
@@ -73,7 +163,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/piero-taruffi-right.webp"
     ],
     "searchKeywords": "Piero Taruffi",
-    "rarityScore": 51.35
+    "rarityScore": 51.05
   },
   {
     "name": "Stirling Moss",
@@ -83,7 +173,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/stirling-moss-right.webp"
     ],
     "searchKeywords": "Stirling Moss",
-    "rarityScore": 439.3
+    "rarityScore": 439.2
+  },
+  {
+    "name": "Onofre Marimon",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/onofre-marimon-full.webp"
+    ],
+    "searchKeywords": "Onofre Marimon",
+    "rarityScore": 15.328
+  },
+  {
+    "name": "Jean Behra",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jean-behra-full.webp"
+    ],
+    "searchKeywords": "Jean Behra",
+    "rarityScore": 73.05
   },
   {
     "name": "Peter Collins",
@@ -93,7 +201,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/peter-collins-right.webp"
     ],
     "searchKeywords": "Peter Collins",
-    "rarityScore": 99.2
+    "rarityScore": 99.10000000000001
   },
   {
     "name": "Mike Hawthorn",
@@ -105,7 +213,52 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mike-hawthorn-top-right.webp"
     ],
     "searchKeywords": "Mike Hawthorn",
-    "rarityScore": 217.578
+    "rarityScore": 217.47799999999998
+  },
+  {
+    "name": "Paul Frere",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/paul-frere-full.webp"
+    ],
+    "searchKeywords": "Paul Frere",
+    "rarityScore": 9.85
+  },
+  {
+    "name": "Roy Salvadori",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/roy-salvadori-full.webp"
+    ],
+    "searchKeywords": "Roy Salvadori",
+    "rarityScore": 23.150000000000002
+  },
+  {
+    "name": "Carlos Menditeguy",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/carlos-menditeguy-full.webp"
+    ],
+    "searchKeywords": "Carlos Menditeguy",
+    "rarityScore": 9.55
+  },
+  {
+    "name": "Hans Herrmann",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/hans-herrmann-full.webp"
+    ],
+    "searchKeywords": "Hans Herrmann",
+    "rarityScore": 10.75
+  },
+  {
+    "name": "Umberto Maglioli",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/umberto-maglioli-full.webp"
+    ],
+    "searchKeywords": "Umberto Maglioli",
+    "rarityScore": 14.216000000000001
   },
   {
     "name": "Luigi Musso",
@@ -118,6 +271,51 @@
     "rarityScore": 64.6
   },
   {
+    "name": "Karl Kling",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/karl-kling-full.webp"
+    ],
+    "searchKeywords": "Karl Kling",
+    "rarityScore": 17.200000000000003
+  },
+  {
+    "name": "Ron Flockhart",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/ron-flockhart-full.webp"
+    ],
+    "searchKeywords": "Ron Flockhart",
+    "rarityScore": 9.25
+  },
+  {
+    "name": "Eugenio Castellotti",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/eugenio-castellotti-full.webp"
+    ],
+    "searchKeywords": "Eugenio Castellotti",
+    "rarityScore": 30.099999999999998
+  },
+  {
+    "name": "Cesare Perdisa",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/cesare-perdisa-full.webp"
+    ],
+    "searchKeywords": "Cesare Perdisa",
+    "rarityScore": 14.25
+  },
+  {
+    "name": "Olivier Gendebien",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/olivier-gendebien-full.webp"
+    ],
+    "searchKeywords": "Olivier Gendebien",
+    "rarityScore": 18.05
+  },
+  {
     "name": "Jack Brabham",
     "category": "World Champions",
     "fragments": [
@@ -127,7 +325,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jack-brabham-top-right.webp"
     ],
     "searchKeywords": "Jack Brabham",
-    "rarityScore": 544.0
+    "rarityScore": 543.9000000000001
   },
   {
     "name": "Tony Brooks",
@@ -137,7 +335,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/tony-brooks-right.webp"
     ],
     "searchKeywords": "Tony Brooks",
-    "rarityScore": 157.85
+    "rarityScore": 157.65
+  },
+  {
+    "name": "Alfonso De Portago",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/alfonso-de-portago-full.webp"
+    ],
+    "searchKeywords": "Alfonso De Portago",
+    "rarityScore": 7.7
   },
   {
     "name": "Jo Bonnier",
@@ -147,7 +354,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jo-bonnier-right.webp"
     ],
     "searchKeywords": "Jo Bonnier",
-    "rarityScore": 47.050000000000004
+    "rarityScore": 45.95
   },
   {
     "name": "Wolfgang Von Trips",
@@ -157,7 +364,34 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/wolfgang-von-trips-right.webp"
     ],
     "searchKeywords": "Wolfgang Von Trips",
-    "rarityScore": 77.0
+    "rarityScore": 76.9
+  },
+  {
+    "name": "Masten Gregory",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/masten-gregory-full.webp"
+    ],
+    "searchKeywords": "Masten Gregory",
+    "rarityScore": 28.799999999999997
+  },
+  {
+    "name": "Stuart Lewis-Evans",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/stuart-lewis-evans-full.webp"
+    ],
+    "searchKeywords": "Stuart Lewis-Evans",
+    "rarityScore": 28.349999999999998
+  },
+  {
+    "name": "Cliff Allison",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/cliff-allison-full.webp"
+    ],
+    "searchKeywords": "Cliff Allison",
+    "rarityScore": 10.749999999999998
   },
   {
     "name": "Graham Hill",
@@ -169,7 +403,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/graham-hill-top-right.webp"
     ],
     "searchKeywords": "Graham Hill",
-    "rarityScore": 562.2499999999999
+    "rarityScore": 562.05
   },
   {
     "name": "Phil Hill",
@@ -181,7 +415,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/phil-hill-top-right.webp"
     ],
     "searchKeywords": "Phil Hill",
-    "rarityScore": 212.04999999999998
+    "rarityScore": 211.35
   },
   {
     "name": "Bruce McLaren",
@@ -191,7 +425,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/bruce-mclaren-right.webp"
     ],
     "searchKeywords": "Bruce McLaren",
-    "rarityScore": 256.95000000000005
+    "rarityScore": 256.65000000000003
+  },
+  {
+    "name": "Lucien Bianchi",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/lucien-bianchi-full.webp"
+    ],
+    "searchKeywords": "Lucien Bianchi",
+    "rarityScore": 10.15
   },
   {
     "name": "Innes Ireland",
@@ -201,7 +444,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/innes-ireland-right.webp"
     ],
     "searchKeywords": "Innes Ireland",
-    "rarityScore": 51.65
+    "rarityScore": 51.25
   },
   {
     "name": "Dan Gurney",
@@ -211,7 +454,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/dan-gurney-right.webp"
     ],
     "searchKeywords": "Dan Gurney",
-    "rarityScore": 210.65
+    "rarityScore": 210.25
+  },
+  {
+    "name": "Trevor Taylor",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/trevor-taylor-full.webp"
+    ],
+    "searchKeywords": "Trevor Taylor",
+    "rarityScore": 12.2
+  },
+  {
+    "name": "Mike Parkes",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mike-parkes-full.webp"
+    ],
+    "searchKeywords": "Mike Parkes",
+    "rarityScore": 21.4
   },
   {
     "name": "John Surtees",
@@ -223,7 +484,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/john-surtees-top-right.webp"
     ],
     "searchKeywords": "John Surtees",
-    "rarityScore": 327.1
+    "rarityScore": 326.20000000000005
   },
   {
     "name": "Richie Ginther",
@@ -233,7 +494,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/richie-ginther-right.webp"
     ],
     "searchKeywords": "Richie Ginther",
-    "rarityScore": 124.00000000000001
+    "rarityScore": 123.60000000000001
   },
   {
     "name": "Jim Clark",
@@ -248,6 +509,15 @@
     "rarityScore": 739.3
   },
   {
+    "name": "Willy Mairesse",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/willy-mairesse-full.webp"
+    ],
+    "searchKeywords": "Willy Mairesse",
+    "rarityScore": 9.3
+  },
+  {
     "name": "Lorenzo Bandini",
     "category": "Race Winners",
     "fragments": [
@@ -255,7 +525,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/lorenzo-bandini-right.webp"
     ],
     "searchKeywords": "Lorenzo Bandini",
-    "rarityScore": 82.14999999999999
+    "rarityScore": 81.64999999999999
   },
   {
     "name": "Giancarlo Baghetti",
@@ -265,7 +535,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/giancarlo-baghetti-right.webp"
     ],
     "searchKeywords": "Giancarlo Baghetti",
-    "rarityScore": 23.150000000000002
+    "rarityScore": 22.35
+  },
+  {
+    "name": "Tony Maggs",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/tony-maggs-full.webp"
+    ],
+    "searchKeywords": "Tony Maggs",
+    "rarityScore": 27.15
   },
   {
     "name": "Pedro Rodriguez",
@@ -275,7 +554,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/pedro-rodriguez-right.webp"
     ],
     "searchKeywords": "Pedro Rodriguez",
-    "rarityScore": 85.2
+    "rarityScore": 84.7
   },
   {
     "name": "Jo Siffert",
@@ -285,7 +564,34 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jo-siffert-right.webp"
     ],
     "searchKeywords": "Jo Siffert",
-    "rarityScore": 95.64999999999999
+    "rarityScore": 95.55
+  },
+  {
+    "name": "Peter Arundell",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/peter-arundell-full.webp"
+    ],
+    "searchKeywords": "Peter Arundell",
+    "rarityScore": 16.35
+  },
+  {
+    "name": "John Love",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/john-love-full.webp"
+    ],
+    "searchKeywords": "John Love",
+    "rarityScore": 8.7
+  },
+  {
+    "name": "Chris Amon",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/chris-amon-full.webp"
+    ],
+    "searchKeywords": "Chris Amon",
+    "rarityScore": 126.44999999999999
   },
   {
     "name": "Ludovico Scarfiotti",
@@ -295,7 +601,34 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/ludovico-scarfiotti-right.webp"
     ],
     "searchKeywords": "Ludovico Scarfiotti",
-    "rarityScore": 21.599999999999998
+    "rarityScore": 21.2
+  },
+  {
+    "name": "Mike Hailwood",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mike-hailwood-full.webp"
+    ],
+    "searchKeywords": "Mike Hailwood",
+    "rarityScore": 25.450000000000003
+  },
+  {
+    "name": "Bob Anderson",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/bob-anderson-full.webp"
+    ],
+    "searchKeywords": "Bob Anderson",
+    "rarityScore": 11.7
+  },
+  {
+    "name": "Mike Spence",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mike-spence-full.webp"
+    ],
+    "searchKeywords": "Mike Spence",
+    "rarityScore": 17.1
   },
   {
     "name": "Peter Revson",
@@ -305,7 +638,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/peter-revson-right.webp"
     ],
     "searchKeywords": "Peter Revson",
-    "rarityScore": 90.55000000000001
+    "rarityScore": 90.45
+  },
+  {
+    "name": "Richard Attwood",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/richard-attwood-full.webp"
+    ],
+    "searchKeywords": "Richard Attwood",
+    "rarityScore": 10.999999999999998
   },
   {
     "name": "Jochen Rindt",
@@ -317,7 +659,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jochen-rindt-top-right.webp"
     ],
     "searchKeywords": "Jochen Rindt",
-    "rarityScore": 249.3
+    "rarityScore": 249.1
   },
   {
     "name": "Jackie Stewart",
@@ -329,7 +671,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jackie-stewart-top-right.webp"
     ],
     "searchKeywords": "Jackie Stewart",
-    "rarityScore": 783.55
+    "rarityScore": 783.4499999999999
   },
   {
     "name": "Denny Hulme",
@@ -351,7 +693,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jacky-ickx-right.webp"
     ],
     "searchKeywords": "Jacky Ickx",
-    "rarityScore": 356.4
+    "rarityScore": 356.1
+  },
+  {
+    "name": "Piers Courage",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/piers-courage-full.webp"
+    ],
+    "searchKeywords": "Piers Courage",
+    "rarityScore": 20.35
   },
   {
     "name": "Jean-Pierre Beltoise",
@@ -361,7 +712,34 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jean-pierre-beltoise-right.webp"
     ],
     "searchKeywords": "Jean-Pierre Beltoise",
-    "rarityScore": 87.2
+    "rarityScore": 86.8
+  },
+  {
+    "name": "Johnny Servoz-Gavin",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/johnny-servoz-gavin-full.webp"
+    ],
+    "searchKeywords": "Johnny Servoz-Gavin",
+    "rarityScore": 9.85
+  },
+  {
+    "name": "Jackie Oliver",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jackie-oliver-full.webp"
+    ],
+    "searchKeywords": "Jackie Oliver",
+    "rarityScore": 22.35
+  },
+  {
+    "name": "Brian Redman",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/brian-redman-full.webp"
+    ],
+    "searchKeywords": "Brian Redman",
+    "rarityScore": 9.75
   },
   {
     "name": "Mario Andretti",
@@ -373,7 +751,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mario-andretti-top-right.webp"
     ],
     "searchKeywords": "Mario Andretti",
-    "rarityScore": 414.95
+    "rarityScore": 414.05
+  },
+  {
+    "name": "Henri Pescarolo",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/henri-pescarolo-full.webp"
+    ],
+    "searchKeywords": "Henri Pescarolo",
+    "rarityScore": 17.75
+  },
+  {
+    "name": "Rolf Stommelen",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/rolf-stommelen-full.webp"
+    ],
+    "searchKeywords": "Rolf Stommelen",
+    "rarityScore": 18.1
   },
   {
     "name": "François Cevert",
@@ -403,7 +799,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/peter-gethin-right.webp"
     ],
     "searchKeywords": "Peter Gethin",
-    "rarityScore": 23.049999999999997
+    "rarityScore": 22.849999999999998
   },
   {
     "name": "Clay Regazzoni",
@@ -413,7 +809,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/clay-regazzoni-right.webp"
     ],
     "searchKeywords": "Clay Regazzoni",
-    "rarityScore": 308.9
+    "rarityScore": 308.79999999999995
+  },
+  {
+    "name": "Tim Schenken",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/tim-schenken-full.webp"
+    ],
+    "searchKeywords": "Tim Schenken",
+    "rarityScore": 12.85
   },
   {
     "name": "Emerson Fittipaldi",
@@ -428,6 +833,24 @@
     "rarityScore": 511.45
   },
   {
+    "name": "Reine Wisell",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/reine-wisell-full.webp"
+    ],
+    "searchKeywords": "Reine Wisell",
+    "rarityScore": 12.100000000000001
+  },
+  {
+    "name": "Jean-Pierre Jarier",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jean-pierre-jarier-full.webp"
+    ],
+    "searchKeywords": "Jean-Pierre Jarier",
+    "rarityScore": 62.05
+  },
+  {
     "name": "Niki Lauda",
     "category": "World Champions",
     "fragments": [
@@ -437,7 +860,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/niki-lauda-top-right.webp"
     ],
     "searchKeywords": "Niki Lauda",
-    "rarityScore": 891.7
+    "rarityScore": 891.3000000000001
   },
   {
     "name": "Carlos Pace",
@@ -447,7 +870,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/carlos-pace-right.webp"
     ],
     "searchKeywords": "Carlos Pace",
-    "rarityScore": 74.35
+    "rarityScore": 74.15
+  },
+  {
+    "name": "Mark Donohue",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mark-donohue-full.webp"
+    ],
+    "searchKeywords": "Mark Donohue",
+    "rarityScore": 9.8
   },
   {
     "name": "Carlos Reutemann",
@@ -457,7 +889,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/carlos-reutemann-right.webp"
     ],
     "searchKeywords": "Carlos Reutemann",
-    "rarityScore": 507.05
+    "rarityScore": 506.95000000000005
   },
   {
     "name": "Patrick Depailler",
@@ -479,7 +911,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jody-scheckter-top-right.webp"
     ],
     "searchKeywords": "Jody Scheckter",
-    "rarityScore": 407.59999999999997
+    "rarityScore": 407.5
+  },
+  {
+    "name": "George Follmer",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/george-follmer-full.webp"
+    ],
+    "searchKeywords": "George Follmer",
+    "rarityScore": 8.899999999999999
   },
   {
     "name": "James Hunt",
@@ -491,7 +932,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/james-hunt-top-right.webp"
     ],
     "searchKeywords": "James Hunt",
-    "rarityScore": 389.8
+    "rarityScore": 389.7
   },
   {
     "name": "John Watson",
@@ -501,7 +942,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/john-watson-right.webp"
     ],
     "searchKeywords": "John Watson",
-    "rarityScore": 238.8
+    "rarityScore": 238.20000000000002
   },
   {
     "name": "Jochen Mass",
@@ -511,7 +952,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jochen-mass-right.webp"
     ],
     "searchKeywords": "Jochen Mass",
-    "rarityScore": 89.35000000000001
+    "rarityScore": 89.05000000000001
+  },
+  {
+    "name": "Hans Joachim Stuck",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/hans-joachim-stuck-full.webp"
+    ],
+    "searchKeywords": "Hans Joachim Stuck",
+    "rarityScore": 29.650000000000002
   },
   {
     "name": "Vittorio Brambilla",
@@ -521,7 +971,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/vittorio-brambilla-right.webp"
     ],
     "searchKeywords": "Vittorio Brambilla",
-    "rarityScore": 36.5
+    "rarityScore": 36.400000000000006
+  },
+  {
+    "name": "Tom Pryce",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/tom-pryce-full.webp"
+    ],
+    "searchKeywords": "Tom Pryce",
+    "rarityScore": 27.6
   },
   {
     "name": "Jean-Pierre Jabouille",
@@ -531,7 +990,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jean-pierre-jabouille-right.webp"
     ],
     "searchKeywords": "Jean-Pierre Jabouille",
-    "rarityScore": 78.25
+    "rarityScore": 77.65
   },
   {
     "name": "Jacques Laffite",
@@ -541,7 +1000,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jacques-laffite-right.webp"
     ],
     "searchKeywords": "Jacques Laffite",
-    "rarityScore": 363.15000000000003
+    "rarityScore": 363.05
   },
   {
     "name": "Alan Jones",
@@ -573,7 +1032,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/riccardo-patrese-right.webp"
     ],
     "searchKeywords": "Riccardo Patrese",
-    "rarityScore": 420.79999999999995
+    "rarityScore": 420.7
   },
   {
     "name": "Patrick Tambay",
@@ -583,7 +1042,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/patrick-tambay-right.webp"
     ],
     "searchKeywords": "Patrick Tambay",
-    "rarityScore": 152.39999999999998
+    "rarityScore": 152.2
   },
   {
     "name": "Gilles Villeneuve",
@@ -596,6 +1055,15 @@
     "rarityScore": 180.5
   },
   {
+    "name": "Bruno Giacomelli",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/bruno-giacomelli-full.webp"
+    ],
+    "searchKeywords": "Bruno Giacomelli",
+    "rarityScore": 26.65
+  },
+  {
     "name": "Didier Pironi",
     "category": "Race Winners",
     "fragments": [
@@ -606,6 +1074,15 @@
     "rarityScore": 160.79999999999998
   },
   {
+    "name": "Eddie Cheever",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/eddie-cheever-full.webp"
+    ],
+    "searchKeywords": "Eddie Cheever",
+    "rarityScore": 89.45
+  },
+  {
     "name": "René Arnoux",
     "category": "Race Winners",
     "fragments": [
@@ -613,7 +1090,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/rene-arnoux-right.webp"
     ],
     "searchKeywords": "René Arnoux",
-    "rarityScore": 362.05
+    "rarityScore": 361.75
   },
   {
     "name": "Keke Rosberg",
@@ -625,7 +1102,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/keke-rosberg-top-right.webp"
     ],
     "searchKeywords": "Keke Rosberg",
-    "rarityScore": 255.9
+    "rarityScore": 255.70000000000002
   },
   {
     "name": "Nelson Piquet",
@@ -637,7 +1114,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/nelson-piquet-top-right.webp"
     ],
     "searchKeywords": "Nelson Piquet",
-    "rarityScore": 925.2
+    "rarityScore": 925.1
   },
   {
     "name": "Elio De Angelis",
@@ -647,7 +1124,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/elio-de-angelis-right.webp"
     ],
     "searchKeywords": "Elio De Angelis",
-    "rarityScore": 131.4
+    "rarityScore": 131.3
   },
   {
     "name": "Alain Prost",
@@ -662,6 +1139,15 @@
     "rarityScore": 1617.2
   },
   {
+    "name": "Stefan Johansson",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/stefan-johansson-full.webp"
+    ],
+    "searchKeywords": "Stefan Johansson",
+    "rarityScore": 105.19999999999999
+  },
+  {
     "name": "Nigel Mansell",
     "category": "World Champions",
     "fragments": [
@@ -671,7 +1157,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/nigel-mansell-top-right.webp"
     ],
     "searchKeywords": "Nigel Mansell",
-    "rarityScore": 990.15
+    "rarityScore": 990.05
+  },
+  {
+    "name": "Andrea De Cesaris",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/andrea-de-cesaris-full.webp"
+    ],
+    "searchKeywords": "Andrea De Cesaris",
+    "rarityScore": 79.3
   },
   {
     "name": "Michele Alboreto",
@@ -681,7 +1176,34 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/michele-alboreto-right.webp"
     ],
     "searchKeywords": "Michele Alboreto",
-    "rarityScore": 268.85
+    "rarityScore": 268.65000000000003
+  },
+  {
+    "name": "Derek Warwick",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/derek-warwick-full.webp"
+    ],
+    "searchKeywords": "Derek Warwick",
+    "rarityScore": 62.400000000000006
+  },
+  {
+    "name": "Teo Fabi",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/teo-fabi-full.webp"
+    ],
+    "searchKeywords": "Teo Fabi",
+    "rarityScore": 43.75
+  },
+  {
+    "name": "Roberto Moreno",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/roberto-moreno-full.webp"
+    ],
+    "searchKeywords": "Roberto Moreno",
+    "rarityScore": 20.3
   },
   {
     "name": "Thierry Boutsen",
@@ -692,6 +1214,15 @@
     ],
     "searchKeywords": "Thierry Boutsen",
     "rarityScore": 176.5
+  },
+  {
+    "name": "Martin Brundle",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/martin-brundle-full.webp"
+    ],
+    "searchKeywords": "Martin Brundle",
+    "rarityScore": 98.35
   },
   {
     "name": "Ayrton Senna",
@@ -713,7 +1244,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/gerhard-berger-right.webp"
     ],
     "searchKeywords": "Gerhard Berger",
-    "rarityScore": 562.65
+    "rarityScore": 562.55
+  },
+  {
+    "name": "Philippe Streiff",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/philippe-streiff-full.webp"
+    ],
+    "searchKeywords": "Philippe Streiff",
+    "rarityScore": 16.25
+  },
+  {
+    "name": "Ivan Capelli",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/ivan-capelli-full.webp"
+    ],
+    "searchKeywords": "Ivan Capelli",
+    "rarityScore": 38.699999999999996
   },
   {
     "name": "Alessandro Nannini",
@@ -724,6 +1273,43 @@
     ],
     "searchKeywords": "Alessandro Nannini",
     "rarityScore": 88.60000000000001
+  },
+  {
+    "name": "Nicola Larini",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/nicola-larini-full.webp"
+    ],
+    "searchKeywords": "Nicola Larini",
+    "rarityScore": 18.65
+  },
+  {
+    "name": "Aguri Suzuki",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/aguri-suzuki-1-full.webp",
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/aguri-suzuki-2-full.webp"
+    ],
+    "searchKeywords": "Aguri Suzuki",
+    "rarityScore": 20.7
+  },
+  {
+    "name": "Stefano Modena",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/stefano-modena-full.webp"
+    ],
+    "searchKeywords": "Stefano Modena",
+    "rarityScore": 27.55
+  },
+  {
+    "name": "Mauricio Gugelmin",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mauricio-gugelmin-full.webp"
+    ],
+    "searchKeywords": "Mauricio Gugelmin",
+    "rarityScore": 19.9
   },
   {
     "name": "Johnny Herbert",
@@ -744,6 +1330,42 @@
     ],
     "searchKeywords": "Jean Alesi",
     "rarityScore": 291.40000000000003
+  },
+  {
+    "name": "Eric Bernard",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/eric-bernard-full.webp"
+    ],
+    "searchKeywords": "Eric Bernard",
+    "rarityScore": 15.149999999999999
+  },
+  {
+    "name": "Jj Lehto",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jj-lehto-full.webp"
+    ],
+    "searchKeywords": "Jj Lehto",
+    "rarityScore": 18.5
+  },
+  {
+    "name": "Gianni Morbidelli",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/gianni-morbidelli-full.webp"
+    ],
+    "searchKeywords": "Gianni Morbidelli",
+    "rarityScore": 18.1
+  },
+  {
+    "name": "Mark Blundell",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mark-blundell-full.webp"
+    ],
+    "searchKeywords": "Mark Blundell",
+    "rarityScore": 33.85
   },
   {
     "name": "Mika Hakkinen",
@@ -782,6 +1404,15 @@
     "rarityScore": 697.2
   },
   {
+    "name": "Michael Andretti",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/michael-andretti-full.webp"
+    ],
+    "searchKeywords": "Michael Andretti",
+    "rarityScore": 9.350000000000001
+  },
+  {
     "name": "Rubens Barrichello",
     "category": "Race Winners",
     "fragments": [
@@ -799,7 +1430,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/eddie-irvine-right.webp"
     ],
     "searchKeywords": "Eddie Irvine",
-    "rarityScore": 256.2
+    "rarityScore": 256.09999999999997
+  },
+  {
+    "name": "Jos Verstappen",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jos-verstappen-full.webp"
+    ],
+    "searchKeywords": "Jos Verstappen",
+    "rarityScore": 31.5
   },
   {
     "name": "Olivier Panis",
@@ -819,7 +1459,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/heinz-harald-frentzen-right.webp"
     ],
     "searchKeywords": "Heinz-Harald Frentzen",
-    "rarityScore": 207.75000000000003
+    "rarityScore": 207.55
   },
   {
     "name": "David Coulthard",
@@ -829,7 +1469,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/david-coulthard-right.webp"
     ],
     "searchKeywords": "David Coulthard",
-    "rarityScore": 712.0500000000001
+    "rarityScore": 711.95
+  },
+  {
+    "name": "Mika Salo",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mika-salo-full.webp"
+    ],
+    "searchKeywords": "Mika Salo",
+    "rarityScore": 35.150000000000006
   },
   {
     "name": "Jacques Villeneuve",
@@ -841,7 +1490,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jacques-villeneuve-top-right.webp"
     ],
     "searchKeywords": "Jacques Villeneuve",
-    "rarityScore": 416.15
+    "rarityScore": 416.05
   },
   {
     "name": "Giancarlo Fisichella",
@@ -851,7 +1500,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/giancarlo-fisichella-right.webp"
     ],
     "searchKeywords": "Giancarlo Fisichella",
-    "rarityScore": 255.65
+    "rarityScore": 255.45000000000002
   },
   {
     "name": "Ralf Schumacher",
@@ -861,7 +1510,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/ralf-schumacher-right.webp"
     ],
     "searchKeywords": "Ralf Schumacher",
-    "rarityScore": 348.1
+    "rarityScore": 347.90000000000003
   },
   {
     "name": "Jarno Trulli",
@@ -871,7 +1520,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jarno-trulli-right.webp"
     ],
     "searchKeywords": "Jarno Trulli",
-    "rarityScore": 185.40000000000003
+    "rarityScore": 185.3
+  },
+  {
+    "name": "Alexander Wurz",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/alexander-wurz-full.webp"
+    ],
+    "searchKeywords": "Alexander Wurz",
+    "rarityScore": 38.6
+  },
+  {
+    "name": "Pedro De La Rosa",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/pedro-de-la-rosa-full.webp"
+    ],
+    "searchKeywords": "Pedro De La Rosa",
+    "rarityScore": 29.55
   },
   {
     "name": "Jenson Button",
@@ -883,7 +1550,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/jenson-button-top-right.webp"
     ],
     "searchKeywords": "Jenson Button",
-    "rarityScore": 812.4499999999999
+    "rarityScore": 812.3499999999999
+  },
+  {
+    "name": "Nick Heidfeld",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/nick-heidfeld-full.webp"
+    ],
+    "searchKeywords": "Nick Heidfeld",
+    "rarityScore": 163.00000000000003
   },
   {
     "name": "Juan-Pablo Montoya",
@@ -893,7 +1569,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/juan-pablo-montoya-right.webp"
     ],
     "searchKeywords": "Juan-Pablo Montoya",
-    "rarityScore": 397.15
+    "rarityScore": 397.04999999999995
   },
   {
     "name": "Kimi Räikkönen",
@@ -905,7 +1581,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/kimi-raikkonen-top-right.webp"
     ],
     "searchKeywords": "Kimi Räikkönen",
-    "rarityScore": 1379.35
+    "rarityScore": 1379.15
   },
   {
     "name": "Fernando Alonso",
@@ -917,7 +1593,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/fernando-alonso-top-right.webp"
     ],
     "searchKeywords": "Fernando Alonso",
-    "rarityScore": 1670.1999999999998
+    "rarityScore": 1671.2
   },
   {
     "name": "Felipe Massa",
@@ -927,7 +1603,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/felipe-massa-right.webp"
     ],
     "searchKeywords": "Felipe Massa",
-    "rarityScore": 718.2
+    "rarityScore": 717.9
+  },
+  {
+    "name": "Takuma Sato",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/takuma-sato-full.webp"
+    ],
+    "searchKeywords": "Takuma Sato",
+    "rarityScore": 28.75
   },
   {
     "name": "Mark Webber",
@@ -937,7 +1622,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/mark-webber-right.webp"
     ],
     "searchKeywords": "Mark Webber",
-    "rarityScore": 655.5500000000001
+    "rarityScore": 655.35
+  },
+  {
+    "name": "Timo Glock",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/timo-glock-full.webp"
+    ],
+    "searchKeywords": "Timo Glock",
+    "rarityScore": 42.75000000000001
+  },
+  {
+    "name": "Tiago Monteiro",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/tiago-monteiro-full.webp"
+    ],
+    "searchKeywords": "Tiago Monteiro",
+    "rarityScore": 12.950000000000001
   },
   {
     "name": "Nico Rosberg",
@@ -971,7 +1674,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/sebastian-vettel-top-right.webp"
     ],
     "searchKeywords": "Sebastian Vettel",
-    "rarityScore": 2340.5
+    "rarityScore": 2340.4
   },
   {
     "name": "Lewis Hamilton",
@@ -983,7 +1686,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/lewis-hamilton-top-right.webp"
     ],
     "searchKeywords": "Lewis Hamilton",
-    "rarityScore": 4086.5
+    "rarityScore": 4143.0
   },
   {
     "name": "Heikki Kovalainen",
@@ -994,6 +1697,51 @@
     ],
     "searchKeywords": "Heikki Kovalainen",
     "rarityScore": 77.5
+  },
+  {
+    "name": "Nelsinho Piquet",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/nelsinho-piquet-full.webp"
+    ],
+    "searchKeywords": "Nelsinho Piquet",
+    "rarityScore": 14.000000000000002
+  },
+  {
+    "name": "Romain Grosjean",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/romain-grosjean-full.webp"
+    ],
+    "searchKeywords": "Romain Grosjean",
+    "rarityScore": 165.25
+  },
+  {
+    "name": "Kamui Kobayashi",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/kamui-kobayashi-full.webp"
+    ],
+    "searchKeywords": "Kamui Kobayashi",
+    "rarityScore": 42.35
+  },
+  {
+    "name": "Nico Hülkenberg",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/nico-hulkenberg-full.webp"
+    ],
+    "searchKeywords": "Nico Hülkenberg",
+    "rarityScore": 175.70000000000002
+  },
+  {
+    "name": "Vitaly Petrov",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/vitaly-petrov-full.webp"
+    ],
+    "searchKeywords": "Vitaly Petrov",
+    "rarityScore": 27.4
   },
   {
     "name": "Pastor Maldonado",
@@ -1013,7 +1761,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/sergio-perez-right.webp"
     ],
     "searchKeywords": "Sergio Perez",
-    "rarityScore": 681.2500000000001
+    "rarityScore": 681.95
   },
   {
     "name": "Daniel Ricciardo",
@@ -1023,7 +1771,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/daniel-ricciardo-right.webp"
     ],
     "searchKeywords": "Daniel Ricciardo",
-    "rarityScore": 593.3999999999999
+    "rarityScore": 593.3
   },
   {
     "name": "Valtteri Bottas",
@@ -1033,7 +1781,25 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/valtteri-bottas-right.webp"
     ],
     "searchKeywords": "Valtteri Bottas",
-    "rarityScore": 1009.8000000000001
+    "rarityScore": 1010.6000000000001
+  },
+  {
+    "name": "Daniil Kvyat",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/daniil-kvyat-full.webp"
+    ],
+    "searchKeywords": "Daniil Kvyat",
+    "rarityScore": 75.10000000000001
+  },
+  {
+    "name": "Kevin Magnussen",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/kevin-magnussen-full.webp"
+    ],
+    "searchKeywords": "Kevin Magnussen",
+    "rarityScore": 74.25
   },
   {
     "name": "Max Verstappen",
@@ -1045,7 +1811,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/max-verstappen-top-right.webp"
     ],
     "searchKeywords": "Max Verstappen",
-    "rarityScore": 2565.7999999999997
+    "rarityScore": 2597.7000000000003
   },
   {
     "name": "Esteban Ocon",
@@ -1055,7 +1821,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/esteban-ocon-right.webp"
     ],
     "searchKeywords": "Esteban Ocon",
-    "rarityScore": 158.65
+    "rarityScore": 159.95
   },
   {
     "name": "Carlos Sainz",
@@ -1065,7 +1831,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/carlos-sainz-right.webp"
     ],
     "searchKeywords": "Carlos Sainz",
-    "rarityScore": 550.35
+    "rarityScore": 551.55
   },
   {
     "name": "Charles Leclerc",
@@ -1075,7 +1841,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/charles-leclerc-right.webp"
     ],
     "searchKeywords": "Charles Leclerc",
-    "rarityScore": 913.45
+    "rarityScore": 949.75
+  },
+  {
+    "name": "Lance Stroll",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/lance-stroll-full.webp"
+    ],
+    "searchKeywords": "Lance Stroll",
+    "rarityScore": 118.55000000000001
   },
   {
     "name": "Pierre Gasly",
@@ -1085,7 +1860,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/pierre-gasly-right.webp"
     ],
     "searchKeywords": "Pierre Gasly",
-    "rarityScore": 162.0
+    "rarityScore": 174.1
   },
   {
     "name": "George Russell",
@@ -1095,7 +1870,7 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/george-russell-right.webp"
     ],
     "searchKeywords": "George Russell",
-    "rarityScore": 511.6
+    "rarityScore": 571.8000000000001
   },
   {
     "name": "Lando Norris",
@@ -1107,7 +1882,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/lando-norris-top-right.webp"
     ],
     "searchKeywords": "Lando Norris",
-    "rarityScore": 812.85
+    "rarityScore": 830.1500000000001
+  },
+  {
+    "name": "Alexander Albon",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/alexander-albon-full.webp"
+    ],
+    "searchKeywords": "Alexander Albon",
+    "rarityScore": 96.3
   },
   {
     "name": "Oscar Piastri",
@@ -1117,7 +1901,16 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/oscar-piastri-right.webp"
     ],
     "searchKeywords": "Oscar Piastri",
-    "rarityScore": 470.29999999999995
+    "rarityScore": 481.00000000000006
+  },
+  {
+    "name": "Isack Hadjar",
+    "category": "Podium Finishers",
+    "fragments": [
+      "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/isack-hadjar-full.webp"
+    ],
+    "searchKeywords": "Isack Hadjar",
+    "rarityScore": 33.400000000000006
   },
   {
     "name": "Kimi Antonelli",
@@ -1127,6 +1920,6 @@
       "https://cdn.jsdelivr.net/gh/mclarenmp4-22/mclarenmp4-22.github.io/drivers/kimi-antonelli-right.webp"
     ],
     "searchKeywords": "Kimi Antonelli",
-    "rarityScore": 142.8
+    "rarityScore": 235.00000000000003
   }
 ]
